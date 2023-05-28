@@ -1,64 +1,32 @@
 package hust.soict.oop.scraper.entities;
-import java.util.*;
+//import java.util.*;
 
 public class Event {
 	private String age;
 	private String dynasty;
-	private String eventName;
-	private String from;
-	private String to;
-	private String location;
-	private String description;
-	private String image;
-	private List<String> historicalFigures;
-	private List<String> relatedEvents;
-
-    // Constructor
-	public Event(String age, String dynasty, String eventName, String from, String to, String location,
-			String description, String image, List<String> historicalFigures, List<String> relatedEvents) {
+	private String event;
+	private String date;
+//	private String to;
+//	private String location;
+//	private String description;
+//	private String image;
+//	private List<String> historicalFigures;
+//	private List<String> relatedEvents;
+	
+	public Event(String age, String dynasty, String event, String date) {
 		super();
 		this.age = age;
 		this.dynasty = dynasty;
-		this.eventName = eventName;
-		this.from = from;
-		this.to = to;
-		this.location = location;
-		this.description = description;
-		this.image = image;
-		this.historicalFigures = historicalFigures;
-		this.relatedEvents = relatedEvents;
+		this.event = event;
+		this.date = date;
+	}
+	
+	public String getAge() {
+		return age;
 	}
 
-	public String geteventName() {
-		return eventName;
-	}
-
-	public void seteventName(String eventName) {
-		this.eventName = eventName;
-	}
-
-	public String getFrom() {
-		return from;
-	}
-
-	public void setFrom(String from) {
-		this.from = from;
-	}
-
-	public String getTo() {
-		return to;
-	}
-
-	public void setTo(String to) {
-		this.to = to;
-	}
-
-	public String getLocation() {
-		return location;
-	}
-
-	public void setLocation(String location) {
-		this.location = location;
+	public void setAge(String age) {
+		this.age = age;
 	}
 
 	public String getDynasty() {
@@ -69,36 +37,20 @@ public class Event {
 		this.dynasty = dynasty;
 	}
 
-	public String getDescription() {
-		return description;
+	public String getEvent() {
+		return event;
 	}
 
-	public void setDescription(String description) {
-		this.description = description;
+	public void setEvent(String event) {
+		this.event = event;
 	}
 
-	public String getImage() {
-		return image;
+	public String getDate() {
+		return date;
 	}
 
-	public void setImage(String image) {
-		this.image = image;
-	}
-
-	public List<String> getHistoricalFigures() {
-		return historicalFigures;
-	}
-
-	public void setHistoricalFigures(List<String> historicalFigures) {
-		this.historicalFigures = historicalFigures;
-	}
-
-	public List<String> getRelatedEvents() {
-		return relatedEvents;
-	}
-
-	public void setRelatedEvents(List<String> relatedEvents) {
-		this.relatedEvents = relatedEvents;
+	public void setDate(String date) {
+		this.date = date;
 	}
    
 }

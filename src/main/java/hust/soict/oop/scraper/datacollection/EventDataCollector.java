@@ -1,74 +1,104 @@
 package hust.soict.oop.scraper.datacollection;
 
-import java.io.IOException;
-
-import org.jsoup.*; 
-import org.jsoup.nodes.*; 
+import java.util.stream.IntStream;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.jsoup.*;
+import org.jsoup.nodes.*;
 import org.jsoup.select.*;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import hust.soict.oop.scraper.entities.Event;
 
 public class EventDataCollector {
 
 	public static void main(String[] args) {
 
-	    try {
-	      /**
-	       * Here we create a document object,
-	       * The we use JSoup to fetch the website.
-	       */
-	      Document doc = Jsoup.connect("https://www.codetriage.com/?language=Java").get();
-	      
-	      /**
-	       * With the document fetched,
-	       * we use JSoup???s title() method to fetch the title
-	       */ 
-	      System.out.printf("\nWebsite Title: %s\n\n", doc.title());
+		List<Event> events = new ArrayList<Event>();
 
+		try {
+			/**
+			 * Here we create a document object, The we use JSoup to fetch the website.
+			 */
+			ObjectMapper objectMapper = new ObjectMapper();
+			
+			Document doc = Jsoup.connect(
+					"https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam")
+					.get();
 
-	      // Get the list of repositories
-	      Elements repositories = doc.getElementsByClass("repo-item");
-	      
-	      /**
-	       * For each repository, extract the following information:
-	       * 1. Title
-	       * 2. Number of issues
-	       * 3. Description
-	       * 4. Full name on github
-	       */
-	      for (Element repository : repositories) {
-	        // Extract the title
-	        String repositoryTitle = repository.getElementsByClass("repo-item-title").text();
+			System.out.printf("\nWebsite Title: %s\n\n", doc.title());
 
-	        // Extract the number of issues on the repository
-	        String repositoryIssues = repository.getElementsByClass("repo-item-issues").text();
+			// Get the list of ages
+			List<Element> ages = doc.select("h2").subList(1, 6);
 
-	        // Extract the description of the repository
-	        String repositoryDescription = repository.getElementsByClass("repo-item-description").text();
+			for (Element age : ages) {
+				String ageText = age.select(".mw-headline").text();
+//				System.out.println("Age: " + ageText);
+				String year = new String();
+				List<String> yearList = new ArrayList<String>();
+				yearList.add(year);
+				List<String> dynastyList = new ArrayList<String>();
+				dynastyList.add("");
 
-	        // Get the full name of the repository
-	        String repositoryGithubName = repository.getElementsByClass("repo-item-full-name").text();
+				Element currentElement = age.nextElementSibling();
+				while (currentElement != null && !currentElement.tagName().equals("h2")) {
+//					System.out.println("  - " + currentElement.text());
+					if (currentElement.tagName().equals("h3")) {
+						dynastyList.add(0, currentElement.select(".mw-headline").text());
+//						System.out.println("  - Dynasty: " + dynastyList.get(0));
+					} else if (currentElement.tagName().equals("p")) {
+						String time = currentElement.select("b").text();
+//						System.out.println("p: " + time);
+						String event = currentElement.text().replace(time, "").trim();
+//						System.out.println("p: " + event);
+						if (event.isBlank()) {
+							yearList.set(0, time);
+						} else {
+//							System.out.println("      - Time: " + time);
+//							System.out.println("      - Event: " + event);
+							Event eventEntity = new Event(ageText, dynastyList.get(0), event, time);
+							events.add(eventEntity);
+						}
+					} else if (currentElement.tagName().equals("dl")) {
+						Elements ddElements = currentElement.select("dd");
+						ddElements.forEach(element -> {
+							String rawTime = element.select("b").text();
+							String event = element.text().replace(rawTime, "").trim();
+							String time = rawTime.concat(" ").concat(yearList.get(0));
+//							System.out.println("      - Time: " + time);
+//							System.out.println("      - Event: " + event);
+							Event eventEntity = new Event(ageText, dynastyList.get(0), event, time);
+							events.add(eventEntity);
+						});
+					}
+					currentElement = currentElement.nextElementSibling();
+				}
+			}
 
-	        /**
-	         * The repository full name contains brackets that we remove first
-	         * before generating the valif Github link.
-	         */
-	        String repositoryGithubLink = "https://github.com/" + repositoryGithubName.replaceAll("[()]", "");
+			IntStream.range(0, events.size())
+				.forEach(index -> {
+		            Event event = events.get(index);
+		            System.out.printf("%d. %s   %s   %s   %s\n", index + 1, event.getAge(), event.getDynasty(),
+					event.getDate(), event.getEvent());
+				});
+		
+			try (FileWriter fileWriter = new FileWriter("src/main/java/hust/soict/oop/data/raw/events.json")) {
+				// Convert the list to JSON string
+	            String json = objectMapper.writeValueAsString(events);
 
-	        // Format and print the information to the console
-	        System.out.println(repositoryTitle + " - " + repositoryIssues);
-	        System.out.println("\t" + repositoryDescription);
-	        System.out.println("\t" + repositoryGithubLink);
-	        System.out.println("\n");
+	            // Write the JSON string to the file
+	            fileWriter.write(json);
+	            System.out.println("\nData written to file successfully.");
+			}
 
-	      }
+			/**
+			 * In case of any IO errors, we want the messages written to the console
+			 */
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 
-	    /**
-	     * In case of any IO errors, we want the messages 
-	     * written to the console
-	     */
-	    } catch (IOException e) {
-	      e.printStackTrace();
-	    }
+	}
 
-	  }
-	
 }
