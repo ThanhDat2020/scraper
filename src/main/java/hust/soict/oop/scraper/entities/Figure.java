@@ -1,107 +1,62 @@
-package hust.soict.oop.scraper.entities;
-import java.util.*;
+package entity;
 
 public class Figure {
-    private String name;
-    private String date;
-    private String location;
-    private String description;
-    private List<String> historicalFigures;
-    private String significance;
-    private String cause;
-    private String outcome;
-    private List<String> relatedEvents;
-    private List<String> sources;
 
-    // Constructor
-    public Figure(String name, String date, String location, String description) {
+    public String name;
+    public String otherName;
+    public String time;
+    public String place;
+    public String period;
+    public String description;
+
+   public Figure(String name, String time, String description, String place, String period, String otherName){
         this.name = name;
-        this.date = date;
-        this.location = location;
+        this.time = time;
         this.description = description;
-        this.historicalFigures = new ArrayList<>();
-        this.relatedEvents = new ArrayList<>();
-        this.sources = new ArrayList<>();
-    }
+        this.place = place;
+        this.period = period;
+            this.otherName = otherName;
 
-    // Getters and Setters for the attributes
-    public String getName() {
-        return name;
-    }
+   }
 
+   public Figure() {
+   }
+   
+   public String getName() {
+       return name;
+   }
     public void setName(String name) {
-        this.name = name;
+         this.name = name;
     }
-
-    public String getDate() {
-        return date;
-    }
-
-    public void setDate(String date) {
-        this.date = date;
-    }
-
-    public String getLocation() {
-        return location;
-    }
-
-    public void setLocation(String location) {
-        this.location = location;
-    }
-
     public String getDescription() {
-        return description;
+         return description;
     }
-
     public void setDescription(String description) {
-        this.description = description;
+         this.description = description;
     }
-
-    public List<String> getHistoricalFigures() {
-        return historicalFigures;
+    public String getTime() {
+         return time;
     }
-
-    public void addHistoricalFigure(String historicalFigure) {
-        this.historicalFigures.add(historicalFigure);
+    public void setTime(String time) {
+         this.time = time;
     }
-
-    public String getSignificance() {
-        return significance;
+    public String getPlace() {
+         return place;
     }
-
-    public void setSignificance(String significance) {
-        this.significance = significance;
+    public void setPlace(String place) {
+         this.place = place;
     }
-
-    public String getCause() {
-        return cause;
-    }
-
-    public void setCause(String cause) {
-        this.cause = cause;
-    }
-
-    public String getOutcome() {
-        return outcome;
-    }
-
-    public void setOutcome(String outcome) {
-        this.outcome = outcome;
-    }
-
-    public List<String> getRelatedEvents() {
-        return relatedEvents;
-    }
-
-    public void addRelatedEvent(String relatedEvent) {
-        this.relatedEvents.add(relatedEvent);
-    }
-
-    public List<String> getSources() {
-        return sources;
-    }
-
-    public void addSource(String source) {
-        this.sources.add(source);
-    }
+     public String getPeriod() {
+           return period;
+     }
+     public void setPeriod(String period) {
+           this.period = period;
+     }
+     public String getOtherName() {
+           return otherName;
+     }
+     public void setOtherName(String otherName) {
+           this.otherName = otherName;
+     }
+    
 }
