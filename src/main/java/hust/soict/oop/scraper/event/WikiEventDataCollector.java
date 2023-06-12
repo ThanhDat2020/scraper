@@ -55,8 +55,37 @@ public class WikiEventDataCollector extends EventDataCollector {
         String endYear = years.length > 1 ? (years[1].contains("tháng ") ? years[1].replace("tháng ", "").trim() : years[1].trim()) : "";
         String event = element.text().replace(time, "").trim();
         if (!event.isBlank()) {
-            WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear));
-            events.add(eventEntity);
+        	Elements links = element.getElementsByTag("a");
+        	String description = "";
+        	Image image = new Image();
+        	
+        	for (int i = 0; i < links.size(); i++) {
+        		Document doc = null;
+        		Elements eleDocument = null;
+        		String href = links.get(i).attr("href");
+    			try {
+    				doc = Jsoup.connect("https://vi.wikipedia.org/"+href).get();
+    				eleDocument = doc.select("div[class=mw-parser-output]");
+    			} catch (IOException e) {
+    				e.printStackTrace();
+    			}
+    			description = description + " " + (eleDocument.select("p").size() != 0 ? eleDocument.select("p").get(0).text() : "");
+    			Elements imageUrls = doc.getElementsByClass("mw-file-description");
+    			for (int j = 0; j < imageUrls.size(); j++) {
+    				String imgUrl = imageUrls.get(j) == null || imageUrls.get(j).attr("href").contains(".svg|.SVG") ? "" : imageUrls.get(j).attr("href");
+    				String caption = imageUrls.get(j).nextElementSibling() == null ? "" : imageUrls.get(j).nextElementSibling().text();
+    				
+    				if (imgUrl != "" && caption != "") {
+        				image.setImageUrl(imgUrl);
+        				image.setCaption(caption);
+        				break;
+    				}
+    			}
+        	}
+        	
+        	description = description.replaceAll("\\[[^\\]]*\\]", "").replaceAll("\\s+", " ").trim();
+        	WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear), description, image);
+        	events.add(eventEntity);
         } else {
             yearList.set(0, time);
         }
@@ -70,7 +99,37 @@ public class WikiEventDataCollector extends EventDataCollector {
             String[] years = rawTime.split("-|–");
             String startYear = (years[0].contains("tháng ") ? years[0].replace("tháng ", "") : years[0]).trim().concat(" ").concat(yearList.get(0));
             String endYear = years.length > 1 ? (years[1].contains("tháng ") ? years[1].replace("tháng ", "") : years[1]).trim().concat(" ").concat(yearList.get(0)) : "";
-            WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear));
+            
+            Elements links = ddElement.getElementsByTag("a");
+        	String description = "";
+        	Image image = new Image();
+        	
+        	for (int i = 0; i < links.size(); i++) {
+        		Document doc = null;
+        		Elements eleDocument = null;
+        		String href = links.get(i).attr("href");
+    			try {
+    				doc = Jsoup.connect("https://vi.wikipedia.org/"+href).get();
+    				eleDocument = doc.select("div[class=mw-parser-output]");
+    			} catch (IOException e) {
+    				e.printStackTrace();
+    			}
+    			description = description + " " + (eleDocument.select("p").size() != 0 ? eleDocument.select("p").get(0).text() : "");
+    			Elements imageUrls = doc.getElementsByClass("mw-file-description");
+    			for (int j = 0; j < imageUrls.size(); j++) {
+    				String imgUrl = imageUrls.get(j) == null || imageUrls.get(j).attr("href").contains(".svg|.SVG") ? "" : imageUrls.get(j).attr("href");
+    				String caption = imageUrls.get(j).nextElementSibling() == null ? "" : imageUrls.get(j).nextElementSibling().text();
+    				
+    				if (imgUrl != "" && caption != "") {
+        				image.setImageUrl(imgUrl);
+        				image.setCaption(caption);
+        				break;
+    				}
+    			}
+        	}
+        	
+        	description = description.replaceAll("\\[[^\\]]*\\]", "").replaceAll("\\s+", " ").trim();
+            WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear), description, image);
             events.add(eventEntity);
         });
     }

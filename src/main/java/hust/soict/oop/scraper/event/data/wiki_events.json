@@ -4,1245 +4,2135 @@
 		"from": "25.000 TCN",
 		"to": "7.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá cũ"
+		"dynasty": "Thời đại đồ đá cũ",
+		"description": "Văn hóa Soi Nhụ gọi theo tên địa điểm khảo cổ học Soi Nhụ thuộc vịnh Bái Tử Long, là nền văn hóa của người tiền sử được các nhà khảo cổ học Việt Nam phát hiện năm 1964 và khai quật năm 1967. Khái niệm và đặc điểm của nền văn hóa này đầu tiên được Ts. Hà Hữu Nga, Viện Khảo cổ học đề xuất trong Hội nghị thông báo \"Những phát hiện mới về khảo cổ học năm 1996\" (Nhà Xuất bản KHXH, Hà Nội năm 1997).",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Ngườm",
 		"from": "23.000 TCN",
 		"to": "",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá cũ"
+		"dynasty": "Thời đại đồ đá cũ",
+		"description": "Kỹ nghệ Ngườm là một kỹ nghệ chế tác công cụ lao động từ đá của người nguyên thủy thời hậu kỳ Đá cũ. Thập niên 1970 và 1980, các nhà khảo cổ học đã liên tục phát hiện các hiện vật mà họ cho là các công cụ nạo được chế tác từ phiến tước bằng đá có niên đại cách ngày nay khoảng 2 vạn năm ở các hang và mái đá phía nam khối núi Bắc Sơn, tiêu biểu là Mái Đá Ngườm, hang Miệng Hổ, hang Na Khù ở xã Thần Sa (Võ Nhai), Nà Coóc ở xã Yên Đĩnh (Chợ Mới), Hang Dơi ở xã Vũ Lễ (Bắc Sơn), Bó Lấm ở xã Bằng Hữu (Chi Lăng), Lạng Nắc ở xã Mai Sao (Chi Lăng), Nà Nông (Chi Lăng), thuộc địa bàn các tỉnh Thái Nguyên, Bắc Kạn và Lạng Sơn. Giáo sư Hà Văn Tấn là người đã lấy địa danh Ngườm đặt tên cho loại kỹ nghệ này.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Tràng An",
 		"from": "23.000 TCN",
 		"to": "1.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá cũ"
+		"dynasty": "Thời đại đồ đá cũ",
+		"description": "Văn hóa Tràng An là một nền văn hóa cổ ở Việt Nam, hình thành từ thời kỳ đồ đá cũ cách nay khoảng 25 ngàn năm. Tràng An là tên một địa danh ở Ninh Bình, nơi đầu tiên tìm ra những di chỉ của nền văn hóa này. Đến nay đã có khoảng 30 địa điểm thuộc nền văn hóa Tràng An đã được phát hiện.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tam_Coc_taken_by_Harmony_Hiro.jpg",
+			"caption": "Những hang động xuyên thủy ở Tràng An."
+		}
 	},
 	{
 		"event": "Văn hóa Sơn Vi",
 		"from": "20.000 TCN",
 		"to": "12.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá cũ"
+		"dynasty": "Thời đại đồ đá cũ",
+		"description": "Văn hóa Sơn Vi là một nền văn hóa ở Việt Nam vào hậu kỳ thời đại đồ đá cũ cách ngày nay khoảng 30 ngàn đến 11 ngàn năm. Đây là nền văn hóa kế trước văn hóa Hòa Bình. Sơn Vi là tên một xã thuộc huyện Lâm Thao, tỉnh Phú Thọ, nơi đầu tiên tìm ra những di chỉ của nền văn hóa này. Đến nay đã có khoảng 160 địa điểm thuộc văn hóa Sơn Vi đã được phát hiện.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ng%C6%B0%E1%BB%9Di_th%C6%B0%E1%BB%A3ng_c%E1%BB%95_Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Su%E1%BB%91i_Ti%C3%AAn.JPG",
+			"caption": "Phục dựng cảnh người thượng cổ Việt Nam tại Khu du lịch Suối Tiên."
+		}
 	},
 	{
 		"event": "Văn hóa Hòa Bình",
 		"from": "12.000 TCN",
 		"to": "10.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá mới"
+		"dynasty": "Thời đại đồ đá mới",
+		"description": "Văn hóa Hòa Bình được giới khảo cổ học chính thức công nhận từ ngày 30 tháng 1 năm 1932, do đề xuất của Madeleine Colani, sau khi đã được Đại hội các nhà Tiền sử Viễn Đông họp tại Hà Nội thông qua. Khởi thủy, cụm từ này được dùng để nói đến nền văn hóa cuội được ghè đẽo trên khắp chu vi hòn cuội để tạo ra những dụng cụ từ thời kỳ đá cũ đến thời kỳ đá mới. Qua thời gian, tất nhiên cụm từ này đã được đề nghị mang những tên khác nhau và có những ý nghĩa cũng khác nhau. Nhưng thời gian gần đây, hoạt động của các nhà khảo cổ học trong suốt từ năm 1975 lại đây đã cho thấy một hướng mới về quan niệm khác về thời đại cũng như không gian của Văn hóa Hòa Bình.Đây là 1 nền văn hoá đã khởi nguồn cho văn minh người Việt mà lan truyền và ảnh hưởng lên xứ phía Bắc.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nguoi_nguyen_thuy_Hoa_Binh.jpg",
+			"caption": "Mô hình minh họa cư dân Văn hóa Hòa Bình."
+		}
 	},
 	{
 		"event": "Văn hóa Bắc Sơn",
 		"from": "10.000 TCN",
 		"to": "8.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá mới"
+		"dynasty": "Thời đại đồ đá mới",
+		"description": "Văn hóa Bắc Sơn là một nền văn hóa cổ đại Việt Nam ở sơ kỳ thời đại đồ đá mới có niên đại sau nền văn hóa Hòa Bình, cách ngày nay từ một vạn đến tám ngàn năm. Bắc Sơn là đặt theo tên huyện Bắc Sơn (tỉnh Lạng Sơn), nơi đầu tiên phát hiện những di vật của nền văn hóa này. Các bộ lạc chủ nhân của văn hóa Hòa Bình đã tạo ra nền văn hóa Bắc Sơn.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Quỳnh Văn",
 		"from": "8.000 TCN",
 		"to": "6.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá mới"
+		"dynasty": "Thời đại đồ đá mới",
+		"description": "Văn hóa Quỳnh Văn (thời đại đồ đá mới, khoảng 6.000 – 3.500 năm cách ngày nay) được phát hiện từ những năm 1930 bởi các học giả người Pháp. Cho đến nay đã có hơn 70 năm nghiên cứu với 21 di tích, phân bố ở ven biển Nghệ An và Hà Tĩnh, chủ yếu tập trung xung quanh vịnh biển cổ Quỳnh Lưu. Đây là các di tích \"đống rác bếp\" (Kjökkenmodding), thành phần chủ yếu là các loại điệp. Trong các lớp điệp còn có xương cốt động vật, di vật đá, gốm và bếp lửa. Công cụ đá Quỳnh Văn ít về số lượng, nghèo nàn về loại hình, kỹ thuật ghè đẽo thô sơ, chủ yếu được tạo từ đá gốc. Loại hình thường thấy là các công cụ không xác định, công cụ hình đĩa, công cụ hình múi bưởi, công cụ hình rìu dài và công cụ hình rìu ngắn. Đồ gốm thô, hầu hết là đồ đun nấu với kích thước lớn, được tạo hình bằng tay kết hợp với bàn đập hòn kê. Đồ gốm có bốn loại chủ yếu: gốm đáy tròn văn in đập, gốm đáy tròn văn thừng, gốm đáy tròn văn thừng ở mặt ngoài và văn chải ở mặt trong, gốm đáy nhọn văn chải 2 mặt. Gốm đáy nhọn, văn chải 2 mặt là đặc trưng tiêu biểu nhất của văn hóa Quỳnh Văn. Các loại hình hiện vật khác như xương, đồ trang sức có số lượng ít.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Cái Bèo",
 		"from": "7.000 TCN",
 		"to": "5.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá mới"
+		"dynasty": "Thời đại đồ đá mới",
+		"description": "Văn hóa Cái Bèo có niên đại trước nền văn hóa Hạ Long. Di chỉ Cái Bèo được phát hiện vào năm 1938 trong lần tiến hành thám sát khảo cổ học ven biển khu vực liên quan thuộc vùng vịnh Hạ Long ngày nay. Di chỉ Cái Bèo khai quật được hơn 479 công cụ như chày, bàn nghiền, bàn mài, hòn kê, rìu bôn, đục, chì lưới … bằng đá cuội. Đồ gốm thô cứng làm từ đất sét và cát hạt khô, bếp, di cốt người; các xương răng động vật, xương thú như lợn rừng, nai, dê núi. Theo các nhà khảo cổ học, di chỉ Cái Bèo thuộc nền văn hóa Hạ Long, bởi phân tích rõ ra là cư dân Cái Bèo cùng với thời gian và xu hướng chuyển cư của người Hòa Bình – Bắc Sơn từ vùng núi xuống biển. Riêng cư dân đảo Cát Bà, trong đó có người cổ Cái Bèo làm nghề đánh cá là chủ yếu.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Đa Bút",
 		"from": "6.000 TCN",
 		"to": "5.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đá mới"
+		"dynasty": "Thời đại đồ đá mới",
+		"description": "Văn hóa Đa Bút là một nền văn hóa Việt Nam ở sơ kỳ thời đại đồ đá mới có niên đại sau các nền văn hóa Hòa Bình và Bắc Sơn, cách đây từ 5000 đến 6000 năm. Không gian của văn hóa Đa Bút là dải đất nằm từ hữu ngạn sông Đáy đến tả ngạn sông Mã thuộc các tỉnh Ninh Bình và Thanh Hóa ngày nay. Tính đến năm 2010, đã có hơn 10 điểm văn hóa Đa Bút được phát hiện và khai quật. Các bộ lạc chủ nhân của văn hóa Đa Bút đã tạo ra nền văn hóa Đông Sơn.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Hạ Long",
 		"from": "3.000 TCN",
 		"to": "1.500 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đồng đá"
+		"dynasty": "Thời đại đồ đồng đá",
+		"description": "Văn hóa Hạ Long là một nền văn hóa cổ. Cho đến nay, đã có khoảng gần 50 di tích “Văn hoá Hạ Long” được phát hiện trên các đảo của Vịnh Hạ Long cũng như dọc bờ biển từ Móng Cái đến Vân Đồn, với đặc trưng chung về loại hình - kỹ thuật chế tác công cụ đá và đồ gốm có từ cách đây 5.000-3.000 năm.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Phùng Nguyên",
 		"from": "2.000 TCN",
 		"to": "1.500 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đồng đá"
+		"dynasty": "Thời đại đồ đồng đá",
+		"description": "Văn hóa Phùng Nguyên là một nền văn hóa tiền sử thuộc sơ kỳ thời đại đồ đồng, cuối thời đại đồ đá mới, tồn tại từ cuối thiên niên kỷ III TCN, đầu thiên niên II TCN và kết thúc vào khoảng nửa đầu thiên niên kỷ II TCN. Phùng Nguyên là tên một làng ở xã Kinh Kệ (nay là xã Phùng Nguyên), huyện Lâm Thao, tỉnh Phú Thọ, nơi đầu tiên tìm ra các di chỉ của nền văn hóa này. Di chỉ văn hóa Phùng Nguyên đã được phát hiện ở Phú Thọ, Bắc Ninh, Ninh Bình, Hà Nội, Hải Phòng và một vài nơi khác trong lưu vực sông Hồng. Tính đến năm 1998, có khoảng 55 địa điểm đã được phát hiện có di chỉ văn hóa đồng dạng với các di chỉ tại Phùng Nguyên, trong đó có 3 địa điểm có di cốt người. Công cụ bằng đá phổ biến và chiếm ưu thế tuyệt đối. Đồ trang sức bằng các loại đá, đá bán quý, ngọc được tìm thấy nhiều, đặc biệt là các vòng đá. Ngoài đồ đá, cư dân Phùng Nguyên đã biết chế tạo đồ gốm đặc sắc từ khâu làm đất, tạo dáng cho đến hoa văn trang trí. Trong đời sống của cư dân Phùng Nguyên đã xuất hiện đồ đồng và thuật luyện kim (còn hạn chế).",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Tiền Sa Huỳnh",
 		"from": "2.000 TCN",
 		"to": "1.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đồng đá"
+		"dynasty": "Thời đại đồ đồng đá",
+		"description": "",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Đồng Đậu",
 		"from": "1.500 TCN",
 		"to": "1.000 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đồng"
+		"dynasty": "Thời đại đồ đồng",
+		"description": "Văn hoá Đồng Đậu là nền văn hóa thuộc thời kỳ đồ đồng ở Việt Nam cách ngày nay khoảng 3.000 năm, sau văn hóa Phùng Nguyên, trước văn hóa Gò Mun. Tên của nền văn hóa này đặt theo tên khu di tích Đồng Đậu ở thị trấn Yên Lạc, huyện Yên Lạc, tỉnh Vĩnh Phúc, nơi các nhà khảo cổ học đã khám phá ra một nền văn hóa đồ đồng phong phú năm 1962.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Gò Mun",
 		"from": "1.000 TCN",
 		"to": "600 TCN",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ đồng"
+		"dynasty": "Thời đại đồ đồng",
+		"description": "Văn hóa Gò Mun ước chừng trong khoảng thời gian từ năm 1.000 - năm 700 TCN, thuộc cuối thời kỳ đồ đồng. Nền văn hóa này được đặt tên theo địa điểm mà vào năm 1961 các nhà khảo cổ học đã khai quật được nhiều di chỉ của nền văn hóa này (gò Mun, xã Tứ Xã, huyện Phong Châu, tỉnh Phú Thọ).",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Văn hóa Sa Huỳnh",
 		"from": "1.000 TCN",
 		"to": "200",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ sắt"
+		"dynasty": "Thời đại đồ sắt",
+		"description": "Văn hóa Sa Huỳnh là một nền văn hóa khảo cổ được xác định ở vào khoảng năm 1000 TCN đến cuối thế kỷ thứ 2. Nền văn hóa Sa Huỳnh là một trong ba cái nôi cổ xưa về văn minh trên lãnh thổ Việt Nam, cùng với Văn hóa Đông Sơn và Văn hóa Đồng Nai tạo thành tam giác văn hóa của Việt Nam thời kỳ đồ sắt",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bronze_weapon_Sa_Huynh_Culture.JPG",
+			"caption": "Vũ khí bằng đồng"
+		}
 	},
 	{
 		"event": "Văn hóa Đồng Nai",
 		"from": "1.000 TCN",
 		"to": "0",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ sắt"
+		"dynasty": "Thời đại đồ sắt",
+		"description": "Văn hóa Đồng Nai chỉ các di tích khảo cổ ở Việt Nam phân bố trên vùng trung du và đồng bằng miền Đông Nam Bộ, ven các sông Đồng Nai, sông Sài Gòn và sông Vàm Cỏ, thể hiện một quá trình diễn biến văn hoá từ sơ kì thời đại đồ đồng đến sơ kì thời đại sắt. Giữa các di tích có những khác biệt nhất định, song chúng cùng có những đặc trưng chung nên có nhiều ý kiến xếp chúng vào một nền văn hoá chung. Có người gọi là Văn hóa Đồng Nai, cũng có ý kiến gọi là văn hoá Phước Tân, văn hoá Bến Đò hay văn hoá Cù Lao Rùa. Cho đến nay, đã phát hiện được hàng trăm di tích ở hầu khắp các tỉnh miền Đông Nam Bộ, trong đó có các di tích tiêu biểu như Cầu Sắt, Suối Chồn, Bình Đa, Cái Vạn, Cù Lao Rùa, Hưng Thịnh, Đồi Xoài, Đồi Mít, Gò Me, Đồi Phòng Không, Cái Lăng, Long Bửu, Bến Đò, Phước Tân, Gò Đá, Dốc Chùa, Bù Đốp, Gò Tháp, Gò Canh Nông, Gò Cao Su, An Sơn, Rạch Núi, vv.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Hien_vat_da_Dong_Nai.jpg",
+			"caption": "Hiện vật đá văn hóa Đồng Nai"
+		}
 	},
 	{
 		"event": "Văn hóa Đông Sơn",
 		"from": "700 TCN",
 		"to": "100",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ sắt"
+		"dynasty": "Thời đại đồ sắt",
+		"description": "Văn hóa Đông Sơn là một nền văn hóa cổ đã xuất hiện vào khoảng năm 800 Trước Công Nguyên, từng tồn tại ở một số tỉnh miền Bắc Việt Nam và Bắc Trung bộ Việt Nam (Phú Thọ, Yên Bái, Hòa Bình, Hà Nội, Nam Định, Ninh Bình, Hà Nam , Thanh Hóa, Nghệ An, Hà Tĩnh mà trung tâm là khu vực sông Mã), và ba con sông lớn và chính của đồng bằng Bắc Bộ (sông Hồng, sông Mã và sông Lam) vào thời kỳ đồ đồng và thời kỳ đồ sắt sớm. Nền văn hóa này được đặt tên theo địa phương nơi các dấu tích đầu tiên của nó được phát hiện, gần sông Mã, Thanh Hóa. Nhiều dấu tích đặc trưng cho văn hóa Đông Sơn cũng được tìm thấy ở một số vùng lân cận Việt Nam như ở Vân Nam, Quảng Tây, Hải Nam của Trung Quốc, ở Lào hay ở Thái Lan...",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Trong_dong_ngoc_lu1.jpg",
+			"caption": "Trống đồng Ngọc Lũ - một sản phẩm của công nghệ luyện kim của cư dân Việt cổ cách ngày nay từ 2000 - 3000 năm."
+		}
 	},
 	{
 		"event": "Văn hóa Óc Eo",
 		"from": "1",
 		"to": "630",
 		"age": "Thời tiền sử",
-		"dynasty": "Thời đại đồ sắt"
+		"dynasty": "Thời đại đồ sắt",
+		"description": "Văn hóa Óc Eo là một nền văn hóa cổ hình thành và phát triển ở Nam Bộ Việt Nam từ thế kỷ 1 đến thế kỷ 7 sau Công Nguyên. Đây là một nền văn hóa lớn trong lịch sử Việt Nam, gắn liền với đất nước, con người ở vùng châu thổ hạ lưu sông Mê Kông và có quan hệ mật thiết với lịch sử Đông Nam Á cổ đại.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Sites_of_Oc_Eo_Culture_in_Southern_Vietnam.jpg",
+			"caption": "Một số di tích thuộc văn hóa Óc Eo"
+		}
 	},
 	{
 		"event": "vua Hùng thành lập quốc gia Văn Lang",
 		"from": "Thế kỉ VII TCN",
 		"to": "",
 		"age": "Thời sơ sử",
-		"dynasty": ""
+		"dynasty": "",
+		"description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên. Đông Nam Á thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
+			"caption": "Bản đồ Đông Nam Á"
+		}
 	},
 	{
 		"event": "An Dương Vương thôn tính Văn Lang, thành lập quốc gia Âu Lạc",
 		"from": "207 TCN",
 		"to": "",
 		"age": "Thời sơ sử",
-		"dynasty": ""
+		"dynasty": "",
+		"description": "Thời tiền sử Đông Nam Á thời tiền sử Âu Lạc (chữ Hán:甌貉/甌駱;) là nhà nước cổ của người Việt cổ được thành lập tại miền Bắc Việt Nam bởi một nhân vật có thật tên là Thục Phán (An Dương Vương) năm 257 TCN. Nhà nước này đã thống nhất 2 bộ tộc Âu Việt - Lạc Việt (Sử gọi là Văn Lang) lại với nhau và đã bảo vệ đất nước thành công trước cuộc xâm lược của nhà Tần, nhưng sau cùng, nhà nước sụp đổ do thất bại trước Nam Việt của Triệu Đà (một quan lại nhà Tần), tạo cơ sở cho nhà Hán xâm lược sau này.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_V%C4%83n_Lang_%26_Nam_C%C6%B0%C6%A1ng.JPG",
+			"caption": "Bản đồ Văn Lang của Hùng Vương và Nam Cương của Thục Phán."
+		}
 	},
 	{
 		"event": "Chiến tranh Tần-Việt",
 		"from": "218 TCN",
 		"to": "207 TCN",
 		"age": "Thời sơ sử",
-		"dynasty": ""
+		"dynasty": "",
+		"description": "Chiến tranh Việt – Tần là cuộc kháng chiến chống nhà Tần mở rộng về phía nam của các bộ tộc Bách Việt ở vùng Hoa Nam, đây là các tộc người phân bố ở miền nam Trung hoa và Bắc Bộ Việt Nam hiện nay. Chiến dịch diễn ra 221 TCN đến năm 214 TCN, nghĩa là nhà Tần thực hiện mở rộng lãnh thổ về phía nam ngay sau khi thống nhất Trung Quốc.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_V%C4%83n_Lang_%26_Nam_C%C6%B0%C6%A1ng.JPG",
+			"caption": "Vị trí nước Văn Lang và các con sông tại đất Lĩnh Nam của người Bách Việt."
+		}
 	},
 	{
 		"event": "Triệu Đà xâm lược nước Âu Lạc, sáp nhập vào quốc gia Nam Việt",
 		"from": "179 TCN",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Nam Việt"
+		"dynasty": "Thuộc Nam Việt",
+		"description": "Triệu Vũ Đế (chữ Hán: 趙武帝, 257 TCN hoặc 235 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), là vị vua đầu tiên của nước Nam Việt, án ngữ tại Quảng Đông và miền bắc Việt Nam. Ông vốn là người Trung Quốc, quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山) (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc. Âu Lạc (chữ Hán:甌貉/甌駱;) là nhà nước cổ của người Việt cổ được thành lập tại miền Bắc Việt Nam bởi một nhân vật có thật tên là Thục Phán (An Dương Vương) năm 257 TCN. Nhà nước này đã thống nhất 2 bộ tộc Âu Việt - Lạc Việt (Sử gọi là Văn Lang) lại với nhau và đã bảo vệ đất nước thành công trước cuộc xâm lược của nhà Tần, nhưng sau cùng, nhà nước sụp đổ do thất bại trước Nam Việt của Triệu Đà (một quan lại nhà Tần), tạo cơ sở cho nhà Hán xâm lược sau này. Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia có thật được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Western_Han_Mawangdui_Silk_Map.JPG",
+			"caption": "Tấm bản đồ bằng lụa ở mộ số 3 Mã Vương Đôi mô tả hai nước Trường Sa và Nam Việt."
+		}
 	},
 	{
 		"event": "Chiến tranh Hán-Nam Việt",
 		"from": "111 TCN",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Nam Việt"
+		"dynasty": "Thuộc Nam Việt",
+		"description": "Chiến tranh Hán–Nam Việt là một cuộc chiến tranh giữa nhà Tây Hán và nước Nam Việt vào cuối thế kỷ 2 trước Công nguyên.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nam-Viet_200bc.jpg",
+			"caption": "Bản đồ khu vực khoảng 200 năm TCN. Nước Nam Việt phía Tây giáp Dạ Lang và Câu Đinh, phía Đông giáp Mân Việt, phía Nam giáp với dãy Hoành Sơn, phía Bắc giáp nhà Hán."
+		}
 	},
 	{
 		"event": "nhà Hán thôn tính Nam Việt",
 		"from": "111 TCN",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Nhà Hán là hoàng triều thứ hai trong lịch sử Trung Quốc, do thủ lĩnh khởi nghĩa nông dân Lưu Bang thành lập và được cai trị bởi gia tộc họ Lưu. Tiếp nối nhà Tần (221 TCN – 206 TCN) tồn tại trong một khoảng thời gian ngắn ngủi và thời kỳ Chiến tranh Hán – Sở vô quân chủ, nhà Hán bị gián đoạn giai đoạn ngắn khi nhiếp chính Vương Mãng tiếm quyền, lập nên nhà Tân (9 – 23). Nó tồn tại qua hai thời kỳ – Tây Hán (206 – 9) và Đông Hán (23 – 220) – trước khi thời kỳ Tam Quốc mở ra. Trải dài hơn bốn thế kỷ, nhà Hán được coi là triều đại hoàng kim trong lịch sử Trung Quốc, ảnh hưởng mạnh mẽ đến bản sắc nền văn minh Trung Hoa cho tới mãi về sau. Ngày nay, nhóm dân tộc đa số ở Trung Quốc tự gọi mình là \"Hán nhân\", tiếng Trung được gọi là \"Hán ngữ\" và chữ viết Trung Quốc được gọi là \"Hán tự\". Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia có thật được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Western_Han_Mawangdui_Silk_Map.JPG",
+			"caption": "Tấm bản đồ bằng lụa ở mộ số 3 Mã Vương Đôi mô tả hai nước Trường Sa và Nam Việt."
+		}
 	},
 	{
 		"event": "khởi nghĩa Hai Bà Trưng, Trưng Trắc thành lập quốc gia Lĩnh Nam, kinh đô đặt tại Mê Linh",
 		"from": "40",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Khởi nghĩa Hai Bà Trưng là cuộc khởi nghĩa chống Bắc thuộc đầu tiên trong lịch sử Việt Nam do hai chị em Trưng Trắc và Trưng Nhị lãnh đạo. Cuộc khởi nghĩa đã đánh đuổi được lực lượng cai trị nhà Đông Hán ra khỏi Giao Chỉ (tương đương một phần Quảng Tây, Trung Quốc và Bắc Bộ, Bắc Trung Bộ Việt Nam hiện nay), mang lại độc lập trong 3 năm cho người Việt tại đây. Trưng Trắc (chữ Hán: 徵側, 13 tháng 9 năm 14 - 5 tháng 3 năm 43) là nữ vương của vương quốc Lĩnh Nam và anh hùng dân tộc của người Việt, người đứng đầu cuộc khởi nghĩa chống lại sự đô hộ của nhà Đông Hán trong lịch sử Việt Nam, lập ra một chính quyền riêng của người Việt trong 3 năm với trung ương tại Mê Linh. Vì vậy, bà là nữ quân chủ đầu tiên trong lịch sử Việt Nam cũng như nữ vương đầu tiên của chế độ phong kiến Việt Nam (Lý Chiêu Hoàng là vị nữ quân chủ thứ hai và là nữ hoàng duy nhất). Tuy về sau cuộc khởi nghĩa bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, nhưng trong văn hóa người Việt, khởi nghĩa tượng trưng cho sự quật khởi, phục hưng tinh thần quốc gia. Sử gia Lê Văn Hưu đã nhận xét: \"Trưng Trắc, Trưng Nhị là đàn bà, hô một tiếng mà các quận Cửu Chân, Nhật Nam, Hợp Phố và 65 thành ở Lĩnh Ngoại đều hưởng ứng. Việc dựng nước xưng vương dễ như trở bàn tay, đủ biết tình thế đất Việt ta có thể dựng được nghiệp bá vương\". Lĩnh Nam (chữ Hán: 嶺南) là vùng đất phía nam núi Ngũ Lĩnh trong truyền thuyết xưa ở Việt Nam và Trung Quốc. Khu vực này từng được cai trị bởi nước Nam Việt và sau là triều Trưng Vương. Mê Linh là một huyện ngoại ô nằm ở phía bắc thành phố Hà Nội, Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_L%C4%A9nh_Nam_th%E1%BB%9Di_Tr%C6%B0ng_V%C6%B0%C6%A1ng-Hai_B%C3%A0_Tr%C6%B0ng.jpg",
+			"caption": "Bản đồ Lĩnh Nam thời Trưng Vương (40-43 sau Công nguyên)."
+		}
 	},
 	{
 		"event": "Chiến tranh Lĩnh Nam - Đông Hán",
 		"from": "42",
 		"to": "43",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Chiến tranh Hán-Việt 42-43 là tên gọi của cuộc chiến do tướng nhà Đông Hán Mã Viện chỉ huy chống lại quân nổi dậy của Hai Bà Trưng ở đất Việt năm 42-43.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Đông Hán thôn tính Lĩnh Nam",
 		"from": "43",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Nhà Hán là hoàng triều thứ hai trong lịch sử Trung Quốc, do thủ lĩnh khởi nghĩa nông dân Lưu Bang thành lập và được cai trị bởi gia tộc họ Lưu. Tiếp nối nhà Tần (221 TCN – 206 TCN) tồn tại trong một khoảng thời gian ngắn ngủi và thời kỳ Chiến tranh Hán – Sở vô quân chủ, nhà Hán bị gián đoạn giai đoạn ngắn khi nhiếp chính Vương Mãng tiếm quyền, lập nên nhà Tân (9 – 23). Nó tồn tại qua hai thời kỳ – Tây Hán (206 – 9) và Đông Hán (23 – 220) – trước khi thời kỳ Tam Quốc mở ra. Trải dài hơn bốn thế kỷ, nhà Hán được coi là triều đại hoàng kim trong lịch sử Trung Quốc, ảnh hưởng mạnh mẽ đến bản sắc nền văn minh Trung Hoa cho tới mãi về sau. Ngày nay, nhóm dân tộc đa số ở Trung Quốc tự gọi mình là \"Hán nhân\", tiếng Trung được gọi là \"Hán ngữ\" và chữ viết Trung Quốc được gọi là \"Hán tự\". Lĩnh Nam (chữ Hán: 嶺南) là vùng đất phía nam núi Ngũ Lĩnh trong truyền thuyết xưa ở Việt Nam và Trung Quốc. Khu vực này từng được cai trị bởi nước Nam Việt và sau là triều Trưng Vương.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg",
+			"caption": "Hán Vũ Đế (trị. 141 TCN – 87 TCN)"
+		}
 	},
 	{
 		"event": "Khởi nghĩa Chu Đạt",
 		"from": "156",
 		"to": "160",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Cuộc khởi nghĩa Chu Đạt diễn ra từ năm 156 đến năm 160. Năm 156, Chu Đạt, người huyện Cư Phong, Cửu Chân (nay là xã Phú Hào-Thọ Phú, huyện Triệu Sơn, Thanh Hóa), nổi dậy chống chính quyền đô hộ nhà Đông Hán. Chu Đạt chiêu mộ dân binh vây đánh huyện sở Cư Phong (vùng đất các huyện Nông Cống, Quảng Xương, Tĩnh Gia, Như Xuân, Như Thanh thuộc tỉnh Thanh Hóa ngày nay) giết chết huyện lệnh, giải phóng toàn bộ quận Cửu Chân rồi tấn công quận trị Tư Phố giết chết thái thú Nghê Thức nhà Đông Hán. Cuộc khởi nghĩa tập hợp lực lượng có tới 5.000 người, quản trị Cửu Chân được 4 năm từ năm 156 đến năm 160. Năm 158, vua Đông Hán cử đô úy Ngụy Lãng đem quân đàn áp, buộc Chu Đạt phải lui vào Nhật Nam (Quảng Bình, Quảng Trị, Thừa Thiên). Tại đây thanh thế nghĩa quân mạnh lên, lực lượng lên tới hàng vạn người, hoạt động đến mùa thu 160 thì bị thứ sử Hạ Phương dập tắt. Chu Đạt mất tại đây.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Khởi nghĩa Lương Long",
 		"from": "178",
 		"to": "181",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Khởi nghĩa Lương Long (178-181) do Lương Long (梁龍) người Giao Chỉ lãnh đạo nhân dân các quận Giao Chỉ, Cửu Chân, Nhật Nam, Hợp Phố chống lại chính quyền đô hộ nhà Đông Hán. Lực lượng nghĩa quân lên tới hàng vạn người, liên kết với người Ô Hử 烏滸 (tổ tiên của người Tày ở biên giới Việt-Trung và người Choang ở Quảng Tây hiện nay) cùng Thái thú quận Nam Hải là Khổng Chi nên thanh thế rất mạnh, nổi dậy đánh chiếm được các quận huyện và nhiều vùng đất từ Giao Chỉ đến Hợp Phố và từ Cửu Chân đến Nhật Nam. Thứ sử Giao Châu là Chu Ngung phải đóng cổng thành cố thủ và xin viện binh. Mùa hè năm 181, Đông Hán vương cử Huyện lệnh Lan Lăng là Chu Tuấn mang 5000 quân sang đánh dẹp, cuộc khởi nghĩa bị dập tắt.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Khu Liên khởi nghĩa, tách quận Nhật Nam thành lập quốc gia Lâm Ấp",
 		"from": "192",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Hán"
+		"dynasty": "Thuộc Hán",
+		"description": "Khu Liên hay Sri Mara (tiếng Tamil: திருமாறன், tiếng Thái: ศรีมาระ) là quốc vương đầu tiên của Lâm Ấp. Người ta cho rằng ông lập ra vương quốc Lâm Ấp (sau này là Chăm Pa) năm 192. Ngày tháng năm sinh cũng như mất là không rõ, chỉ biết rằng năm 270, cháu ngoại của ông là Phạm Hùng lên làm vua. Nhật Nam (chữ Hán: 日南) là một địa danh cũ ở Việt Nam thời Bắc thuộc. Lâm Ấp (Chữ Hán: 林邑; Bính âm: Lin Yi) là một vương quốc đã tồn tại từ khoảng năm 192 đến khoảng năm 605, tại vùng đất từ Quảng Bình đến Quảng Nam. Vương quốc này được coi là giai đoạn khởi đầu cho lịch sử Chăm Pa độc lập.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Tôn Quyền xưng đế, lập nước Đông Ngô, ly khai nhà Hán",
 		"from": "23/06/229",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đông Ngô"
+		"dynasty": "Thuộc Đông Ngô",
+		"description": "Tôn Quyền (giản thể: 孙权; phồn thể: 孫權; 5 tháng 7 năm 182– 21 tháng 5, 252), tự là Trọng Mưu (仲谋), thụy hiệu Ngô Đại Đế (吴大帝, tức là \"Hoàng đế lớn của Ngô\"), là người sáng lập của chính quyền Đông Ngô dưới thời Tam Quốc trong lịch sử Trung Quốc. Ông thừa hưởng quyền kiểm soát đất Giang Đông từ tay huynh trưởng, Tôn Sách, năm 200. Ông tuyên bố độc lập và cai trị Giang Đông từ năm 222 đến 229 với tước hiệu Ngô vương và từ 229 đến 252 với tước hiệu hoàng đế Ngô. Không như các đối thủ Tào Tháo và Lưu Bị, Tôn Quyền thường đóng vai trò trung lập trong các cuộc xung đột của Thục và Ngụy, và chỉ đứng về một trong phía hai bên còn lại nếu điều đó có lợi cho nước Ngô; cũng không bao giờ cố gắng để thống nhất ba nước, mặc dù nhiều sử gia cho rằng là do không đủ thực lực để làm điều đó. Ngô (吳) (229 - 1 tháng 5, 280) sử gọi là Tôn Ngô (孫吳) hay Đông Ngô (東吳) là một trong 3 quốc gia thời Tam Quốc (220-280) trong lịch sử Trung Quốc. Trước đó, nó tồn tại từ 220-222 với tư cách là một vương quốc chư hầu dưới danh nghĩa của Tào Ngụy - quốc gia đối thủ, nhưng sau đó tuyên bố độc lập với Ngụy và trở thành một quốc gia có chủ quyền vào năm 222. Đông Ngô trở thành một đế quốc vào năm 229 sau khi lãnh đạo Tôn Quyền tự xưng là hoàng đế. Tên của quốc gia này được bắt nguồn từ nơi nó tọa lạc - vùng Giang Nam (đồng bằng sông Dương Tử), còn được gọi là \"Ngô\" trong lịch sử. Nó được các nhà sử học gọi là \"Đông Ngô\" hoặc \"Tôn Ngô\" để phân biệt với các quốc gia lịch sử Trung Quốc khác có tên tương tự cũng nằm trong khu vực đó, chẳng hạn như nước Ngô vào Xuân Thu và vương quốc Ngô Việt trong thời kỳ Ngũ đại Thập quốc. Nó được gọi là \"Đông Ngô\" vì nó chiếm phần lớn miền đông Trung Quốc trong thời Tam Quốc và \"Tôn Ngô\" vì họ của người lãnh đạo nước này là \"Tôn\". Trong thời gian tồn tại, thủ đô Đông Ngô ở Kiến Khang (ngày nay là Nam Kinh, Giang Tô), nhưng cũng có lúc ở Vũ Xương 武昌 (ngày nay là Ngạc Châu, Hồ Bắc). Nhà Hán là hoàng triều thứ hai trong lịch sử Trung Quốc, do thủ lĩnh khởi nghĩa nông dân Lưu Bang thành lập và được cai trị bởi gia tộc họ Lưu. Tiếp nối nhà Tần (221 TCN – 206 TCN) tồn tại trong một khoảng thời gian ngắn ngủi và thời kỳ Chiến tranh Hán – Sở vô quân chủ, nhà Hán bị gián đoạn giai đoạn ngắn khi nhiếp chính Vương Mãng tiếm quyền, lập nên nhà Tân (9 – 23). Nó tồn tại qua hai thời kỳ – Tây Hán (206 – 9) và Đông Hán (23 – 220) – trước khi thời kỳ Tam Quốc mở ra. Trải dài hơn bốn thế kỷ, nhà Hán được coi là triều đại hoàng kim trong lịch sử Trung Quốc, ảnh hưởng mạnh mẽ đến bản sắc nền văn minh Trung Hoa cho tới mãi về sau. Ngày nay, nhóm dân tộc đa số ở Trung Quốc tự gọi mình là \"Hán nhân\", tiếng Trung được gọi là \"Hán ngữ\" và chữ viết Trung Quốc được gọi là \"Hán tự\".",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg",
+			"caption": "Hán Vũ Đế (trị. 141 TCN – 87 TCN)"
+		}
 	},
 	{
 		"event": "Khởi nghĩa Bà Triệu",
 		"from": "246",
 		"to": "248",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đông Ngô"
+		"dynasty": "Thuộc Đông Ngô",
+		"description": "Thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:China_5.jpg",
+			"caption": "Bản đồ Tam quốc năm 262, Đông Ngô kiểm soát Giao Châu."
+		}
 	},
 	{
 		"event": "Chiến tranh Tấn – Ngô",
 		"from": "280",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Tấn"
+		"dynasty": "Thuộc Tấn",
+		"description": "Chiến tranh Tấn-Ngô 279-280 là cuộc chiến cuối cùng thời Tam Quốc trong lịch sử Trung Quốc. Vua Tây Tấn là Tư Mã Viêm phát động chiến tranh và nhanh chóng tiêu diệt nước Đông Ngô (được hình thành từ đầu thế kỷ 3) chỉ sau một chiến dịch. Cuộc chiến tranh này gắn liền với sự kiện nhà Tây Tấn thống nhất toàn quốc, thời Tam Quốc kết thúc.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Jindestroywu.png",
+			"caption": "Các mũi tiến công của quân Tấn"
+		}
 	},
 	{
 		"event": "Lưu Dụ ép Tấn Cung Đế nhường ngôi, lập ra nhà Lưu Tống",
 		"from": "420",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lưu Tống"
+		"dynasty": "Thuộc Lưu Tống",
+		"description": "Tống Vũ Đế (chữ Hán: 宋武帝, 16 tháng 4 năm 363 - 26 tháng 6 năm 422), tên thật là Lưu Dụ (劉裕), tên tự Đức Dư (德輿), Đức Hưng (德興), tiểu tự Ký Nô (寄奴), quê ở thôn Tuy Dư Lý, huyện Bành Thành, là nhà chính trị và quân sự hoạt động vào cuối thời Đông Tấn và đồng thời cũng là vị hoàng đế khai quốc của nhà Lưu Tống trong lịch sử Trung Quốc. Tuy xuất thân bần hàn, nhưng với tài năng của mình, ông bắt đầu đặt chân vào quân đội trong triều đình Đông Tấn, lần lượt kinh qua các chức vụ quan trọng. Năm 405, Lưu Dụ lãnh binh tiêu diệt quân khởi nghĩa của Sở đế Hoàn Huyền, từ đó ông nắm toàn bộ quyền lực trong triều đình. Những năm tiếp theo, Lưu Dụ tiến hành bắc phạt, tiêu diệt các quốc gia của người Hồ ở miền bắc là Nam Yên và Hậu Tần, mở rộng lãnh thổ Đông Tấn. Bên trong, ông tiêu diệt được các thế lực của các tướng lĩnh và quý tộc như Lưu Nghị, Gia Cát Trường Dân, Tư Mã Hưu Chi, củng cố quyền lực lớn mạnh. Năm 416, ông được ban tước vị Tống công và gia phong cửu tích, kiến quốc trên đất 20 quận. Năm 419, ông ép vua Tấn phong cho mình làm Tống vương và sang năm 420 thì đoạt ngôi nhà Tấn, lên ngôi hoàng đế, kiến lập nhà Lưu Tống, triều đại đầu tiên ở phía nam trong thời kì Nam-Bắc triều. Ông ở ngôi được hai năm và qua đời và ngày 26 tháng 6 năm 422, thọ 60 tuổi. Miếu hiệu là Cao Tổ (高祖). Thuỵ hiệu là Vũ Hoàng đế (武皇帝). Tấn Cung Đế (giản thể: 晋恭帝; phồn thể: 晉恭帝; bính âm: Jìn Gōngdì) (386–421), tên thật là Tư Mã Đức Văn (司馬德文) là vị Hoàng đế thứ 11 của nhà Đông Tấn và là Hoàng đế cuối cùng của triều đại Nhà Tấn trong lịch sử Trung Quốc. Ông trở thành hoàng đế vào năm 419 sau khi người anh trai là An Đế bị Lưu Dụ giết chết, và trong thời gian ông trị vì, quyền lực trên thực tế nằm trong tay Lưu Dụ. Năm 420, dưới sức ép của Lưu Dụ, ông đã phải nhường ngôi cho Lưu Dụ, triều đại Tấn đến đây kết thúc. Lưu Dụ thành lập Lưu Tống, và đến năm 421, do Lưu Dụ tin rằng vị Hoàng đế Tấn trước đây tạo mối đe dọa cho quyền lực của mình nên đã cho giết chết Tư Mã Đức Văn. Lưu Tống Nam Tề Lương Trần",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Thứ sử Giao Châu Đàn Hòa Chi đánh Lâm Ấp, cướp châu báu rút về",
 		"from": "436",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lưu Tống"
+		"dynasty": "Thuộc Lưu Tống",
+		"description": "Đàn Hòa Chi (chữ Hán: 檀和之, ? – 456), người Kim Hương, Cao Bình, là tướng lĩnh nhà Lưu Tống trong lịch sử Trung Quốc. Ông từng cai quản Giao Châu (Bắc Bộ và Bắc Trung Bộ Việt Nam hiện nay), có công đánh bại quân Lâm Ấp láng giềng (nay là Nam Trung Bộ Việt Nam). Lâm Ấp (Chữ Hán: 林邑; Bính âm: Lin Yi) là một vương quốc đã tồn tại từ khoảng năm 192 đến khoảng năm 605, tại vùng đất từ Quảng Bình đến Quảng Nam. Vương quốc này được coi là giai đoạn khởi đầu cho lịch sử Chăm Pa độc lập.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khởi nghĩa Lý Trường Nhân",
 		"from": "468",
 		"to": "485",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lưu Tống"
+		"dynasty": "Thuộc Lưu Tống",
+		"description": "Lý Trường Nhân (chữ Hán: 李長仁) là một thủ lĩnh địa phương, cát cứ Giao Châu, tự trị với chính quyền phong kiến phương Bắc trong lịch sử Việt Nam thời Bắc thuộc lần II.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Tiêu Đạo Thành phế Lưu Chuẩn tự làm vua, thành lập nhà Nam Tề",
 		"from": "479",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Nam Tề"
+		"dynasty": "Thuộc Nam Tề",
+		"description": "Nam Tề Cao Đế (chữ Hán: 南齊高帝; 427–482), tên húy là Tiêu Đạo Thành (giản thể: 萧道成; phồn thể: 蕭道成; bính âm: Xiāo Dàochéng), tên tự Thiệu Bá (紹伯), tiểu húy Đấu Tương (鬥將), là hoàng đế sáng lập nên triều đại Nam Tề thời Nam-Bắc triều trong lịch sử Trung Quốc. Ông từng là tướng nhà Lưu Tống trong thời gian trị vì của hai vị hoàng đế Minh Đế và Hậu Phế Đế. Đến năm 477, do lo sợ sẽ bị Hậu Phế Đế sát hại, ông ám sát Hậu Phế Đế và đoạt lấy quyền lực, đến năm 479 thì đoạt ngôi nhà Lưu Tống. Lưu Tống Thuận Đế (chữ Hán: 劉宋順帝; 467–479), tên húy là Lưu Chuẩn (giản thể: 刘准; phồn thể: 劉準; bính âm: Liú Zhǔn), tên tự Trọng Mưu (仲謀), biệt danh Trí Quan (智觀), là một hoàng đế của triều Lưu Tống trong lịch sử Trung Quốc. Ông trở thành hoàng đế vào năm 477 sau khi vị hoàng huynh hung bạo Hậu Phế Đế bị hầu cận ám sát theo sự xúi giục của tướng Tiêu Đạo Thành. Tuy vậy, Thuận Đế chỉ là con rối trong tay Tiêu trong suốt hai năm trị vì. Năm 479, Tiêu Đạo Thành đã buộc Thuận Đế phải nhường ngôi cho ông ta, kết thúc triều Lưu Tống và khởi đầu triều Nam Tề. Cũng trong năm đó, cựu hoàng đã bị các binh sĩ giám thị sát hại, hoàng tộc Lưu Tống sau cũng bị tàn sát. Lưu Tống Nam Tề Lương Trần",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Tiêu Diễn phế truất Tiêu Bảo Dung, thành lập nhà Lương",
 		"from": "502",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lương"
+		"dynasty": "Thuộc Lương",
+		"description": "Lương Vũ Đế (chữ Hán: 梁武帝; 464 – 549), tên húy là Tiêu Diễn (蕭衍), tự là Thúc Đạt (叔達), tên khi còn nhỏ Luyện Nhi (練兒), là vị Hoàng đế khai quốc của triều Lương thời Nam-Bắc triều trong lịch sử Trung Quốc. Thời kỳ ông trị vì là một trong những giai đoạn ổn định nhất và thịnh vượng nhất của Nam triều. Nam Tề Hòa Đế (chữ Hán: 南齊和帝; 488–502), tên húy là Tiêu Bảo Dung (giản thể: 萧宝融; phồn thể: 蕭寶融; bính âm: Xiāo Bǎoróng), tên tự Trí Chiêu (智昭), là hoàng đế cuối cùng của triều Nam Tề trong lịch sử Trung Quốc. Ông được các tướng Tiêu Dĩnh Trụ (蕭穎冑) và Tiêu Diễn đưa lên ngai vàng vào năm 501 để làm đối trọng với người anh cả là Tiêu Bảo Quyển hung bạo và độc đoán. Năm 502, khi Tiêu Bảo Quyển bị đánh bại và bị giết, Tiêu Diễn đã đoạt ngôi của nhà Tề, chấm dứt triều Nam Tề và mở đầu triều Lương. Ngay sau đó, cựu hoàng mới 14 tuổi bị Tiêu Diễn đưa đến cái chết. Lưu Tống Nam Tề Lương Trần",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Northern_and_Southern_Dynasties_560_CE.png",
+			"caption": "Năm 560 Trần Bắc Tề Bắc Chu. Tây Lương."
+		}
 	},
 	{
 		"event": "khởi nghĩa Lý Bí",
 		"from": "541",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lương"
+		"dynasty": "Thuộc Lương",
+		"description": "Chiến tranh Tiền Lý - Lương là cuộc chiến bùng nổ từ năm 545 đến năm 550 kéo dài 5 năm do Triệu Quang Phục lãnh đạo chống quân Lương.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Lý Bí thành lập quốc gia Vạn Xuân",
 		"from": "544",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Lương"
+		"dynasty": "Thuộc Lương",
+		"description": "Lý Nam Đế (chữ Hán: 李南帝; 503 – 548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân. Ông là 1 trong 14 anh hùng tiêu biểu của dân tộc Việt Nam. Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập dưới thời nhà Tiền Lý và Triệu Việt Vương từ năm 544 đén năm 602. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương, Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân, đóng đô ở Ô Diên thành, tại Hạ Mỗ, huyện Đan Phượng, Hà Nội.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Emperor_Ly_Nam_De_and_the_Empress_(SDK_6376).jpg",
+			"caption": "Tranh thế kỷ XVIII vẽ Lý Nam Đế và Hoàng Hậu"
+		}
 	},
 	{
 		"event": "Chiến tranh Tùy–Vạn Xuân",
 		"from": "602",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Tùy"
+		"dynasty": "Thuộc Tùy",
+		"description": "Nhà Tùy chiến thắng",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Lý Uyên tuyên bố thành lập nhà Đường",
 		"from": "03/618",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đường"
+		"dynasty": "Thuộc Đường",
+		"description": "Đường Cao Tổ (chữ Hán: 唐高祖, hiệu là Lý Uyên (李淵), biểu tự Thúc Đức (叔德), 8 tháng 4, 566 – 25 tháng 6, 635), là vị hoàng đế khai quốc của triều Đường trong lịch sử Trung Quốc. Ông trị vì từ năm 618 đến năm 626, tổng cộng 8 năm.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Gaozong_of_Tang.jpg",
+			"caption": "Lãnh thổ Đại Đường được mở rộng tối đa dưới thời Đường Cao Tông"
+		}
 	},
 	{
 		"event": "Lý Uyên ép Dương Hựu nhường ngôi",
 		"from": "05/618",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đường"
+		"dynasty": "Thuộc Đường",
+		"description": "Đường Cao Tổ (chữ Hán: 唐高祖, hiệu là Lý Uyên (李淵), biểu tự Thúc Đức (叔德), 8 tháng 4, 566 – 25 tháng 6, 635), là vị hoàng đế khai quốc của triều Đường trong lịch sử Trung Quốc. Ông trị vì từ năm 618 đến năm 626, tổng cộng 8 năm. Tùy Cung Đế (chữ Hán: 隋恭帝; 605 – 14 tháng 9 năm 619), tên húy là Dương Hựu (giản thể: 杨侑; phồn thể: 楊侑; bính âm: Yáng Yòu), là hoàng đế thứ ba của triều Tùy. Theo truyền thống, ông được xem là vị hoàng đế cuối cùng của triều đại do là người đã chính thức thiện nhượng cho Lý Uyên- hoàng đế khai quốc triều Đường, mặc dù sau đó, Dương Đồng đã xưng đế và tiếp tục tại vị cho đến năm 619.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Gaozu_of_Tang_Dynasty.jpeg",
+			"caption": "Tranh vẽ Đường Cao Tổ Lý Uyên"
+		}
 	},
 	{
 		"event": "khởi nghĩa Lý Tự Tiên",
 		"from": "687",
 		"to": "",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đường"
+		"dynasty": "Thuộc Đường",
+		"description": "Lý Tự Tiên (李嗣先, ?-687) là thủ lĩnh cuộc khởi nghĩa tại An Nam chống lại sự đô hộ của nhà Đường năm 687.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khởi nghĩa Mai Hắc Đế",
 		"from": "713",
 		"to": "723",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đường"
+		"dynasty": "Thuộc Đường",
+		"description": "Mai Hắc Đế (chữ Hán: 梅黑帝; 670 – 723), tên thật là Mai Thúc Loan (梅叔鸞), là vị vua lãnh đạo cuộc khởi nghĩa chống lại sự chiếm đóng của nhà Đường ở miền Bắc Việt Nam vào đầu thế kỉ thứ 8. Trong lịch sử Việt Nam, ông được xem như một vị anh hùng dân tộc.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khởi nghĩa Phùng Hưng",
 		"from": "776",
 		"to": "791",
 		"age": "Thời Bắc thuộc",
-		"dynasty": "Thuộc Đường"
+		"dynasty": "Thuộc Đường",
+		"description": "Phùng Hưng (chữ Hán: 馮興; 746-789/791/802) , là lãnh tụ một cuộc nổi dậy chống lại sự đô hộ của nhà Đường thời Bắc thuộc lần thứ ba (602–905) trong lịch sử Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:L%C4%83ngPh%C3%B9ngH%C6%B0ng3.jpg",
+			"caption": "Lăng Phùng Hưng (Phùng đại vương lăng, 馮大王陵) ở Ngõ 2 phố Giảng Võ phường Giảng Võ quận Ba Đình thành phố Hà Nội."
+		}
 	},
 	{
 		"event": "Khúc Thừa Dụ xây dựng chính quyền tự chủ",
 		"from": "905",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Tự chủ"
+		"dynasty": "Tự chủ",
+		"description": "",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Trận Bạch Đằng, Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
 		"from": "938",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Tự chủ"
+		"dynasty": "Tự chủ",
+		"description": "Tĩnh Hải quân chiến thắng Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), còn được biết đến với tên gọi Tiền Ngô Vương ( 前吳王) là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, lập ra nhà Ngô, trị vì từ năm 939 đến năm 944. Sau năm 945, lãnh thổ nước Mân trước đây bị phân chia giữa Nam Đường, Ngô Việt và Thanh Nguyên quân Sông Bạch Đằng là ranh giới giữa thành phố Hải Phòng và tỉnh Quảng Ninh ngày nay, gọi theo phiên âm chữ Hán là Bạch Đằng Giang (白藤江). Từ Bạch (白) có nghĩa là trắng, từ Đằng (藤) có nghĩa là “bụi cây quấn quýt”, tên Nôm là Dầng hay Rừng. Và ba từ “Bạch Đằng Giang”, nghĩa là sông có “rừng sóng bạc đầu”, mà gọi theo dân gian là sông Thần. Ngoài ra sông này còn có tên gọi khác thời Hậu Lê là Vân Cừ (澐渠), nghĩa là “con sông nhỏ có sóng lớn” hay “nước chảy xoáy cuồn cuộn”, về sau là sông Thành Triền và ngày nay là sông Đá Bạc…",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_Giang_chi_chi%E1%BA%BFn_(938).jpg",
+			"caption": "Tranh ghép đá mô phỏng trận Bạch Đằng 938"
+		}
 	},
 	{
 		"event": "Ngô Quyền xưng vương, kinh đô Cổ Loa",
 		"from": "939",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Ngô"
+		"dynasty": "Nhà Ngô",
+		"description": "Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), còn được biết đến với tên gọi Tiền Ngô Vương ( 前吳王) là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, lập ra nhà Ngô, trị vì từ năm 939 đến năm 944. Thành Cổ Loa là kinh đô của nhà nước Âu Lạc dưới thời An Dương Vương vào khoảng thế kỷ thứ 3 trước Công nguyên và của nhà nước phong kiến dưới thời Ngô Quyền thế kỷ 10 tại vùng đất xã Cổ Loa, huyện Đông Anh, Hà Nội.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:An_Duong_Vuong_Temple_Gate_Co_Loa.jpg",
+			"caption": "Đền thờ An Dương Vương tại khu di tích Cổ Loa"
+		}
 	},
 	{
 		"event": "Loạn 12 sứ quân",
 		"from": "944",
 		"to": "968",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Ngô"
+		"dynasty": "Nhà Ngô",
+		"description": "Thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lo%E1%BA%A1n_12_x%E1%BB%A9_qu%C3%A2n.png",
+			"caption": "Một sơ đồ mô tả các khu vực cát cứ của các sứ quân"
+		}
 	},
 	{
 		"event": "Đinh Bộ Lĩnh xưng đế, thành lập quốc gia Đại Cồ Việt, kinh đô Hoa Lư",
 		"from": "968",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Đinh"
+		"dynasty": "Nhà Đinh",
+		"description": "Đại Cồ Việt (chữ Hán: 大瞿越, 968 – 1054) là quốc hiệu của Việt Nam dưới thời bảy vị vua trị vì thuộc ba triều đại: nhà Đinh, nhà Tiền Lê và đầu thời nhà Lý với kinh đô ban đầu đặt tại Hoa Lư và từ tháng 7 âm lịch năm 1010 đặt tại Thăng Long. Hoa Lư (chữ Hán: 華閭) là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam và là quê hương của vị Anh hùng dân tộc Đinh Bộ Lĩnh. Kinh đô này tồn tại 42 năm (968 - 1010), gắn với sự nghiệp của ba triều đại liên tiếp là nhà Đinh, nhà Tiền Lê và nhà Lý với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội. Năm 1010 vua Lý Thái Tổ dời kinh đô từ Hoa Lư (Ninh Bình) về Thăng Long (Hà Nội), Hoa Lư trở thành Cố đô. Các triều vua Lý, Trần, Lê, Nguyễn sau đó dù không đóng đô ở Hoa Lư nữa nhưng vẫn cho tu bổ và xây dựng thêm ở đây nhiều công trình kiến trúc như đền, lăng, đình, chùa, phủ,… Ngày nay, Quần thể di tích Cố đô Hoa Lư có diện tích tự nhiên 13,87 km², là một khu vực của Quần thể danh thắng Tràng An thuộc địa bàn tỉnh Ninh Bình.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Codohoalu1-Model.jpg",
+			"caption": "Sơ đồ kinh đô Hoa Lư"
+		}
 	},
 	{
 		"event": "Đinh Bộ Lĩnh cho đúc Thái Bình hưng bảo, đồng tiền đầu tiên của Việt Nam",
 		"from": "970",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Đinh"
+		"dynasty": "Nhà Đinh",
+		"description": "Thái Bình hưng bảo (太平興寶) là tên gọi đồng tiền đầu tiên của Việt Nam do nhà Đinh là một triều đại của người Việt cho đúc bắt đầu từ năm 970. Đây được xác định là đồng tiền xưa nhất do người Việt phát hành. Tiền Thái Bình hưng bảo ra đời góp phần khẳng định nền độc lập tự chủ của dân tộc Việt Nam trên các lĩnh vực kinh tế, chính trị, ngoại giao, văn hóa mà Đinh Tiên Hoàng đã xác lập.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:An36_Dinh_Bo_Linh_Thai_Binh_(12537160424).jpg",
+			"caption": "Thái Bình hưng bảo (太平興寶)."
+		}
 	},
 	{
 		"event": "Đinh Bộ Lĩnh cùng con trai bị sát hại",
 		"from": "979",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Đinh"
+		"dynasty": "Nhà Đinh",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:T%C6%B0%E1%BB%A3ng_%C4%90inh_B%E1%BB%99_L%C4%A9nh_t%E1%BA%A1i_C%C3%B4ng_vi%C3%AAn_Tao_%C4%90%C3%A0n,_th%C3%A1ng_12_n%C4%83m_2021_(1).jpg",
+			"caption": "Tượng đài cờ lau Đinh Bộ Lĩnh ở Công viên Tao Đàn, Thành phố Hồ Chí Minh"
+		}
 	},
 	{
 		"event": "Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê",
 		"from": "980",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tiền Lê"
+		"dynasty": "Nhà Tiền Lê",
+		"description": "Lê Đại Hành (941-1005) là vị Hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt trong 24 năm. Ông là 1 trong 14 vị anh hùng tiêu biểu của dân tộc Việt Nam. Nhà Lê (chữ Nôm: 茹黎, chữ Hán: 黎朝, Hán Việt: Lê triều), hay còn được gọi là nhà Tiền Lê (chữ Nôm: 家前黎, Chữ Hán: 前黎朝, Hán Việt: Tiền Lê triều) là một triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1855_Spruner_Map_of_Asia_in_the_9th_and_10th_Centuries_-_Geographicus_-_AsienIXX-spruneri-1855.jpg",
+			"caption": "Châu Á vào giữa thế kỷ thứ 9 đến hết thế kỷ thứ 10, với lãnh thổ Đại Cồ Việt (màu vàng)."
+		}
 	},
 	{
 		"event": "Chiến tranh Tống - Việt",
 		"from": "01/981",
 		"to": "04/981",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tiền Lê"
+		"dynasty": "Nhà Tiền Lê",
+		"description": "Chiến tranh Tống-Việt là một cuộc chiến tranh giữa Nhà Tống thời Tống Thái Tông và Đại Cồ Việt thời Lê Đại Hành diễn ra từ tháng 1 đến tháng 4 năm 981 trên lãnh thổ Đại Cồ Việt. Kết quả, Đại Cồ Việt đã đánh bại quân đội nhà Tống. Sau cuộc chiến này, vào năm 986, Hoàng đế Đại Tống công nhận nhà Tiền Lê và ban chế phong cho Lê Đại Hành.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Lý Công Uẩn lên ngôi vua, thành lập nhà Lý",
 		"from": "21/11/1009",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Lý Thái Tổ (chữ Hán: 李太祖,(974-1028) là hoàng đế sáng lập ra nhà Lý (hay còn gọi là Hậu Lý để phân biệt với nhà Tiền Lý do Lý Nam Đế sáng lập) trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028 Nhà Lý (chữ Nôm: 茹李, chữ Hán: 李朝, Hán Việt: Lý triều), đôi khi gọi là nhà Hậu Lý (để phân biệt với triều đại Tiền Lý do Lý Bí thành lập) là một triều đại trong nền quân chủ Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009 sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc đó mới có 7 tuổi, bị ép thoái vị để nhường ngôi cho chồng là Trần Cảnh vào năm 1225 – tổng cộng là 216 năm.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(1009-1225).png",
+			"caption": "Lãnh thổ Việt Nam thời nhà Lý (1009–1225)."
+		}
 	},
 	{
 		"event": "Lý Công Uẩn dời đô về Thăng Long",
 		"from": "1010",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Lý Thái Tổ (chữ Hán: 李太祖,(974-1028) là hoàng đế sáng lập ra nhà Lý (hay còn gọi là Hậu Lý để phân biệt với nhà Tiền Lý do Lý Nam Đế sáng lập) trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028 Thăng Long (chữ Hán: 昇龍) là tên gọi cũ của thành phố Hà Nội. Đây là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng (1010 - 1788). Trong dân dã thì địa danh tên Nôm Kẻ Chợ được dùng phổ biến nên thư tịch Tây phương về Hà Nội trước thế kỷ 19 hay dùng Cachao hay Kecho.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
+			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
+		}
 	},
 	{
 		"event": "Lý Thánh Tông lên ngôi, đổi tên nước từ Đại Cồ Việt thành Đại Việt",
 		"from": "1054",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Lý Thánh Tông (chữ Hán: 李聖宗 30 tháng 3 năm 1023 – 1 tháng 2 năm 1072) là vị Hoàng đế thứ ba của hoàng triều Lý nước Đại Việt, trị vì từ tháng 11 năm 1054 đến khi qua đời năm 1072. Trong thời kỳ cầm quyền của mình, Lý Thánh Tông đã đẩy mạnh sản xuất nông nghiệp, khoan giảm hình phạt, đồng thời bảo trợ Phật giáo và Nho giáo. Ông còn xây dựng quân đội Đại Việt hùng mạnh, thực hiện chính sách đối ngoại cứng rắn với Đại Tống và mở đất về ba châu Địa Lý, Mã Linh, Bố Chính (nay là một phần thuộc Quảng Bình và Quảng Trị, Bắc Trung Bộ Việt Nam) sau thắng lợi trong cuộc chiến tranh Việt - Chiêm (1069). Sử thần đời Hậu Lê Ngô Sĩ Liên viết về Lý Thánh Tông: \"Vua khéo kế thừa, thực lòng thương dân, trọng việc làm ruộng, thương kẻ bị hình, vỗ về thu phục người xa, đặt khoa bác sĩ, hậu lễ dưỡng liêm, sửa sang việc văn, phòng bị việc võ, trong nước yên tĩnh, đáng gọi là bậc vua tốt\". Đại Cồ Việt (chữ Hán: 大瞿越, 968 – 1054) là quốc hiệu của Việt Nam dưới thời bảy vị vua trị vì thuộc ba triều đại: nhà Đinh, nhà Tiền Lê và đầu thời nhà Lý với kinh đô ban đầu đặt tại Hoa Lư và từ tháng 7 âm lịch năm 1010 đặt tại Thăng Long. Đông Nam Á thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
+			"caption": "Bản đồ Đông Nam Á"
+		}
 	},
 	{
 		"event": "Chiến tranh Việt-Chiêm, Đại Việt chiếm được 3 châu của Chiêm Thành",
 		"from": "1069",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Chiến tranh Việt-Chiêm 1069 là cuộc chiến do vua Lý Thánh Tông của Đại Việt phát động năm 1069 nhằm đánh vương quốc Chiêm Thành ở phương Nam với lý do người Chiêm từ chối thần phục nhà Lý. Nhà Lý gọi cuộc chiến này là Chiến dịch phạt Chiêm 1069. Nhà Lý (chữ Nôm: 茹李, chữ Hán: 李朝, Hán Việt: Lý triều), đôi khi gọi là nhà Hậu Lý (để phân biệt với triều đại Tiền Lý do Lý Bí thành lập) là một triều đại trong nền quân chủ Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009 sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc đó mới có 7 tuổi, bị ép thoái vị để nhường ngôi cho chồng là Trần Cảnh vào năm 1225 – tổng cộng là 216 năm. Chiêm Thành (chữ Hán: 占城) là tên gọi của vương quốc Chăm Pa (tiếng Phạn: Campanagara) trong sử sách Việt Nam từ 877 đến 1693. Trước 859 Việt Nam gọi vương quốc này là Hoàn Vương. Đầu thế kỷ thứ 11, Chiêm Thành bao gồm 4 vùng đất (nhiều nguồn gọi là tiểu quốc) là: Amaravati (vùng Quảng Nam, Đà Nẵng ngày nay, và vùng Bình - Trị - Thiên nhưng sau này bị sáp nhập vào Đại Việt), Vijaya (vùng Quảng Ngãi, Bình Định ngày nay), Kauthara (vùng Phú Yên, Khánh Hòa ngày nay) và Panduranga (vùng Ninh Thuận và Bình Thuận ngày nay).",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(1009-1225).png",
+			"caption": "Lãnh thổ Việt Nam thời nhà Lý (1009–1225)."
+		}
 	},
 	{
 		"event": "Chiến tranh Tống-Việt",
 		"from": "1075",
 		"to": "1077",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Hai bên tuyên bố chiến thắng, hòa ước giữa hai nước",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Trận Như Nguyệt, đẩy lùi quân xâm lược Tống",
 		"from": "18/01/1077",
 		"to": "28/02/1077",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lý"
+		"dynasty": "Nhà Lý",
+		"description": "Trận Như Nguyệt là một trận đánh lớn diễn ra ở một khúc sông Như Nguyệt (hay sông Cầu) vào năm 1077, là trận đánh có tính quyết định của cuộc Chiến tranh Tống-Việt, 1075-1077, và là trận đánh cuối cùng của nhà Tống trên đất Đại Việt. Trận chiến diễn ra trong nhiều tháng, kết thúc bằng chiến thắng của quân đội Đại Việt và thiệt hại nhân mạng lớn của quân Tống, đánh bại hoàn toàn ý chí xâm lược Đại Việt của họ, buộc họ phải thừa nhận Đại Việt là một quốc gia.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Song_Taizu.jpg",
+			"caption": "Tống Thái Tổ (trị. 960–976), tranh chân dung cung đình."
+		}
 	},
 	{
 		"event": "Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh, thành lập nhà Trần",
 		"from": "10/01/1226",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Lý Chiêu Hoàng (chữ Hán: 李昭皇; 1218 - 1278) hay Chiêu Thánh Hoàng hậu (昭聖皇后) là nữ hoàng của đế quốc Đại Việt, cũng là Hoàng đế cuối cùng của triều đại nhà Lý, trị vì từ năm 1224 đến năm 1225. Bà là Nữ hoàng duy nhất trong lịch sử Việt Nam, nhưng không phải là vị vua nữ giới đầu tiên, vị nữ quân chủ đầu tiên là Nữ vương Trưng Trắc. Bà được chính vua cha Lý Huệ Tông ra chỉ truyền ngôi, dù bên trong có khả năng do sự sắp đặt của Điện tiền Chỉ huy sứ Trần Thủ Độ, người đang nắm quyền lực trong triều đồng thời cũng là chú họ bên ngoại của bà. Trần Thái Tông (chữ Hán: 陳太宗 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), tên khai sinh là Trần Cảnh (陳煚), là vị hoàng đế đầu tiên của Hoàng triều Trần nước Đại Việt. Ông giữ ngôi từ ngày 10 tháng 1 năm 1226 tới ngày 30 tháng 3 năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời năm 1277. Thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Emperor_Taizu_play_Cuju.jpg",
+			"caption": "Cuju, môn thể thao được cho là thịnh hành của giới cung cấm quý tộc ở nhà Tống lẫn nhà Lý, Trần thời bấy giờ."
+		}
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông–Đại Việt lần 1",
 		"from": "1258",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Chiến tranh Nguyên Mông – Đại Việt lần thứ nhất hay Kháng chiến chống Nguyên Mông lần thứ nhất là cách người Việt Nam gọi cuộc chiến đấu của quân dân Đại Việt chống lại quân đội của đế quốc Mông Cổ do Uriyangqatai (Ngột Lương Hợp Thai) chỉ huy vào trong khoảng thời gian nửa tháng cuối tháng 1 năm 1258 (hay năm Nguyên Phong thứ 7). Cuộc chiến mở đầu với thất bại của quân Đại Việt trong trận Bình Lệ Nguyên, sau đó là trận ở Phù Lỗ, dù thắng nhưng quân đội của Ngột Lương Hợp Thai không đánh bại được đạo quân chủ lực của nhà Trần. Quân Mông Cổ tiến vào kinh thành của Đại Việt trong 9 ngày. Quân đội nhà Trần đã phản công, đại phá quân Mông trong trận Đông Bộ Đầu khiến cho đội quân này phải chạy về phía Bắc, sau đó còn phải hứng chịu một cuộc tập kích khác của thủ lĩnh miền núi - Hà Bổng. Cuộc chiến này đã kết thúc với chiến thắng của nước Đại Việt, ghi dấu công lao của vua Trần Thái Tông trong việc lãnh đạo quân dân Đại Việt chiến đấu chống quân đội Mông Cổ.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_%C4%91%E1%BA%BF_qu%E1%BB%91c_M%C3%B4ng_C%E1%BB%95,_1559.jpg",
+			"caption": "Bản đồ Đại Việt, Mông Cổ, Nam Tống, năm 1257"
+		}
 	},
 	{
 		"event": "Hội nghị Bình Than, triệu họp vương hầu, trăm quan",
 		"from": "1282",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Hội nghị Bình Than là một hội nghị quân sự do vua Trần Nhân Tông triệu tập vào tháng 11 năm 1283 để bàn phương hướng kháng chiến khi quân Mông Nguyên sang xâm lược Đại Việt lần thứ hai.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Hội nghị Diên Hồng, triệu họp bô lão cả nước",
 		"from": "1284",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Hội nghị Diên Hồng là hội nghị được tổ chức năm 1284 tại kinh thành Thăng Long do Thượng hoàng Trần Thánh Tông triệu họp các bô lão trong cả nước về trước thềm điện Diên Hồng để trưng cầu dân ý, hỏi về chủ trương hòa hay đánh khi quân Nguyên Mông sang xâm lược Việt Nam lần thứ 2.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n,_Qu%E1%BA%ADn_1,_th%C3%A1ng_12_n%C4%83m_2021_(ph%C3%B9_%C4%91i%C3%AAu_h%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng)_(2).jpg",
+			"caption": "Phù điêu Hội nghị Diên Hồng tại Đền thờ Đức Thánh Trần, Quận 1. Trong đó khắc họa rõ nét cảnh các vị bô lão thể hiện ý chí quyết đánh quân Nguyên"
+		}
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông-Đại Việt lần 2",
 		"from": "1285",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Nhà Trần Đại Việt Chiêm Thành",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Chongquannguyenlan2-th%E1%BB%AD.gif",
+			"caption": "Diễn biến chính Chiến tranh Nguyên Mông-Đại Việt lần 2"
+		}
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông–Đại Việt lần 3",
 		"from": "1287",
 		"to": "1288",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Chiến tranh Nguyên Mông – Đại Việt lần 3 (theo cách gọi khác ở Việt Nam là Kháng chiến chống quân Nguyên Mông lần thứ 3) là cuộc chiến tranh giữa Đại Nguyên và Đại Việt diễn ra trên lãnh thổ Đại Việt từ tháng 12 năm 1287 đến cuối tháng 4 năm 1288.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Battle_of_V%C3%A2n_%C4%90%E1%BB%93n.jpg",
+			"caption": "Địa điểm được giả thuyết là \"sông Mang\" giữa hai đảo Cái Bàn và Vân Hải nơi xảy ra cuộc tập kích của quân và dân Đại Việt dưới sự chỉ huy của Trần Khánh Dư và anh em họ Phạm người Quan Lạn vào đoàn thuyền của Trương Văn Hổ."
+		}
 	},
 	{
 		"event": "phát hành Thông Bảo hội sao theo chủ trương của Hồ Quý Ly, đây là tiền giấy đầu tiên của Việt Nam",
 		"from": "1396",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Nhà Hồ (chữ Nôm: 茹胡, chữ Hán: 胡朝, Hán Việt: Hồ triều) là một triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Hồ Quý Ly lên ngôi năm 1400 sau khi giành được quyền lực từ tay nhà Trần và chấm dứt khi Hồ Hán Thương bị quân Minh bắt vào năm 1407 – tổng cộng là 7 năm. Quốc hiệu Đại Việt đã đổi thành Đại Ngu năm 1400. Hồ Quý Ly (chữ Hán: 胡季犛; 1336 – 1407), lấy tên húy Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401 tự xưng là Quốc Tổ Chương Hoàng (國祖章皇), sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:C%E1%BB%95ng_Nam.jpg",
+			"caption": "Cổng Nam Thành nhà Hồ, thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hóa."
+		}
 	},
 	{
 		"event": "Hồ Quý Ly ép Trần Thuận Tông dời đô về Tây Đô",
 		"from": "1397",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Trần"
+		"dynasty": "Nhà Trần",
+		"description": "Hồ Quý Ly (chữ Hán: 胡季犛; 1336 – 1407), lấy tên húy Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401 tự xưng là Quốc Tổ Chương Hoàng (國祖章皇), sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. Trần Thuận Tông (chữ Hán: 陳順宗 1377 – 30 tháng 4 năm 1400) là vị hoàng đế thứ 12 và cũng là hoàng đế áp chót của triều Trần nước Đại Việt. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398. Thành nhà Hồ (hay còn gọi là thành Tây Đô, thành An Tôn, thành Tây Kinh hay thành Tây Giai) là kinh đô nước Đại Ngu (quốc hiệu của Việt Nam dưới thời nhà Hồ), nằm trên địa phận tỉnh Thanh Hóa. Đây là tòa thành kiên cố với kiến trúc độc đáo bằng đá có quy mô lớn hiếm hoi ở Việt Nam, có giá trị và độc đáo nhất, duy nhất còn lại ở tại Đông Nam Á và là một trong rất ít những thành lũy bằng đá còn lại trên thế giới. Thành được xây dựng trong thời gian ngắn, chỉ khoảng 3 tháng (từ tháng Giêng đến tháng 3 năm 1397) và cho đến nay, dù đã tồn tại hơn 6 thế kỷ nhưng một số đoạn của tòa thành này còn lại tương đối nguyên vẹn.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Toan_canh.tif",
+			"caption": "Toàn cảnh di sản văn hóa thế giới Thành Nhà Hồ"
+		}
 	},
 	{
 		"event": "Hồ Quý Ly lên ngôi, thành lập nhà Hồ, đổi tên nước thành Đại Ngu",
 		"from": "22/03/1400",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Hồ"
+		"dynasty": "Nhà Hồ",
+		"description": "Hồ Quý Ly (chữ Hán: 胡季犛; 1336 – 1407), lấy tên húy Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401 tự xưng là Quốc Tổ Chương Hoàng (國祖章皇), sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. Nhà Hồ (chữ Nôm: 茹胡, chữ Hán: 胡朝, Hán Việt: Hồ triều) là một triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Hồ Quý Ly lên ngôi năm 1400 sau khi giành được quyền lực từ tay nhà Trần và chấm dứt khi Hồ Hán Thương bị quân Minh bắt vào năm 1407 – tổng cộng là 7 năm. Quốc hiệu Đại Việt đã đổi thành Đại Ngu năm 1400. Đại Ngu (chữ Hán: 大虞) là quốc hiệu Việt Nam thời nhà Hồ, tồn tại từ năm 1400 đến khi cha con Hồ Quý Ly và Hồ Hán Thương bị bắt năm 1407.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:C%E1%BB%95ng_Nam.jpg",
+			"caption": "Cửa Nam thành Tây Đô , kinh đô nhà Hồ. Năm 2011, UNESCO đã công nhận Thành nhà Hồ ở tỉnh Thanh Hóa là di sản thế giới."
+		}
 	},
 	{
 		"event": "Chiến tranh Việt-Chiêm",
 		"from": "1400",
 		"to": "1407",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Hồ"
+		"dynasty": "Nhà Hồ",
+		"description": "Chiến tranh Việt – Chiêm (1400 – 1407) là cuộc chiến giữa nhà Hồ nước Đại Ngu và nước Chiêm Thành phía nam. Ban đầu nhà Hồ chiếm được đất đai mà tương đương với nam Quảng Nam và bắc Quảng Ngãi ngày nay; nhưng sau đó, do cuộc xâm lăng của nhà Minh, nhà Hồ thất bại và Chiêm Thành đã lấy lại những đất đai từng bị nhà Hồ chiếm.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Chiến tranh Đại Ngu–Đại Minh",
 		"from": "1406",
 		"to": "1407",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Hồ"
+		"dynasty": "Nhà Hồ",
+		"description": "Chiến tranh Đại Ngu – Đại Minh, Chiến tranh Hồ-Minh hay thường được giới sử học Việt Nam gọi là cuộc xâm lược của nhà Minh, là cuộc chiến của nhà Hồ nước Đại Ngu (Đại Việt) chống cuộc xâm chiếm của nhà Minh (Trung Quốc) dưới triều Minh Thành Tổ từ tháng 4 năm 1406 cho đến tháng 6 năm 1407 khi nhà Minh đánh bại hoàn toàn quân đội nhà Hồ và bắt được Hồ Quý Ly, Hồ Hán Thương.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ming-dynasty-map-small.jpg",
+			"caption": "Bản đồ lãnh thổ Trung Quốc dưới thời nhà Minh."
+		}
 	},
 	{
 		"event": "nhà Minh thôn tính Đại Ngu, đặt làm quận Giao Chỉ, trung tâm hành chính là Đông Quan",
 		"from": "1407",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Thuộc Minh"
+		"dynasty": "Thuộc Minh",
+		"description": "Đại Ngu (chữ Hán: 大虞) là quốc hiệu Việt Nam thời nhà Hồ, tồn tại từ năm 1400 đến khi cha con Hồ Quý Ly và Hồ Hán Thương bị bắt năm 1407. Giao Chỉ (chữ Hán: 交趾) là địa danh một phần lãnh thổ Việt Nam trong lịch sử, từ thời Hùng Vương đến các kỳ thời Bắc thuộc. Nó cũng là tên Bắc Tống và Nam Tống gọi 3 nhà nước của nhà Đinh, nhà Tiền Lê, và nhà Lý từ 975 đến 1164. Thăng Long (chữ Hán: 昇龍) là tên gọi cũ của thành phố Hà Nội. Đây là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng (1010 - 1788). Trong dân dã thì địa danh tên Nôm Kẻ Chợ được dùng phổ biến nên thư tịch Tây phương về Hà Nội trước thế kỷ 19 hay dùng Cachao hay Kecho.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
+			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
+		}
 	},
 	{
 		"event": "Trần Ngỗi xưng Giản Định đế, lập nên nhà Hậu Trần",
 		"from": "02/10/1400",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Thuộc Minh"
+		"dynasty": "Thuộc Minh",
+		"description": "Giản Định Đế (chữ Hán: 簡定帝; 1375 – 1410) là vị hoàng đế khai lập nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi từ năm 1407 đến năm 1409, sau đó làm Thái thượng hoàng cho tới khi mất năm 1410. Hậu Trần (chữ Nôm: 茹後陳, chữ Hán: 後陳朝, Hán Việt: Hậu Trần triều) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1414 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nhắc đến cụm từ này mà chỉ thuật lại sự việc trong những năm tháng ấy. Ở đây, viết theo sách Đại Việt sử ký toàn thư nên gọi là nhà Hậu Trần.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ming_Domination_of_Vietnam.jpg",
+			"caption": "Bản đồ Trung Quốc dưới triều nhà Minh"
+		}
 	},
 	{
 		"event": "nhà Hậu Trần bị nhà Minh đánh bại",
 		"from": "1413",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Thuộc Minh"
+		"dynasty": "Thuộc Minh",
+		"description": "Hậu Trần (chữ Nôm: 茹後陳, chữ Hán: 後陳朝, Hán Việt: Hậu Trần triều) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1414 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nhắc đến cụm từ này mà chỉ thuật lại sự việc trong những năm tháng ấy. Ở đây, viết theo sách Đại Việt sử ký toàn thư nên gọi là nhà Hậu Trần.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
+			"caption": "Chân dung Minh Thái Tổ (trị. 1368–1398), hoàng đế khai quốc nhà Minh."
+		}
 	},
 	{
 		"event": "khởi nghĩa Lam Sơn",
 		"from": "1418",
 		"to": "1427",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Thuộc Minh"
+		"dynasty": "Thuộc Minh",
+		"description": "Nghĩa quân Lam Sơn chiến thắng.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bia_Vinh_Lang.JPG",
+			"caption": "Bia Vĩnh Lăng do Nguyễn Trãi soạn nói về cuộc Khởi nghĩa Lam Sơn."
+		}
 	},
 	{
 		"event": "Lê Lợi thành lập quốc gia Đại Việt, đặt kinh đô tại Đông Kinh",
 		"from": "29/04/1428",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Lê Thái Tổ (chữ Hán: 黎太祖 10 tháng 9 năm 1385 – 5 tháng 10 năm 1433), húy danh là Lê Lợi (黎利) là một nhà chính trị, nhà lãnh đạo quân sự, người đã thành lập một đội quân người Việt và lãnh đạo đội quân này chiến đấu chống lại sự chiếm đóng của quân đội nhà Minh từ năm 1418 đến lúc đánh đuổi hoàn toàn quân Minh ra khỏi Đại Việt vào năm 1428 sau đó xây dựng và tái thiết lại đất nước. Ông cũng thành công với các chiến dịch quân sự đánh dẹp các tù trưởng ở biên giới phía Bắc Đại Việt và quân đội Ai Lao bị xúi giục. Ông được coi là anh hùng, vị Hoàng đế huyền thoại của Đại Việt với tài năng quân sự, khả năng cai trị và lòng nhân ái đối với nhân dân. Đông Nam Á thời tiền sử Thăng Long (chữ Hán: 昇龍) là tên gọi cũ của thành phố Hà Nội. Đây là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng (1010 - 1788). Trong dân dã thì địa danh tên Nôm Kẻ Chợ được dùng phổ biến nên thư tịch Tây phương về Hà Nội trước thế kỷ 19 hay dùng Cachao hay Kecho.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
+			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
+		}
 	},
 	{
 		"event": "Vụ án Lệ Chi viên",
 		"from": "1442",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Vụ án Lệ Chi viên, tức Vụ án vườn vải, là một vụ án oan nổi tiếng thời Lê sơ. Qua vụ án này, quan Đại thần Hành khiển Nguyễn Trãi và vợ là Lễ nghi học sĩ Nguyễn Thị Lộ bị triều đình Lê Sơ kết tội giết vua Lê Thái Tông, bắt tội chém đầu đến 3 họ nhà Nguyễn Trãi.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Chính biến Thiên Hưng, Lê Thánh Tông lên ngôi",
 		"from": "1459",
 		"to": "1460",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Chính biến Thiên Hưng là một loạt các sự kiện, trong đó có ba cuộc đảo chính từ tháng 10 năm 1459 đến tháng 6 năm 1460 dưới thời nhà Lê Sơ (1428 - 1527). Khoảng thời gian 8 tháng trên nằm trong niên hiệu Thiên Hưng (1459-1460) của vua Lê Nghi Dân. Hệ quả của sự kiện này là việc vua Lê Thánh Tông lên ngôi sau cái chết của Lê Nghi Dân và sau đó bức tử anh mình là Lê Khắc Xương. Sự kiện này cũng đặt ra nhiều nghi vấn về thân thế của vua Lê Nhân Tông, tính chính thống của Lê Nghi Dân và là vết đen trong sự nghiệp của Lê Thánh Tông. Lê Thánh Tông (chữ Hán: 黎聖宗 25/8/1442 – 3/3/1497) là vị Hoàng đế thứ tư trên danh nghĩa và thứ năm trên thực tế của nhà Hậu Lê trong lịch sử Việt Nam (Lê Nghi Dân tạo phản cướp ngôi nên các sử gia thời đó không công nhận là Hoàng đế chính thống), trị vì từ năm 1460 đến khi băng hà vào năm 1497, là vị vua tại vị lâu nhất thời Lê Sơ và lâu thứ hai thời Hậu Lê . Thời kỳ của ông đã đánh dấu sự hưng thịnh của triều Hậu Lê nói riêng và chế độ phong kiến Việt Nam nói chung với tên gọi Hồng Đức thịnh trị (洪德盛治).",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(Annam),_15th_century_-_Ewer_in_the_Shape_of_a_Dragon_-_1989.359_-_Cleveland_Museum_of_Art.tif",
+			"caption": "Tượng gốm Chu Đậu thời Hồng Đức, lưu trữ tại Bảo tàng Nghệ thuật Cleveland."
+		}
 	},
 	{
 		"event": "Chiến tranh Việt–Chiêm, miền bắc Chiêm Thành sáp nhập vào Đại Việt",
 		"from": "1471",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Chiến tranh Việt-Chiêm 1471 là cuộc chiến do vua Lê Thánh Tông của Đại Việt phát động năm 1471 nhằm chống lại vương quốc Chiêm Thành ở phương Nam. Quân đội Đại Việt thắng lớn, và Chiêm Thành suy yếu đến mức hầu như không còn được nhắc đến trong sử sách. Chiêm Thành (chữ Hán: 占城) là tên gọi của vương quốc Chăm Pa (tiếng Phạn: Campanagara) trong sử sách Việt Nam từ 877 đến 1693. Trước 859 Việt Nam gọi vương quốc này là Hoàn Vương. Đầu thế kỷ thứ 11, Chiêm Thành bao gồm 4 vùng đất (nhiều nguồn gọi là tiểu quốc) là: Amaravati (vùng Quảng Nam, Đà Nẵng ngày nay, và vùng Bình - Trị - Thiên nhưng sau này bị sáp nhập vào Đại Việt), Vijaya (vùng Quảng Ngãi, Bình Định ngày nay), Kauthara (vùng Phú Yên, Khánh Hòa ngày nay) và Panduranga (vùng Ninh Thuận và Bình Thuận ngày nay). Đông Nam Á thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
+			"caption": "Bản đồ Đông Nam Á"
+		}
 	},
 	{
 		"event": "Chiến tranh Đại Việt–Lan Xang",
 		"from": "1478",
 		"to": "1480",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "- Đại Việt chiến thắng -Lan Xang, Lanna, và Bồn Man bị phá hủy",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "biên soạn Luật Hồng Đức",
 		"from": "1483",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Luật Hồng Đức là tên gọi thông dụng của bộ Quốc triều hình luật hay Lê triều hình luật, là bộ luật chính thức của nhà nước Đại Việt thời Lê sơ hiện còn được lưu giữ đầy đủ. Do các bộ luật của các triều đại phong kiến Việt Nam đều có tên gọi là Quốc triều hình luật nên ở đây dùng tên gọi Luật Hồng Đức làm tên gọi cho bài mặc dù nó không phải là tên gọi chính thức.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khởi nghĩa Trần Tuân",
 		"from": "1511",
 		"to": "1512",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Trần Tuân (陳珣, ?-1511) là thủ lĩnh một cuộc nổi dậy chống triều đình cuối thời Lê sơ trong lịch sử Việt Nam.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khởi nghĩa Trần Cảo",
 		"from": "1516",
 		"to": "1521",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Trần Cảo (chữ Hán: 陳暠) là thủ lĩnh quân khởi nghĩa ở Đại Việt cuối thời Lê sơ. Ông lãnh đạo dân chúng nổi dậy chống các triều vua Lê Tương Dực, Lê Chiêu Tông, 3 lần đem quân uy hiếp Đông Kinh, ở lần 2 ông chiếm được Đông Kinh một thời gian. Cuộc nổi dậy của ông tuy thất bại nhưng đã gây cho quân triều đình thiệt hại lớn, và là một tác nhân đưa nhà Lê suy yếu và đi đến sụp đổ. Sách Khâm định Việt sử thông giám cương mục do phải kỵ húy nên thay chữ \"cảo\" 暠 trong tên ông bằng chữ \"cao\" 高, gọi ông là Trần Cao (陳高).",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Khủng hoảng cuối nhà Lê sơ và nội chiến",
 		"from": "1516",
 		"to": "1526",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê sơ"
+		"dynasty": "Nhà Lê sơ",
+		"description": "Trong lịch sử Việt Nam, giai đoạn cuối triều Lê sơ (1516 – 1526) tương ứng với các triều vua Lê Tương Dực, Lê Chiêu Tông và Lê Cung Hoàng xảy ra khủng hoảng kinh tế - chính trị trầm trọng. Trong khoảng thời gian này, Đại Việt trở nên loạn lạc, biến thành nội chiến kéo dài khiến nhà Lê suy vong, cuối cùng dẫn đến Mạc Đăng Dung nắm quyền, lập nên nhà Mạc.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Mạc Đăng Dung ép Lê Cung Hoàng nhường ngôi, lập lên nhà Mạc",
 		"from": "1527",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Mạc"
+		"dynasty": "Nhà Mạc",
+		"description": "Mạc Thái Tổ (chữ Hán: 莫太祖 22 tháng 12, 1483 – 11 tháng 9, 1541) tên húy là Mạc Đăng Dung (莫登庸), là nhà chính trị, hoàng đế sáng lập ra triều Mạc trong lịch sử Việt Nam. Ông đóng vai trò quan trọng trong các sự kiện đánh dẹp các thế lực cát cứ, chống đối triều đình, loại bỏ ảnh hưởng của những người ủng hộ nhà Lê, thành lập nhà Mạc và chống lại những lực lượng trung thành với nhà Lê ở Thanh Hóa. Lê Trang Tông Nhà Mạc (chữ Hán: 莫朝 / Mạc triều) là triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Mạc Đăng Dung, sau khi dẹp được các bè phái trong cung đình, đã ép vua Lê Cung Hoàng nhà Hậu Lê nhường ngôi tháng 6 năm 1527 và chấm dứt khi vua Mạc Mậu Hợp lập con trai là Mạc Toàn lên ngôi, bị quân đội Lê-Trịnh do Trịnh Tùng chỉ huy đánh bại vào cuối năm 1592 – Sau đó Mạc Toàn lên ngôi nhưng tại vị chỉ được 2 tháng, tổng cộng thời gian tồn tại chính thức của triều đại là gần 66 năm.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
+			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
+		}
 	},
 	{
 		"event": "Nguyễn Kim lập Lê Ninh làm vua, tái lập nhà Lê, đóng đô tại Vạn Lại",
 		"from": "1533",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Mạc"
+		"dynasty": "Nhà Mạc",
+		"description": "Nguyễn Kim (chữ Hán: 阮淦, 1468–1545), là một nhà chính trị và quân sự giai đoạn Lê trung hưng trong lịch sử Việt Nam. Ông được xem là người lãnh đạo trên thực tế của chính quyền và quân đội Lê trung hưng, đã tích cực đối kháng nhà Mạc sau khi nhà Lê sơ sụp đổ. Ông đã đem các con em chạy sang Ai Lao, chiêu tập binh mã, tôn lập vua Lê Trang Tông, đặt nền móng gây dựng lại nhà Lê và mở đầu thời kỳ Nam–Bắc triều (1533–1592). Ông là nội tổ phụ của các chúa Nguyễn và vua Nguyễn sau này, đồng thời cũng là ngoại tổ phụ của các chúa Trịnh. Các vua Hậu Lê từ Lê Thần Tông (cháu ruột Trịnh Tùng) cũng là hậu duệ trực tiếp bên họ ngoại của ông. Miếu hiệu của ông là Triệu Tổ, thụy là Tĩnh Hoàng đế dù ông không phải là vua hoặc chúa nào ở nhà Nguyễn. Lê Trang Tông (chữ Hán: 黎莊宗 1515 - 9 tháng 3 năm 1548), hay còn gọi là Trang Tông Dụ Hoàng đế (莊宗裕皇帝), tên thật là Lê Ninh (黎寧), là vị Hoàng đế thứ 12 của nhà Hậu Lê và là vị Hoàng đế đầu tiên của nhà Lê Trung hưng trong lịch sử Việt Nam. Ông còn được dân gian ưu ái đặt cho mỹ danh nghèo nàn là Chúa Chổm. Nhà Lê trung hưng (chữ Nôm: 茹黎中興, chữ Hán: 黎中興朝, Hán Việt: Lê trung hưng triều, 1533–1789) là giai đoạn sau của triều đại quân chủ nhà Hậu Lê (giai đoạn đầu là nhà Lê sơ) trong lịch sử Việt Nam. Nhà Lê trung hưng được thành lập khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại Việt Nam với 256 năm. Kinh đô Vạn Lại – An Trường hay còn gọi với các tên khác như hành cung Vạn Lại, hành điện Vạn Lại, cố đô Vạn Lại, là kinh đô của Đại Việt nam triều nhà Lê trong giai đoạn Nam - Bắc triều phân tranh của hai họ Lê - Mạc. Cả Vạn Lại và An Trường nay đều thuộc đất huyện Thọ Xuân, ở phía đông Lam Kinh và ở cách nhau không xa.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Doan_ruoc_vua_Le.jpg",
+			"caption": "Nghi vệ xa giá vua Lê. Tranh vẽ thế kỷ XVIII."
+		}
 	},
 	{
 		"event": "Chiến tranh Lê–Mạc",
 		"from": "1533",
 		"to": "1677",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Mạc"
+		"dynasty": "Nhà Mạc",
+		"description": "Nội chiến Lê–Mạc (1533–1677) là cuộc nội chiến giữa nhà Mạc và nhà Hậu Lê trong lịch sử Việt Nam. Phe chống nhà Mạc về sau khi chép sử có gọi đây là thời kỳ Phù Lê diệt Mạc.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "nhà Lê trung hưng đánh bại nhà Mạc, lên nắm quyền điều hành đất nước",
 		"from": "1592",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nhà Lê trung hưng (chữ Nôm: 茹黎中興, chữ Hán: 黎中興朝, Hán Việt: Lê trung hưng triều, 1533–1789) là giai đoạn sau của triều đại quân chủ nhà Hậu Lê (giai đoạn đầu là nhà Lê sơ) trong lịch sử Việt Nam. Nhà Lê trung hưng được thành lập khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại Việt Nam với 256 năm. Nhà Mạc (chữ Hán: 莫朝 / Mạc triều) là triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Mạc Đăng Dung, sau khi dẹp được các bè phái trong cung đình, đã ép vua Lê Cung Hoàng nhà Hậu Lê nhường ngôi tháng 6 năm 1527 và chấm dứt khi vua Mạc Mậu Hợp lập con trai là Mạc Toàn lên ngôi, bị quân đội Lê-Trịnh do Trịnh Tùng chỉ huy đánh bại vào cuối năm 1592 – Sau đó Mạc Toàn lên ngôi nhưng tại vị chỉ được 2 tháng, tổng cộng thời gian tồn tại chính thức của triều đại là gần 66 năm.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
+			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
+		}
 	},
 	{
 		"event": "Lê Thế Tông dời đô về Đông Kinh",
 		"from": "1597",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Lê Thế Tông (chữ Hán: 黎世宗 1567 - 12 tháng 10 năm 1599), tên húy là Lê Duy Đàm (黎維潭), là vị hoàng đế thứ tư của Hoàng triều Lê - giai đoạn Trung hưng và thứ 15 của triều Hậu Lê nước Đại Việt, ở ngôi từ năm 1573 đến năm 1599. Ông là hoàng đế nhà Lê đầu tiên trở lại nhập chủ Thăng Long sau 66 năm nhà Lê Sơ bị họ Mạc cướp ngôi (1527-1593) và hoàn thành công cuộc trung hưng vương triều. Thăng Long (chữ Hán: 昇龍) là tên gọi cũ của thành phố Hà Nội. Đây là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng (1010 - 1788). Trong dân dã thì địa danh tên Nôm Kẻ Chợ được dùng phổ biến nên thư tịch Tây phương về Hà Nội trước thế kỷ 19 hay dùng Cachao hay Kecho.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
+			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
+		}
 	},
 	{
 		"event": "Nguyễn Hoàng vào trấn thủ Thuận Hóa",
 		"from": "1558",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nguyễn Hoàng (chữ Hán: 阮潢; 28 tháng 8, 1524 – 20 tháng 7 năm 1613) hay Nguyễn Thái Tổ, Chúa Tiên, là vị chúa Nguyễn đầu tiên, người đặt nền móng cho vương triều Nguyễn (1802 - 1945). Ông quê ở Gia Miêu Ngoại trang, huyện Tống Sơn, phủ Hà Trung, xứ Thanh Hoa, ngày nay thuộc địa phận xã Hà Long, huyện Hà Trung, tỉnh Thanh Hóa. Ông nội (Nguyễn Hoằng Dụ) và cha ông (Nguyễn Kim) là những trọng thần của triều đình nhà Hậu Lê. Sau cái chết của cha ông là Nguyễn Kim, người anh rể là chúa Trịnh Kiểm nắm giữ quyền hành đã giết chết anh trai ông là Nguyễn Uông, Nguyễn Hoàng nhờ chị gái Nguyễn Thị Ngọc Bảo xin Trịnh Kiểm cho mình vào trấn thủ Thuận Hóa, Trịnh Kiểm chấp thuận. Thuận Hóa (順化) là địa danh hành chính cũ của vùng đất bao gồm Quảng Bình, Quảng Trị, Thừa Thiên Huế, Đà Nẵng và phía bắc Quảng Nam . Đây nguyên là đất các châu Bố Chính, Địa Lý, Ma Linh, Châu Ô, Châu Rí (hay Lý) của Chiêm Thành.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_Th%E1%BB%ABa_Tuy%C3%AAn_Thu%E1%BA%ADn_H%C3%B3a_trong_b%E1%BB%99_H%E1%BB%93ng_%C4%90%E1%BB%A9c_B%E1%BA%A3n_%C4%90%E1%BB%93.jpg",
+			"caption": "Thừa Tuyên Thuận Hóa trong Hồng Đức Bản Đồ"
+		}
 	},
 	{
 		"event": "Trịnh – Nguyễn phân tranh",
 		"from": "1627",
 		"to": "1672",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Trịnh–Nguyễn phân tranh (chữ Hán: 鄭阮紛爭) là thời kỳ phân chia lãnh thổ giữa chế độ \"vua Lê chúa Trịnh\" ở phía Bắc sông Gianh (Đàng Ngoài) và chúa Nguyễn cai trị ở miền Nam (Đàng Trong), mở đầu khi Trịnh Tráng đem quân đánh Nguyễn Phúc Nguyên năm 1627 và kết thúc vào năm 1777 khi chúa Nguyễn sụp đổ.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Triumphant_return_of_a_civil_commander,_view_2,_Doc_Loi_temple,_Nghe_An_province,_late_18th_century,_Do_(poonah)_paper_-_Vietnam_National_Museum_of_Fine_Arts_-_Hanoi,_Vietnam_-_DSC05115.JPG",
+			"caption": "Quân đội Đàng Ngoài, tranh Võ quan vinh quy đồ Thế kỷ 17."
+		}
 	},
 	{
 		"event": "nhà Lê trung hưng đánh bại hoàn toàn nhà Mạc",
 		"from": "1683",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nhà Lê trung hưng (chữ Nôm: 茹黎中興, chữ Hán: 黎中興朝, Hán Việt: Lê trung hưng triều, 1533–1789) là giai đoạn sau của triều đại quân chủ nhà Hậu Lê (giai đoạn đầu là nhà Lê sơ) trong lịch sử Việt Nam. Nhà Lê trung hưng được thành lập khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại Việt Nam với 256 năm. Nhà Mạc (chữ Hán: 莫朝 / Mạc triều) là triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Mạc Đăng Dung, sau khi dẹp được các bè phái trong cung đình, đã ép vua Lê Cung Hoàng nhà Hậu Lê nhường ngôi tháng 6 năm 1527 và chấm dứt khi vua Mạc Mậu Hợp lập con trai là Mạc Toàn lên ngôi, bị quân đội Lê-Trịnh do Trịnh Tùng chỉ huy đánh bại vào cuối năm 1592 – Sau đó Mạc Toàn lên ngôi nhưng tại vị chỉ được 2 tháng, tổng cộng thời gian tồn tại chính thức của triều đại là gần 66 năm.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
+			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
+		}
 	},
 	{
 		"event": "khởi nghĩa Tây Sơn",
 		"from": "1771",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là một triều đại quân chủ trong lịch sử Việt Nam tồn tại từ năm 1778 đến năm 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê Trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì \"nhà Tây Sơn\" được dùng để gọi triều đại của anh em Nguyễn Nhạc, Nguyễn Lữ và Nguyễn Huệ để phân biệt với nhà Nguyễn của Nguyễn Ánh (vì cùng họ Nguyễn). Ngoài ra, \"Tây Sơn\" cũng chỉ các lãnh tụ và quân đội khởi nghĩa xuất thân từ ấp Tây Sơn; cũng được dùng làm tên cuộc chiến của Tây Sơn.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nhac_Brothers.JPG",
+			"caption": "Tượng Tây Sơn Tam Kiệt ở Bảo tàng Quang Trung, Quy Nhơn, Bình Định."
+		}
 	},
 	{
 		"event": "chiến tranh Bình Nam",
 		"from": "1774",
 		"to": "1775",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Bình Nam (Chữ Hán: 平南) là cuộc chiến lần thứ 8 và là cuộc chiến cuối cùng giữa chúa Trịnh và chúa Nguyễn trong lịch sử chia cắt Đàng Ngoài-Đàng Trong hơn 200 năm của nước Đại Việt. Trong sử sách nhà Nguyễn cuộc chiến này còn được gọi là Loạn năm Giáp Ngọ.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Nguyễn Ánh xưng vương",
 		"from": "1777",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%90%E1%BB%93_X%E1%BB%A9_Gia_%C4%90%E1%BB%8Bnh_H%E1%BA%ADu_B%E1%BA%A3n_XVIII.png",
+			"caption": "Lược đồ một số địa danh ở Gia Định cuối thế kỷ XVIII xuất hiện trong bài viết. Bản đồ này chứa đựng hầu hết các địa danh ở miền nam Việt Nam và khu vực lân cận xuất hiện trong bài viết (riêng địa danh Long Xuyên thế kỷ XVIII nay là Cà Mau, Long Xuyên trong bản đồ này chỉ là địa danh từ cuối thế kỷ XIX khi thuộc Pháp)."
+		}
 	},
 	{
 		"event": "Nguyễn Nhạc xưng Hoàng đế, đặt niên hiệu Thái Đức, lập lên nhà Tây Sơn, đặt kinh đô tại Quy Nhơn",
 		"from": "1778",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nguyễn Nhạc (阮岳) Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là một triều đại quân chủ trong lịch sử Việt Nam tồn tại từ năm 1778 đến năm 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê Trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì \"nhà Tây Sơn\" được dùng để gọi triều đại của anh em Nguyễn Nhạc, Nguyễn Lữ và Nguyễn Huệ để phân biệt với nhà Nguyễn của Nguyễn Ánh (vì cùng họ Nguyễn). Ngoài ra, \"Tây Sơn\" cũng chỉ các lãnh tụ và quân đội khởi nghĩa xuất thân từ ấp Tây Sơn; cũng được dùng làm tên cuộc chiến của Tây Sơn. Quy Nhơn là một thành phố lớn ven biển vùng duyên hải Nam Trung Bộ, Việt Nam và là trung tâm kinh tế, chính trị, văn hóa, khoa học kỹ thuật và du lịch của tỉnh Bình Định, Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Harbour_of_Qui_Nhon_1795_Jean-Marie_Dayot.jpg",
+			"caption": "Cảng Quy Nhơn năm 1795, vẽ bởi Jean-Marie Dayot."
+		}
 	},
 	{
 		"event": "Nguyễn Nhạc phong Nguyễn Huệ làm Bắc Bình Vương",
 		"from": " 1428",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Nguyễn Huệ (阮惠)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
+			"caption": "Nguồn gốc dòng Tây Sơn"
+		}
 	},
 	{
 		"event": "Nguyễn Huệ phá tan quân Xiêm tại Rạch Gầm – Xoài Mút",
 		"from": "19/01/1785",
 		"to": "20/01/1785",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Lê trung hưng"
+		"dynasty": "Nhà Lê trung hưng",
+		"description": "Trận Rạch Gầm – Xoài Mút (tiếng Thái: การรบที่ซากเกิ่ม-สว่ายมุต) là một trận chiến lớn trên sông diễn ra vào đêm 19 rạng sáng ngày 20 tháng 1 năm 1785 giữa liên quân Xiêm-Nguyễn và quân Tây Sơn tại khúc sông Rạch Gầm - Xoài Mút, khi đó thuộc dinh Trấn Định, xứ Đàng Trong; về sau đổi thành tỉnh Mỹ Tho, nay thuộc tỉnh Tiền Giang, Việt Nam. Chỉ trong nửa ngày, quân Tây Sơn do Nguyễn Huệ chỉ huy đã dùng chiến thuật phục kích để đánh tan lực lượng quân Xiêm đông gấp đôi, bảo vệ được chủ quyền của Đại Việt tại vùng Nam Bộ trước đội quân viễn chinh Xiêm La (nay là Thái Lan) do Nguyễn Ánh cầu viện.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG",
+			"caption": "Tượng đài kỷ niệm chiến thắng Rạch Gầm-Xoài Mút tại Châu Thành, Tiền Giang"
+		}
 	},
 	{
 		"event": "Nguyễn Nhạc từ bỏ đế hiệu, chỉ xưng Tây Sơn vương",
 		"from": "1788",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tây Sơn"
+		"dynasty": "Nhà Tây Sơn",
+		"description": "Nguyễn Nhạc (阮岳)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
+			"caption": "Nguồn gốc Nhà Tây Sơn"
+		}
 	},
 	{
 		"event": "Nguyễn Huệ xưng đế, đặt niên hiệu Quang Trung, đặt kinh đô tại Phú Xuân",
 		"from": "22/12/1785",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tây Sơn"
+		"dynasty": "Nhà Tây Sơn",
+		"description": "Nguyễn Huệ (阮惠) Cố đô Huế là thủ phủ Đàng Trong dưới thời các chúa Nguyễn từ năm 1687 đến 1774, sau đó là thủ đô của triều đại Tây Sơn từ năm 1788 khi Hoàng đế Quang Trung tức Nguyễn Huệ lên ngôi. Khi Nguyễn Ánh lên ngôi vào năm 1802 lấy niên hiệu là Gia Long, ông cũng chọn thành Phú Xuân làm kinh đô cho nhà Nguyễn – triều đại phong kiến cuối cùng trong lịch sử Việt Nam. Huế kết thúc sứ mệnh là thủ đô Việt Nam vào năm 1945 khi vị hoàng đế cuối cùng của nhà Nguyễn là Bảo Đại thoái vị.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:K%E1%BB%B3_%C4%91%C3%A0i_%E1%BB%9F_Hu%E1%BA%BF.jpg",
+			"caption": "Hoa đỏ rực bên Kỳ Đài"
+		}
 	},
 	{
 		"event": "Trận Ngọc Hồi – Đống Đa, đẩy lui quân xâm lược nhà Thanh, nhà Hậu Lê sụp đổ",
 		"from": "1789",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tây Sơn"
+		"dynasty": "Nhà Tây Sơn",
+		"description": "60.000 quân chính quy và dân binh đóng ở miền bắc, cộng với mấy vạn quân và dân binh hành quân từ phía nam ra, tổng số khoảng 100.000 quân chính quy và dân binh (gồm khoảng 5 vạn quân chính quy và 5 vạn dân binh) Thời tiền sử",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BB%BF%E8%92%99%E6%BC%A2%E5%90%88%E7%92%A7%E6%95%99%E7%A7%91%E6%9B%B8_(%E7%AF%80%E9%8C%84).png",
+			"caption": "Văn chương Trung Quốc (中國) trong một cuốn sách giáo khoa tiếng Trung, tiếng Mãn và tiếng Mông Cổ (song ngữ) được xuất bản trong triều đại nhà Thanh; đoạn văn hiển thị ở trên có nội dung: \"Đất nước Trung Quốc của chúng tôi nằm ở Đông Á... Trong 5000 năm, văn hóa phát triển (ở đất nước Trung Quốc)... Vì chúng tôi là người Trung Quốc, làm sao chúng tôi không yêu Trung Quốc.\""
+		}
 	},
 	{
 		"event": "Nguyễn Huệ qua đời, con trai Nguyễn Quang Toản lên ngôi",
 		"from": "16/09/1792",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Tây Sơn"
+		"dynasty": "Nhà Tây Sơn",
+		"description": "Nguyễn Huệ (阮惠) Nguyễn Quang Toản (chữ Hán: 阮光纘, 1783 – 1802), là vị hoàng đế thứ 3 và cuối cùng của Vương triều Tây Sơn trong lịch sử Việt Nam. Ông là con trai của vua Quang Trung (Nguyễn Huệ), lên ngôi sau khi Nguyễn Huệ mất vào tháng 8 năm 1792 khi mới 10 tuổi. Trong thời gian trị vì, ông đã đặt 2 niên hiệu là Cảnh Thịnh và Bảo Hưng.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
+			"caption": "Nguồn gốc dòng Tây Sơn"
+		}
 	},
 	{
 		"event": "Nguyễn Ánh đánh bại nhà Tây Sơn, lên ngôi vua, đặt niên hiệu là Gia Long, lập lên nhà Nguyễn, đặt kinh đô tại Phú Xuân",
 		"from": "1802",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Tây Sơn là một huyện nằm ở phía tây nam tỉnh Bình Định, Việt Nam. Cố đô Huế là thủ phủ Đàng Trong dưới thời các chúa Nguyễn từ năm 1687 đến 1774, sau đó là thủ đô của triều đại Tây Sơn từ năm 1788 khi Hoàng đế Quang Trung tức Nguyễn Huệ lên ngôi. Khi Nguyễn Ánh lên ngôi vào năm 1802 lấy niên hiệu là Gia Long, ông cũng chọn thành Phú Xuân làm kinh đô cho nhà Nguyễn – triều đại phong kiến cuối cùng trong lịch sử Việt Nam. Huế kết thúc sứ mệnh là thủ đô Việt Nam vào năm 1945 khi vị hoàng đế cuối cùng của nhà Nguyễn là Bảo Đại thoái vị.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:K%E1%BB%B3_%C4%91%C3%A0i_%E1%BB%9F_Hu%E1%BA%BF.jpg",
+			"caption": "Hoa đỏ rực bên Kỳ Đài"
+		}
 	},
 	{
 		"event": "Nổi dậy Đá Vách",
 		"from": "1803",
 		"to": "1855",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Phong trào nổi dậy ở Đá Vách là tên gọi một loạt nhiều cuộc nổi dậy của người dân tộc thiểu số ở khu vực Quảng Ngãi, Việt Nam. Phong trào kéo dài từ buổi đầu triều đại vua Gia Long đến suốt hơn nửa thế kỷ.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Nguyễn Ánh đổi tên nước thành Việt Nam",
 		"from": "1804",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
+			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
+		}
 	},
 	{
 		"event": "Khởi nghĩa Phan Bá Vành",
 		"from": "1821",
 		"to": "1827",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Phan Bá Vành Phan Khánh (Ba Voi) Trần Bất Hựu (Ba Bất) Hai Đáng - Trưởng tả quân Phan Ba Trần Diễn Chiêu Liễn Vũ Thị Hinh (vợ Hai Đáng) Ba Hùm thủ lĩnh (người Mường) Nguyễn Hạnh (tướng cũ của nhà Tây Sơn)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:S%C6%A1_%C4%91%E1%BB%93_m%E1%BB%99t_s%E1%BB%91_%C4%91%E1%BB%8Ba_danh_li%C3%AAn_quan_kh%E1%BB%9Fi_ngh%C4%A9a_Phan_B%C3%A1_V%C3%A0nh.png",
+			"caption": "Sơ đồ một số địa danh trong khởi nghĩa Phan Bá Vành"
+		}
 	},
 	{
 		"event": "Chiến tranh Việt–Xiêm",
 		"from": "1833",
 		"to": "1834",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Chiến tranh Việt – Xiêm (1833-1834) là một cuộc chiến gồm hai đợt tấn công của quân Xiêm vào lãnh thổ Đại Nam (Việt Nam ngày nay), đợt thứ nhất khởi đầu từ tháng 11 năm 1833, đợt thứ hai tấn công từ tháng Giêng năm Giáp Ngọ (1834), đến tháng Năm cùng năm thì kết thúc. Sau cùng, quân Việt chiến thắng. Theo Việt sử tân biên, Quyển 4, thì:",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:R%E1%BA%A1ch_%C3%94ng_Ch%C6%B0%E1%BB%9Fng.jpg",
+			"caption": "Bản đồ vị trí sông Thuận Cảng (Vàm Nao) và đồn Cổ Hỗ (nay là chợ Thủ, xã Long Điền A, huyện Chợ Mới)."
+		}
 	},
 	{
 		"event": "Việt Nam thôn tính Chân Lạp, đặt làm Trấn Tây Thành",
 		"from": "1836",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tran_Tay_Thanh_1838.jpg",
+			"caption": "Vị trí của Trấn Tây Thành"
+		}
 	},
 	{
 		"event": "Minh Mạng đổi tên nước thành Đại Nam",
 		"from": "15/02/1839",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị hoàng đế thứ hai của triều Nguyễn trị vì từ năm 1820 đến khi ông qua đời, được truy tôn miếu hiệu là Nguyễn Thánh Tổ. Ông là vị vua có nhiều thành tích nhất của nhà Nguyễn. Đây được xem là thời kỳ hùng mạnh cuối cùng của chế độ phong kiến trong lịch sử Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:MinhMang.jpg",
+			"caption": "Một bức chân dung Minh Mạng."
+		}
 	},
 	{
 		"event": "rút quân khỏi Trấn Tây Thành, Xiêm đặt Ang Duong lên ngôi, tái lập Chân Lạp",
 		"from": "1841",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Xiêm (tiếng Thái Lan: สยาม; chuyển tự: Siam, IPA: ), còn gọi là Xiêm La (暹羅), là quốc hiệu chính thức của Thái Lan từ thời nhà Chakri được thành lập năm 1782 cho đến ngày 23 tháng 6 năm 1939.Từ \"Xiêm\" có nghĩa là \"nước da nâu\". Sau đó, tên gọi Xiêm được sử dụng lại một cách chính thức trong thời kỳ từ năm 1945 đến ngày 11 tháng 5 năm 1949. Preah Bat Ang Duong(1796-19 tháng 5 năm 1860) (trị vì 1841-1844, 1845-1860), (tiếng Khmer: ព្រះបាទ អង្គ ឌួង, phát âm tiếng Khmer: ), tên phiên âm Hán-Việt là Nặc Ông Đôn (匿螉𧑒) hay Nặc Ông Giun, là vua của Campuchia. Danh hiệu chính thức của ông là Preah Raja Samdach Preah Hariraksha Rama Suriya Maha Isvara Adipati.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:East-Hem_600ad.jpg",
+			"caption": "Chân Lạp - Phù Nam, vào năm 600"
+		}
 	},
 	{
 		"event": "Chiến tranh Pháp-Đại Nam",
 		"from": "1858",
 		"to": "1884",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ban_do_viet_nam_1857.jpg",
+			"caption": "Bản đồ Việt Nam năm 1857"
+		}
 	},
 	{
 		"event": "Bạo loạn ven biển",
 		"from": "1861",
 		"to": "1865",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Cuộc nổi dậy Tạ Văn Phụng, hay còn gọi là Cuộc bạo loạn ven biển hoặc Nạn giặc biển; là tên gọi của cuộc nổi dậy do Tạ Văn Phụng lãnh đạo chống lại triều đình nhà Nguyễn ở vùng ven biển Bắc Kỳ từ 1861 cho tới 1865.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Chính biến chày vôi",
 		"from": "1866",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Cuộc nổi dậy Đoàn Hữu Trưng xảy ra vào ngày 16 tháng 9 năm 1866 do Đoàn Hữu Trưng khởi xướng, có thể gọi là cuộc đảo chính lần thứ ba dưới triều vua Tự Đức. Những người lãnh đạo cuộc nổi dậy tin rằng việc đưa Đinh Đạo (tức Ưng Đạo, con trai trưởng của Hồng Bảo) lên thay Tự Đức sẽ cải thiện được tình hình rối ren trong nước và công cuộc kháng Pháp sẽ hiệu quả hơn. Do lực lượng nổi dậy dùng chày vôi (dụng cụ lao động) làm vũ khí, nên sử nhà Nguyễn và người dân quen gọi sự kiện này là Loạn chày vôi hoặc Giặc chày vôi.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tomb_of_Tu_Duc_3.jpg",
+			"caption": "Lăng Tự Đức, tức Vạn Niên cơ."
+		}
 	},
 	{
 		"event": "nhà Nguyễn cắt Nam Kỳ lục tỉnh nhượng cho Pháp",
 		"from": "1867",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Nhà Nguyễn"
+		"dynasty": "Nhà Nguyễn",
+		"description": "Nam Kỳ Lục tỉnh (南圻六省) hay Lục tỉnh (六省), là tên gọi Vùng Nam Bộ thời nhà Nguyễn độc lập, tức là khoảng thời gian từ năm 1832 (cải cách hành chính của Minh Mạng) tới năm 1862 (khi Pháp chiếm 3 tỉnh Miền Đông) và năm 1867 (khi Pháp chiếm nốt 3 tỉnh Miền Tây). Đương thời, người Pháp gọi Nam Kỳ Lục Tỉnh bằng cái tên Basse-Cochinchine (tức là vùng Cochinchine \"hạ\" hay vùng Hạ Đàng Trong). – ở châu Âu (xanh & xám đậm) – trong Liên minh châu Âu (xanh)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lascaux2.jpg",
+			"caption": "Một bức hoạ trong di chỉ Lascaux tại tỉnh Dordogne, khoảng 18.000 TCN"
+		}
 	},
 	{
 		"event": "Hòa ước Giáp Thân, kết thúc Chiến tranh Pháp–Đại Nam, triều đình nhà Nguyễn chấp nhận sự bảo hộ của Pháp",
 		"from": "06/06/1884",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Hòa ước Giáp Thân 1884 hay còn có tên là Hòa ước Patenôtre (phiên âm: Hòa ước Pa-tơ-nốt), là hòa ước cuối cùng nhà Nguyễn ký với thực dân Pháp vào ngày 6 tháng 6 năm 1884 tại kinh đô Huế gồm có 19 điều khoản. Đại diện nhà Nguyễn là Phạm Thận Duật - Toàn quyền đại thần, Tôn Thất Phan - Phó Toàn quyền đại thần, Nguyễn Văn Tường - Phụ chính đại thần và đại diện của Pháp là Jules Patenôtre - Sứ thần Cộng hoà Pháp. Bảo hộ theo luật quốc tế là một thể thức chính trị khi một vùng lãnh thổ được một quốc gia khác cam kết bảo vệ về mặt ngoại giao hoặc quốc phòng. Ngược lại, nước bị bảo hộ phải chịu một số ràng buộc tùy theo thỏa thuận. Nước bị bảo hộ theo danh nghĩa thì vẫn toàn vẹn chủ quyền, nhưng trong thực tế, đối với bảo hộ kiểu chủ nghĩa thực dân thì hầu hết đã bị biến thành chính phủ bù nhìn, phải tuân theo mọi mệnh lệnh của nước bảo hộ. \"Bảo hộ\" lúc này chỉ là cách nói ngụy trang cho việc xâm chiếm nước khác làm thuộc địa. Đế quốc thực dân Pháp bao gồm các thuộc địa hải ngoại, xứ bảo hộ và lãnh thổ ủy thác nằm dưới sự cai trị của Pháp từ thế kỷ 16 trở đi. Các nhà sử học thường phân biệt \"Đế quốc thực dân Pháp thứ nhất\" tồn tại cho đến năm 1814, khi phần lớn lãnh thổ hải ngoại bị mất hoặc bị bán và \"Đế quốc thực dân Pháp thứ hai\" kể từ cuộc xâm lược Algérie năm 1830. Khi đỉnh điểm, đế quốc Pháp là một trong những đế quốc lớn nhất, bao gồm cả chính quốc PhápTổng diện tích của toàn đế quốc đạt 13,500,000 km² vào năm 1920, với dân số 150 triệu người vào năm 1936.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:131Etendue_de_l%27Empire_Fran%C3%A7ais.svg",
+			"caption": "Bản đồ của đế quốc thực dân Pháp thứ nhất (màu xanh lá cây) và thứ hai (màu xanh dương)."
+		}
 	},
 	{
 		"event": "phong trào Cần Vương",
 		"from": "1885",
 		"to": "1895",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Phong trào Cần Vương (Chữ Nôm: 風潮勤王) nổ ra vào cuối thế kỷ 19 do đại thần nhà Nguyễn là Tôn Thất Thuyết nhân danh vua Hàm Nghi đề xướng trước cuộc xâm lược của thực dân Pháp.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "thực dân Pháp thành lập Liên bang Đông Dương, gồm Bắc Kỳ, Trung Kỳ, Nam Kỳ và Campuchia, đặt thủ đô tại Sài Gòn",
 		"from": "17/10/1887",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Đế quốc thực dân Pháp bao gồm các thuộc địa hải ngoại, xứ bảo hộ và lãnh thổ ủy thác nằm dưới sự cai trị của Pháp từ thế kỷ 16 trở đi. Các nhà sử học thường phân biệt \"Đế quốc thực dân Pháp thứ nhất\" tồn tại cho đến năm 1814, khi phần lớn lãnh thổ hải ngoại bị mất hoặc bị bán và \"Đế quốc thực dân Pháp thứ hai\" kể từ cuộc xâm lược Algérie năm 1830. Khi đỉnh điểm, đế quốc Pháp là một trong những đế quốc lớn nhất, bao gồm cả chính quốc PhápTổng diện tích của toàn đế quốc đạt 13,500,000 km² vào năm 1920, với dân số 150 triệu người vào năm 1936. Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921. Bắc Kỳ (chữ Hán: 北圻) là địa danh do vua Minh Mạng ấn định vào năm 1834 trong cuộc cải cách hành chính để mô tả vùng đất từ tỉnh Ninh Bình trở ra Bắc của Đại Nam, thay cho địa danh Bắc Thành. Trung Kỳ (chữ Hán: 中圻) là tên gọi do vua Minh Mạng đặt ra cho phần giữa của Việt Nam năm 1834, và là một trong ba vùng của Việt Nam khi đó, cùng với Bắc Kỳ và Nam Kỳ. Người Pháp sau khi chiếm toàn bộ Việt Nam năm 1884 đã đặt vùng đất này thành xứ bảo hộ Trung Kỳ nằm trong Đông Dương thuộc Pháp. Thời Đế quốc Việt Nam năm 1945, tên gọi Trung Kỳ được đổi thành Trung Bộ. Nam Kỳ (chữ Hán: 南圻) là lãnh thổ cực Nam của nước Đại Nam triều Nguyễn, là một trong ba kỳ hợp thành nước Việt Nam. Tên gọi này do vua Minh Mạng đặt ra năm 1832. ở ASEAN (xám đậm) –",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
+			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
+		}
 	},
 	{
 		"event": "sáp nhập Lào vào Liên bang Đông Dương",
 		"from": "03/10/1893",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "ở ASEAN (xám đậm) – Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
+			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
+		}
 	},
 	{
 		"event": "sáp nhập Quảng Châu Loan vào Liên bang Đông Dương",
 		"from": "12/04/1898",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Quảng Châu Loan (tiếng Pháp: Kouang-Tchéou-Wan, tiếng Trung: 廣州灣), hoặc Lãnh thổ Quảng Châu Loan (tiếng Pháp: Territoire de Kouang-Tchéou-Wan) là một vùng lãnh thổ nằm ở ven bờ đông bán đảo Lôi Châu tỉnh Quảng Đông, Trung Quốc. Khu vực này từ năm 1898 là nhượng địa của Pháp ký với nhà Thanh với hạn kỳ 99 năm nhưng đến năm 1946 thì đã hoàn lại chính phủ Trung Hoa. Nay vùng đất này thuộc địa cấp thị Trạm Giang, tỉnh Quảng Đông. Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
+			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
+		}
 	},
 	{
 		"event": "Liên bang Đông Dương dời thủ đô về Hà Nội",
 		"from": "1902",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ha_Noi_in_Vietnam.svg",
+			"caption": "Vị trí thành phố Hà Nội trên bản đồ Việt Nam"
+		}
 	},
 	{
 		"event": "phong trào Duy Tân",
 		"from": "1906",
 		"to": "1908",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Cuộc vận động Duy Tân, hay còn được gọi là Phong trào Duy Tân hoặc Phong trào Duy Tân ở Trung Kỳ là một cuộc vận động cải cách ở miền Trung Việt Nam, do Phan Châu Trinh (1872 - 1926) phát động năm 1906 cho đến năm 1908 thì kết thúc sau khi bị thực dân Pháp đàn áp.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "phong trào chống sưu thuế Trung Kỳ",
 		"from": "1908",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Phong trào chống sưu thuế Trung Kỳ năm 1908 hay còn gọi là Trung Kỳ dân biến là một trong những sự kiện nổi bật của phong trào chống thực dân Pháp ở Việt Nam trong những năm đầu thế kỷ 20.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khoảng 100.000 người Việt bị ép sang châu Âu chiến đấu cho Pháp trong Chiến tranh thế giới thứ nhất",
 		"from": "1914",
 		"to": "1918",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "– ở châu Âu (xanh & xám đậm) – trong Liên minh châu Âu (xanh)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_1914_WWI_Alliances.jpg",
+			"caption": "Các nước tham chiến tại châu Âu. Hình dáng tiểu bang Illinois nằm ở bên trái để có thể so sánh diện tích. Khối Trung tâm (Central Powers) Khối Hiệp ước (Entente Powers) Các nước trung lập"
+		}
 	},
 	{
 		"event": "khởi nghĩa Thái Nguyên",
 		"from": "1917",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Khởi nghĩa Thái Nguyên hay Binh biến Thái Nguyên là tên gọi cuộc nổi dậy ở tỉnh lỵ Thái Nguyên vào năm 1917 do Trịnh Văn Cấn chỉ huy, chống lại chính quyền Bảo hộ của Pháp để giành độc lập cho người Việt.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VNQPHhoiky.png",
+			"caption": "Cờ Ngũ tinh liên châu của Việt Nam Quang phục Hội"
+		}
 	},
 	{
 		"event": "Nguyễn Ái Quốc gửi Yêu sách của nhân dân An Nam tới Hội nghị Hòa bình Versailles",
 		"from": "18/06/1919",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Yêu sách của nhân dân An Nam còn gọi là Thỉnh nguyện thư của dân tộc An Nam (tiếng Pháp: Revendications du peuple annamite) là bản yêu sách được gửi ngày 18 tháng 6 năm 1919, của Hội những người An Nam yêu nước, gồm tám điểm được viết bằng tiếng Pháp, được ký bằng cái tên chung là \"Nguyễn Ái Quốc\" và gửi tới Hội nghị Hòa bình Versailles.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Treaty_of_Versailles,_English_version.jpg",
+			"caption": "Trang đầu của Hòa ước Versailles, bản tiếng Anh"
+		}
 	},
 	{
 		"event": "hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam",
 		"from": "03/02/1930",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:CPV_emblem.png",
+			"caption": "Đảng huy không chính thức của Đảng Cộng sản Việt Nam, thường được thể hiện trên các bằng khen của các tổ chức trong Đảng."
+		}
 	},
 	{
 		"event": "phong trào Xô Viết Nghệ Tĩnh",
 		"from": "1930",
 		"to": "1931",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Xô Viết Nghệ - Tĩnh là tên gọi chỉ phong trào đấu tranh của lực lượng công nhân và nông dân ở Nghệ An và Hà Tĩnh trong năm 1930-1931 chống lại đế quốc Pháp tại Việt Nam. Tên gọi Xô viết Nghệ Tĩnh xuất phát từ sự hình thành các \"xã bộ nông\" mà những người cộng sản gọi là \"Xô viết\" .",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "khoảng 20.000 thanh niên Việt Nam bị cưỡng bức phục vụ Pháp trong chiến tranh thế giới thứ hai",
 		"from": "1939",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "– ở châu Âu (xanh & xám đậm) – trong Liên minh châu Âu (xanh)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bundesarchiv_Bild_102-09042,_Genf,_V%C3%B6lkerbund,_Sitzungssaal.jpg",
+			"caption": "Hội nghị Hội Quốc Liên tổ chức tại Geneva, Thụy Sĩ, năm 1930"
+		}
 	},
 	{
 		"event": "quân đội Nhật Bản tiến vào Đông Dương",
 		"from": "30/08/1940",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947. Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
+			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
+		}
 	},
 	{
 		"event": "chính phủ Pháp chấp nhận mọi yêu sách, chấp nhận việc chiếm đóng cùng giao quyền điều hành những căn cứ quân sự cho quân đội Nhật",
 		"from": "25/09/1940",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Chính phủ Pháp (tiếng Pháp: Gouvernement de la France) là cơ quan điều hành ngành hành pháp Cộng hòa Pháp. Chính phủ bao gồm Thủ tướng, là người đứng đầu chính phủ, và Bộ trưởng phụ trách và Bộ trưởng cao cấp. Bộ trưởng cao cấp còn được gọi là Bộ trưởng (tiếng Pháp: Ministres), và Bộ trưởng phụ trách thì được gọi bằng Thư ký Nhà nước hay Quốc vụ khanh (tiếng Pháp: Secrétaires d'État). Một cơ quan điều hành bé hơn nhưng với quyền lực lớn hơn là Hội đồng Bộ trưởng (tiếng Pháp: Conseil des ministres) chỉ gồm Bộ trưởng cao cấp, mặc dù Bộ trưởng phụ trách có thể tham dự phiên họp. Chủ tịch Hội đồng Bộ trưởng (tiếng Pháp: Président du Conseil des ministres) do Tổng thống nắm giữ, không giống với Chính phủ do Thủ tướng lãnh đạo. Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Japanese_Empire.png",
+			"caption": "Đế quốc Nhật Bản. Cho tới trước khi Chiến tranh thế giới thứ hai kết thúc, thuộc địa của Nhật tại vùng Đông Á đã tăng gấp gần 5 lần diện tích quốc gia"
+		}
 	},
 	{
 		"event": "Việt Nam Tuyên truyền Giải phóng quân được thành lập",
 		"from": "22/12/1944",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Việt Nam Tuyên truyền Giải phóng quân là tên của đội quân chủ lực của Mặt trận Việt Minh từ tháng 12 năm 1944 đến tháng 5 năm 1945. Đây là tổ chức quân sự được xem là tiền thân của Quân đội nhân dân Việt Nam. Ngày thành lập Việt Nam Tuyên truyền Giải phóng quân, 22 tháng 12, sau này đã được chọn làm ngày truyền thống của Quân đội nhân dân Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vo_Nguyen_Giap,_Vietminh_forces,_1944.jpg",
+			"caption": "Buổi lễ thành lập đội Việt Nam Tuyên truyền Giải phóng Quân; Võ Nguyên Giáp (bìa trái), Hoàng Văn Thái cầm cờ (là người đội mũ cối)"
+		}
 	},
 	{
 		"event": "Nhật đảo chính thực dân Pháp",
 		"from": "03/1945",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Đế quốc thực dân Pháp bao gồm các thuộc địa hải ngoại, xứ bảo hộ và lãnh thổ ủy thác nằm dưới sự cai trị của Pháp từ thế kỷ 16 trở đi. Các nhà sử học thường phân biệt \"Đế quốc thực dân Pháp thứ nhất\" tồn tại cho đến năm 1814, khi phần lớn lãnh thổ hải ngoại bị mất hoặc bị bán và \"Đế quốc thực dân Pháp thứ hai\" kể từ cuộc xâm lược Algérie năm 1830. Khi đỉnh điểm, đế quốc Pháp là một trong những đế quốc lớn nhất, bao gồm cả chính quốc PhápTổng diện tích của toàn đế quốc đạt 13,500,000 km² vào năm 1920, với dân số 150 triệu người vào năm 1936.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:131Etendue_de_l%27Empire_Fran%C3%A7ais.svg",
+			"caption": "Bản đồ của đế quốc thực dân Pháp thứ nhất (màu xanh lá cây) và thứ hai (màu xanh dương)."
+		}
 	},
 	{
 		"event": "thành lập Đế quốc Việt Nam, phụ thuộc Đế quốc Nhật Bản",
 		"from": "11/03/1945",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Đế quốc Việt Nam (chữ Hán: 越南帝國; tiếng Nhật: ベトナム帝国, chuyển tự Betonamu Teikoku, cựu tự thể: 越南帝國, chuyển tự Etsunan Teikoku, tiếng Pháp: Empire du Viêt Nam) là tên gọi chính thức của một Nhà nước Việt Nam tồn tại chỉ 5 tháng trong lịch sử Việt Nam (từ tháng 3 đến tháng 8 năm 1945) dưới sự kiểm soát và chi phối của Đế quốc Nhật Bản. Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Japanese_Empire.png",
+			"caption": "Đế quốc Nhật Bản. Cho tới trước khi Chiến tranh thế giới thứ hai kết thúc, thuộc địa của Nhật tại vùng Đông Á đã tăng gấp gần 5 lần diện tích quốc gia"
+		}
 	},
 	{
 		"event": "cách mạng tháng Tám",
 		"from": "14/08/1945",
 		"to": "30/08/1945",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ch%E1%BB%89_th%E1%BB%8B_c%E1%BB%A7a_H%E1%BB%93_Ch%E1%BB%A7_t%E1%BB%8Bch_ph%C3%A1t_l%E1%BB%87nh_kh%E1%BB%9Fi_ngh%C4%A9a.JPG",
+			"caption": "Chỉ thị của Hồ Chí Minh về Tổng khởi nghĩa giành chính quyền trong cả nước."
+		}
 	},
 	{
 		"event": "Đế quốc Việt Nam sụp đổ",
 		"from": "23/08/1945",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Đế quốc Việt Nam (chữ Hán: 越南帝國; tiếng Nhật: ベトナム帝国, chuyển tự Betonamu Teikoku, cựu tự thể: 越南帝國, chuyển tự Etsunan Teikoku, tiếng Pháp: Empire du Viêt Nam) là tên gọi chính thức của một Nhà nước Việt Nam tồn tại chỉ 5 tháng trong lịch sử Việt Nam (từ tháng 3 đến tháng 8 năm 1945) dưới sự kiểm soát và chi phối của Đế quốc Nhật Bản.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%C4%90%E1%BA%BF-qu%E1%BB%91c_Vi%E1%BB%87t-Nam_tuy%C3%AAn-b%E1%BB%91_%C4%91%E1%BB%99c-l%E1%BA%ADp_1945.jpg",
+			"caption": "Nhật báo Sài Gòn loan tin Đế quốc Việt Nam tuyên bố độc lập."
+		}
 	},
 	{
 		"event": "Bảo Đại thoái vị",
 		"from": "30/08/1945",
 		"to": "",
 		"age": "Thời phong kiến độc lập",
-		"dynasty": "Pháp thuộc"
+		"dynasty": "Pháp thuộc",
+		"description": "Bảo Đại (chữ Hán: 保大, 22 tháng 10 năm 1913 – 31 tháng 7 năm 1997), tên khai sinh: Nguyễn Phúc Vĩnh Thụy (阮福永瑞), là vị hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn, cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam. Thoái vị là việc một vị vua, nữ hoàng hay nhà quý tộc từ bỏ chức tước cho người khác. Thông thường, kế vị sẽ là người có mối quan hệ khá thân cận với người thoái vị, có thể là về huyết thống hoặc tư tưởng, hoặc thậm chí là còn chịu sự phụ thuộc. Chính vì thế, người thoái vị vẫn được thừa hưởng một số quyền lực, ưu đãi hoặc phúc lợi từ người kế vị dành cho mình. Điều này phân biệt với hành động nhường ngôi (hoặc nhượng vị, thiện nhượng); khi đó, người kế vị có quyền thay đổi cả một thể chế trước đó của người đã nhường ngôi, nếu người đó muốn như vậy.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Abdication_napoleon01.jpg",
+			"caption": "Napoleon thoái vị"
+		}
 	},
 	{
 		"event": "Hồ Chí Minh tuyên bố độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa",
 		"from": "02/09/1945",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:H%E1%BB%93_Ch%C3%AD_Minh_v%C3%A0_%C4%91%E1%BA%A1i_bi%E1%BB%83u_qu%E1%BB%91c_h%E1%BB%99i_kho%C3%A1_1_VNDCCH,_1946.jpg",
+			"caption": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập trên Quảng trường Ba Đình."
+		}
 	},
 	{
 		"event": "phát động phong trào Bình dân học vụ",
 		"from": "08/09/1945",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Bình dân học vụ là phong trào xóa nạn mù chữ trong toàn dân, được Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa phát động ngày 8 tháng 9 năm 1945 (sắc lệnh 19/SL và 20/SL) ngay sau khi Việt Nam giành được độc lập. Phong trào này nhằm giải quyết \"giặc dốt\" - một trong các vấn đề cấp bách nhất của Việt Nam lúc bấy giờ (chỉ sau \"giặc đói\").",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lop_Binh_dan_hoc_vu.jpg",
+			"caption": "Chủ tịch Hồ Chí Minh thăm lớp bình dân học vụ dạy chữ cho cả những cụ già"
+		}
 	},
 	{
 		"event": "quân Pháp nổ súng tại Sài Gòn, bắt đầu cuộc chiến tranh xâm lược Việt Nam lần 2",
 		"from": "23/09/1945",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:CaptureOfLang-Son.jpg",
+			"caption": "Quân Pháp tấn công quân Thanh ở Lạng Sơn"
+		}
 	},
 	{
 		"event": "Trần Văn Giàu kêu gọi Nam Bộ kháng chiến",
 		"from": "23/09/1945",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Trần Văn Giàu (11 tháng 9 năm 1911 – 16 tháng 12 năm 2010) là nhà hoạt động cách mạng lão thành, nguyên Bí thư Xứ ủy Nam Kỳ, nguyên Chủ tịch Ủy ban kháng chiến Nam Bộ. Ông còn là giáo sư, nhà khoa học, nhà nghiên cứu lịch sử, triết học và Nhà giáo Nhân dân Việt Nam. Quân đội Việt Nam sau khi chống trả, rút về các chiến khu và tiến hành kháng chiến lâu dài. Liên quân Anh-Pháp chiếm đóng các thành phố lớn. Phe Anh tuyên bố chiến thắng và trao quyền quản lý cho Pháp.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Kienthuc-linh-nhat-06_upmw.jpg",
+			"caption": "Lính Nhật dán bản Thông cáo số 1 về việc duy trì pháp luật và trật tự ở Đông Dương vào tháng 9/1945"
+		}
 	},
 	{
 		"event": "Tổng tuyển cử bầu Quốc hội đầu tiên",
 		"from": "06/01/1946",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Hồ Chí Minh Việt Minh",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1st_National_Assembly_of_Vietnam_-_1st_session.svg",
+			"caption": "Cơ cấu thành phần Quốc hội Việt Nam khóa I tại kỳ họp 1. Đại biểu được bầu (333): Việt Minh (120); Dân chủ (46); Xã hội (24); Không đảng phái (143). Đại biểu truy nhận (70): Việt Cách (20); Việt Quốc (50)"
+		}
 	},
 	{
 		"event": "Pháp lập nên Cộng hòa Tự trị Nam Kỳ thuộc Liên hiệp Pháp, thủ đô Sài Gòn",
 		"from": "26/03/1946",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Đế quốc thực dân Pháp bao gồm các thuộc địa hải ngoại, xứ bảo hộ và lãnh thổ ủy thác nằm dưới sự cai trị của Pháp từ thế kỷ 16 trở đi. Các nhà sử học thường phân biệt \"Đế quốc thực dân Pháp thứ nhất\" tồn tại cho đến năm 1814, khi phần lớn lãnh thổ hải ngoại bị mất hoặc bị bán và \"Đế quốc thực dân Pháp thứ hai\" kể từ cuộc xâm lược Algérie năm 1830. Khi đỉnh điểm, đế quốc Pháp là một trong những đế quốc lớn nhất, bao gồm cả chính quốc PhápTổng diện tích của toàn đế quốc đạt 13,500,000 km² vào năm 1920, với dân số 150 triệu người vào năm 1936. Liên hiệp Pháp (tiếng Pháp: Union française) là một thực thể chính trị do Chính phủ Đệ tứ Cộng hòa Pháp thành lập để thay thế hệ thống thuộc địa và danh xưng Đế quốc Pháp đồng thời bỏ thể chế \"bản xứ\" (indigène). Nó được thành lập theo Chương VIII Hiến pháp ngày 27 tháng 10 năm 1946 (Đệ tứ Cộng hòa). Việc thành lập Liên hiệp Pháp làm thay đổi tình trạng của các thuộc địa. Đế quốc thực dân Pháp trở thành Liên hiệp Pháp. Các thuộc địa trở thành các tỉnh và vùng lãnh thổ tự trị. Khung pháp lý này bãi bỏ indigénat - đặc trưng của lao động cưỡng bức và công lý bản địa đặc biệt - và khiến các thuộc địa Pháp có hình thức gần với Khối thịnh vượng chung của Anh. Khối Liên hiệp Pháp chỉ tồn tại được 12 năm, tới năm 1958 thì tan rã do phong trào nổi dậy giành độc lập tại các nước thuộc địa của Pháp.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
+			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
+		}
 	},
 	{
 		"event": "Tạm ước Việt - Pháp",
 		"from": "14/09/1946",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_France_modus_vivendi.JPG",
+			"caption": "Hồ Chí Minh và Marius Moutet bắt tay sau khi ký Tạm ước Việt – Pháp"
+		}
 	},
 	{
 		"event": "Hồ Chí Minh kêu gọi Toàn quốc kháng chiến",
 		"from": "19/12/1946",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Toàn quốc kháng chiến là cách gọi để nói tới sự kiện ngày 19 tháng 12 năm 1946, khi cuộc chiến đấu giữa Quân đội Pháp và chính quyền Việt Nam Dân chủ Cộng hòa bùng nổ tại bắc vĩ tuyến 16, tức là toàn Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ho_Chi_Minh_(third_from_left_standing)_and_the_OSS_in_1945.jpg",
+			"caption": "Hồ Chí Minh (hàng đứng, thứ ba từ trái sang), Võ Nguyên Giáp (hàng đứng, thứ năm từ trái sang) và OSS năm 1945."
+		}
 	},
 	{
 		"event": "Chiến dịch Việt Bắc Thu - Đông 1947",
 		"from": "07/10/1947",
 		"to": "22/12/1947",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Liên hiệp Pháp",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Pháp lập nên Quốc gia Việt Nam, quốc trưởng Bảo Đại, thủ đô Sài Gòn",
 		"from": "14/06/1949",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "– ở châu Âu (xanh & xám đậm) – trong Liên minh châu Âu (xanh) Quốc gia Việt Nam (tiếng Pháp: État du Viêt Nam) là một chính phủ thuộc Liên bang Đông Dương thuộc Liên hiệp Pháp, tuyên bố chủ quyền toàn bộ lãnh thổ Việt Nam, tồn tại trong giai đoạn từ giữa năm 1948 đến 1955. Thủ đô đặt tại Sài Gòn, nhưng quốc trưởng Bảo Đại lại sống và làm việc tại Đà Lạt. Bảo Đại (chữ Hán: 保大, 22 tháng 10 năm 1913 – 31 tháng 7 năm 1997), tên khai sinh: Nguyễn Phúc Vĩnh Thụy (阮福永瑞), là vị hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn, cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
+			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
+		}
 	},
 	{
 		"event": "Mỹ bắt đầu can thiệp quân sự vào Việt Nam",
 		"from": "08/05/1950",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
+			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
+		}
 	},
 	{
 		"event": "Chiến dịch Biên giới",
 		"from": "16/09/1950",
 		"to": "17/10/1950",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Pháp: 4.800 chết hoặc bị thương 2.000 mất tích hoặc bị bắt Quốc gia Việt Nam: Hơn 1.000 chết hoặc bị thương, hơn 500 bị bắt",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:PKA.jpg",
+			"caption": "Hình ảnh du kích quân trong tranh Nhớ một chiều Tây Bắc của Phan Kế An"
+		}
 	},
 	{
 		"event": "Chiến dịch Điện Biên Phủ",
 		"from": "13/03/1954",
 		"to": "07/05/1954",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Liên hiệp Pháp",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Dien_bien_phu_castor_or_siege_deinterlaced.png",
+			"caption": "Quân đội viễn chinh Pháp nhảy dù xuống Điện Biên Phủ."
+		}
 	},
 	{
 		"event": "Hiệp định Genève, Pháp rút quân khỏi Việt Nam và đất nước bị chia cắt",
 		"from": "20/07/1954",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Victory_in_Battle_of_Dien_Bien_Phu.jpg",
+			"caption": "Quân đội Nhân dân Việt Nam phất cờ Quyết chiến Quyết thắng trên nóc hầm chỉ huy của Pháp tại Điện Biên Phủ."
+		}
 	},
 	{
 		"event": "Giải phóng Thủ đô",
 		"from": "10/10/1954",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Giải phóng thủ đô 10/10/1954, hoặc theo cách gọi trên các văn kiện chính trị Việt Nam là Giải phóng thủ đô là sự kiện diễn ra từ lúc 08 giờ ngày 10 tháng 10 năm 1954, các đơn vị Quân đội Nhân dân Việt Nam tiến vào 2 cửa ô ( một số nhầm lẫn đây là 5 cửa ô do bài hát quá nổi tiếng của nhạc sĩ Văn Cao. Nhưng thực chất quân đội nhân dân Việt Nam chỉ đi vào từ 2 cửa ô là ô Cầu Giấy và ô Cầu Dền ) nhận bàn giao chính quyền từ Quốc gia Việt Nam cùng một số cơ sở quân sự Pháp. Sự kiện này được coi là kết quả trực tiếp của Hội nghị Trung Giã và đánh dấu kết thúc Chiến tranh Đông Dương về hiện trạng, đồng thời khởi động tiến trình 2 năm thi hành Hiệp định Genève 1954.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:French_Troops_in_Vietnam.jpg",
+			"caption": "Lực lượng Pháp vượt cầu Long Biên qua ngả Bắc Ninh đi Hải Phòng."
+		}
 	},
 	{
 		"event": "Ngô Đình Diệm phế truất Bảo Đại, lên làm Tổng thống, lập nên Việt Nam Cộng hòa",
 		"from": "1955",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Bảo Đại (chữ Hán: 保大, 22 tháng 10 năm 1913 – 31 tháng 7 năm 1997), tên khai sinh: Nguyễn Phúc Vĩnh Thụy (阮福永瑞), là vị hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn, cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam. Chức vụ bị xóa bỏ",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Major-general-lansdale.jpg",
+			"caption": "Tướng Edward Lansdale, Chỉ huy cố vấn Mỹ ở Việt Nam."
+		}
 	},
 	{
 		"event": "Phong trào Đồng khởi",
 		"from": "1959",
 		"to": "1960",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Đồng Khởi là phong trào do những thành viên Việt Minh ở lại miền Nam Việt Nam kêu gọi nhân dân nổi dậy đồng loạt chống lại Hoa Kỳ và chính phủ Việt Nam Cộng hòa. Trước hết là những vùng nông thôn rộng lớn ở Nam Bộ và cả vùng núi Nam Trung bộ Việt Nam. Phong trào này diễn ra từ cuối năm 1959, đỉnh cao là năm 1960, nhanh chóng lan rộng khắp miền Nam làm tan rã cơ cấu chính quyền cơ sở nông thôn của chính phủ Việt Nam Cộng hòa thời kỳ Ngô Đình Diệm, dẫn đến sự thành lập của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nha_truyen_thong_Dong_Khoi.JPG",
+			"caption": "Nhà truyền thống phong trào Đồng Khởi ở huyện Mỏ Cày Nam, Bến Tre"
+		}
 	},
 	{
 		"event": "thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
 		"from": "20/12/1960",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam (phía Việt Nam Cộng hoà và cùng các đồng minh phương Tây gọi là Việt Cộng) là một tổ chức liên minh chính trị hoạt động chống lại sự can thiệp của Hoa Kỳ và các đồng minh (Việt Nam Cộng hòa, Úc, Hàn Quốc, Thái Lan...) trong thời kỳ Chiến tranh Việt Nam. Đây là tổ chức được thành lập theo đường lối của Đảng Cộng sản Việt Nam tại Đại hội III với phương châm liên minh những người miền Nam Việt Nam có mục tiêu đấu tranh chống Mỹ và Việt Nam Cộng hòa, thực hiện đấu tranh giành độc lập dân tộc, thống nhất đất nước Việt Nam. Năm 1969, mặt trận này và Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam thành lập Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tại Nam Việt Nam. Mặt trận nhận được sự viện trợ và giúp đỡ của Việt Nam Dân chủ Cộng hòa và chịu sự lãnh đạo linh hoạt của Đảng Lao động Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Taquangbuukyhiepdinhgeneve.jpg",
+			"caption": "Tạ Quang Bửu, phía đoàn Việt Nam Dân chủ Cộng hòa, và tướng Pháp Henri Delteil, Quyền Tổng Tư lệnh Lực lượng Liên Hiệp Pháp ở Đông Dương, Phái đoàn Pháp đang ký Hiệp định đình chỉ chiến sự tại Việt Nam"
+		}
 	},
 	{
 		"event": "thành lập Quân Giải phóng miền Nam Việt Nam",
 		"from": "15/12/1961",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Quân Giải phóng miền Nam Việt Nam (gọi tắt là Quân Giải phóng hoặc Giải phóng quân), còn gọi là Các lực lượng vũ trang giải phóng miền Nam Việt Nam, được thành lập trên cơ sở thống nhất các lực lượng vũ trang do đảng cộng sản thành lập ở miền Nam, bao gồm lực lượng ở lại không đi tập kết, lực lượng mới tham gia tại chỗ và lực lượng đi tập kết đã quay lại miền Nam hoạt động. Về mặt quân sự, Quân Giải phóng miền Nam là một bộ phận của Quân đội Nhân dân Việt Nam, chịu sự lãnh đạo trực tiếp từ trên xuống của Quân ủy Trung ương Đảng Lao động Việt Nam và Bộ Quốc phòng Việt Nam Dân chủ Cộng hòa, Quân ủy và Bộ Tư lệnh Quân Giải phóng miền Nam, Quân khu ủy và các Bộ Tư lệnh Quân Giải phóng miền Nam ở các quân khu, Đảng ủy quân sự và Bộ Chỉ huy quân sự các tỉnh, thành phố tại miền Nam. Vì thế, lực lượng bộ đội từ miền Bắc tăng cường vào Nam chiến đấu, kể từ năm 1963, nghiễm nhiên cũng là bộ đội thuộc biên chế Quân Giải phóng. Về mặt chính trị, Quân Giải phóng là lực lượng vũ trang của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam giai đoạn 1961-1969 và Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam giai đoạn 1969-1976. Vì vậy, Quân Giải phóng chịu sự lãnh đạo tối cao từ trên xuống của Bộ Chính trị, Ban Chấp hành Trung ương Đảng Lao động Việt Nam, Trung ương Cục miền Nam của Đảng Nhân dân Cách mạng miền Nam (thành lập vào ngày 1-1-1962), Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Viet_Cong_soldier_DD-ST-99-04298.jpg",
+			"caption": "Một chiến sĩ Quân Giải phóng miền Nam Việt Nam đang đứng dưới cờ của Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam, tay cầm khẩu AK47."
+		}
 	},
 	{
 		"event": "chiến dịch Chiến tranh đặc biệt",
 		"from": "1961",
 		"to": "1965",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Giai đoạn 1960–1965",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "đảo chính lật đổ chính quyền Ngô Đình Diệm",
 		"from": "1963",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:5_v%E1%BB%8B_Th%C6%B0%E1%BB%A3ng_th%C6%B0_t%E1%BB%AB_tr%C3%A1i_qua_ph%E1%BA%A3i_H%E1%BB%93_%C4%90%E1%BA%AFc_Kh%E1%BA%A3i,_Ph%E1%BA%A1m_Qu%E1%BB%B3nh,_Th%C3%A1i_V%C4%83n_To%E1%BA%A3n,_Ng%C3%B4_%C4%90%C3%ACnh_Di%E1%BB%87m,_B%C3%B9i_B%E1%BA%B1ng_%C4%90o%C3%A0n.jpg",
+			"caption": "5 vị Thượng thư từ trái qua phải: Hồ Đắc Khải, Phạm Quỳnh, Thái Văn Toản, Ngô Đình Diệm, Bùi Bằng Đoàn"
+		}
 	},
 	{
 		"event": "Mỹ bắt đầu đưa quân vào tham chiến tại miền Nam Việt Nam",
 		"from": "08/03/1965",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Miền Nam Việt Nam là một khái niệm để chỉ vùng địa lý ở phía nam nước Việt Nam. Tuy nhiên, tùy theo từng thời điểm lịch sử và thói quen sử dụng mà khái niệm này đôi khi được dùng để chỉ các vùng lãnh thổ khác nhau theo nghĩa chính trị một cách không chính thức.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Mayflower_in_Plymouth_Harbor,_by_William_Halsall.jpg",
+			"caption": "Chiếc thuyền Mayflower đưa người di cư đến Tân Thế giới năm 1620, được miêu tả trong tác phẩm của William Halsall năm 1882."
+		}
 	},
 	{
 		"event": "chiến dịch Chiến tranh cục bộ",
 		"from": "1965",
 		"to": "1968",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Thất bại chiến lược của Hoa Kỳ",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:US_Army_UH-1Ds_near_Saigon_1965.jpg",
+			"caption": "Chiến thuật Trực thăng vận lần đầu tiên được Mỹ sử dụng trong chiến tranh"
+		}
 	},
 	{
 		"event": "chiến dịch Việt Nam hóa chiến tranh",
 		"from": "1968",
 		"to": "1973",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Lào • Sunrise • Ấp Bắc • Gò Công • Hiệp Hòa • Chà Là • 34A • Long Định • Quyết Thắng 202 • USNS Card • Nam Đông • An Lão • Bình Giã • Pleiku • Sông Bé • Ba Gia • Đồng Xoài • Ka Nak • Đèo Nhông",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "thành lập Cộng hòa Miền Nam Việt Nam, thủ đô Tây Ninh",
 		"from": "08/06/1969",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Cộng hòa miền Nam Việt Nam là một chính thể tại miền Nam Việt Nam, được thành lập bởi Đại hội Quốc dân miền Nam Việt Nam mà nòng cốt là lực lượng Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam thành lập ở miền Nam Việt Nam với mục đích quản lý các vùng đất do phía Mặt trận Dân tộc Giải phóng miền Nam kiểm soát tại miền Nam Việt Nam. Đây là nhà nước lâm thời được lập ra nhằm để tăng tính hợp pháp và chính danh của các vùng mà Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam kiểm soát. Tây Ninh là một tỉnh thuộc vùng Đông Nam Bộ, Việt Nam.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tay_Ninh_in_Vietnam.svg",
+			"caption": "Vị trí tỉnh Tây Ninh trên bản đồ Việt Nam"
+		}
 	},
 	{
 		"event": "Chủ tịch Hồ Chí Minh từ trần",
 		"from": "02/09/1969",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ho_Chi_Minh_(third_from_left_standing)_and_the_OSS_in_1945.jpg",
+			"caption": "Hồ Chí Minh (hàng đứng, thứ ba từ trái sang), Võ Nguyên Giáp (hàng đứng, thứ năm từ trái sang) và OSS năm 1945."
+		}
 	},
 	{
 		"event": "Chiến dịch Điện Biên Phủ trên không",
 		"from": "18/12/1972",
 		"to": "30/12/1972",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:North_Vietnamese_Air_Force_disposition_prior_to_Operation_Linebacker_II.png",
+			"caption": "Hệ thống radar cảnh giới quốc gia và sân bay ở miền Bắc Việt Nam năm 1972"
+		}
 	},
 	{
 		"event": "Hiệp định Paris, Mỹ rút quân khỏi Việt Nam",
 		"from": "27/01/1973",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
+			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
+		}
 	},
 	{
 		"event": "Chiến dịch Hồ Chí Minh",
 		"from": "26/04/1975",
 		"to": "02/05/1975",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "~15.700 chết và bị thương 160.000 bị bắt. Số còn lại đào ngũ hoặc tan rã tại chỗ.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nha_Trang,_April_1975.jpg",
+			"caption": "Một người đàn ông Mỹ đấm vào mặt một người khác để giành chỗ trên trực thăng di tản khỏi Nha Trang."
+		}
 	},
 	{
 		"event": "chính phủ Việt Nam Cộng hòa đầu hàng vô điều kiện Cộng hòa Miền Nam Việt Nam",
 		"from": "30/04/1975",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Việt Nam Dân chủ Cộng hòa"
+		"dynasty": "Việt Nam Dân chủ Cộng hòa",
+		"description": "Cộng hòa miền Nam Việt Nam là một chính thể tại miền Nam Việt Nam, được thành lập bởi Đại hội Quốc dân miền Nam Việt Nam mà nòng cốt là lực lượng Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam thành lập ở miền Nam Việt Nam với mục đích quản lý các vùng đất do phía Mặt trận Dân tộc Giải phóng miền Nam kiểm soát tại miền Nam Việt Nam. Đây là nhà nước lâm thời được lập ra nhằm để tăng tính hợp pháp và chính danh của các vùng mà Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam kiểm soát.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Major-general-lansdale.jpg",
+			"caption": "Tướng Edward Lansdale, Chỉ huy cố vấn Mỹ ở Việt Nam."
+		}
 	},
 	{
 		"event": "thống nhất đất nước, đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam",
 		"from": "02/07/1976",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
+			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
+		}
 	},
 	{
 		"event": "gia nhập Liên Hợp Quốc",
 		"from": "20/09/1977",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Signing_Declaration_by_United_Nations.jpg",
+			"caption": "Ngày 1 tháng 1 năm 1942, đại biểu 26 nước Đồng Minh gặp nhau tại Washington ký Tuyên bố Liên Hợp Quốc cam kết ủng hộ Hiến chương Đại Tây Dương[8]"
+		}
 	},
 	{
 		"event": "chiến tranh biên giới Tây Nam",
 		"from": "1975",
 		"to": "1979",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Việt Nam Cộng hòa Nhân dân Campuchia (1979–1989)",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Campuchia_88.jpg",
+			"caption": "Xe tăng T-54 của Việt Nam rút về nước năm 1988."
+		}
 	},
 	{
 		"event": "chiến tranh biên giới phía Bắc",
 		"from": "1979",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nam_quan.JPG",
+			"caption": "Nam Quan, hay Hữu Nghị Quan năm 2007, cửa ải nằm tại biên giới Việt Nam – Trung Quốc."
+		}
 	},
 	{
 		"event": "Đổi Mới",
 		"from": "1986",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Đổi Mới là một chương trình cải cách toàn diện bao gồm kinh tế, đặc biệt là đổi mới trong lĩnh vực kinh tế, chính trị và nhiều khía cạnh khác của đời sống xã hội do Đảng Cộng sản Việt Nam, đứng đầu là Tổng Bí thư Nguyễn Văn Linh khởi xướng vào thập niên 1980. Chính sách Đổi mới được chính thức thực hiện từ Đại hội đại biểu Đảng Cộng sản Việt Nam lần VI, năm 1986.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Khu_trung_t%C3%A2m_th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh,_nh%C3%ACn_t%E1%BB%AB_ph%C3%ADa_qu%E1%BA%ADn_2.JPG",
+			"caption": "Khu trung tâm thành phố Hồ Chí Minh ban đêm."
+		}
 	},
 	{
 		"event": "bình thường hóa quan hệ với Trung Quốc",
 		"from": "07/11/1991",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Quan hệ Việt Nam – Trung Quốc (Quan hệ Việt-Trung, tiếng Trung: 中越關係) là mối quan hệ giữa hai nước láng giềng vì có chung biên giới trên bộ và trên biển, hai nước có chung mô hình thể chế chính trị và có quá trình gắn bó tương tác sâu sắc về văn hóa và lịch sử lâu đời, cũng như các cuộc xung đột qua lại. Một chính trị gia Việt Nam tóm gọn mối quan hệ Việt-Trung trong 6 chữ \"vừa hợp tác, vừa đấu tranh\".",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1979propaganda_against_China.jpg",
+			"caption": "Một áp phích của Việt Nam năm 1979 cho thấy quan hệ căng thẳng giữa hai nước vào thời điểm này."
+		}
 	},
 	{
 		"event": "bình thường hóa quan hệ với Mỹ",
 		"from": "11/07/1995",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Sau sự kiện 30 tháng 4 năm 1975, vấn đề bình thường hóa quan hệ ngoại giao Việt Nam - Hoa Kỳ được đặt ra. Tuy nhiên đến hai mươi năm sau, tức ngày 11 tháng 7 năm 1995, Tổng thống Hoa Kỳ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt mới tuyên bố bình thường hóa quan hệ ngoại giao giữa hai quốc gia.",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "gia nhập ASEAN",
 		"from": "28/07/1995",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:ASEAN_HQ_1.jpg",
+			"caption": "ASEAN tại đại lộ Jalan Sisingamangaraja No.70A, Nam Jakarta, Indonesia."
+		}
 	},
 	{
 		"event": "gia nhập APEC",
 		"from": "14/11/1998",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Diễn đàn Hợp tác Kinh tế châu Á – Thái Bình Dương (tiếng Anh: Asia-Pacific Economic Cooperation, viết tắt là APEC) là diễn đàn của 21 nền kinh tế thành viên vành đai Thái Bình Dương với mục tiêu tăng cường mối quan hệ về kinh tế và chính trị.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:APEC_Leaders_Retreat.jpg",
+			"caption": "Họp lãnh đạo APEC"
+		}
 	},
 	{
 		"event": "gia nhập WTO",
 		"from": "11/01/2007",
 		"to": "",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "",
+		"image": {
+			"imageUrl": null,
+			"caption": null
+		}
 	},
 	{
 		"event": "Đại dịch COVID-19",
 		"from": "2020",
 		"to": "2022",
 		"age": "Thời hiện đại",
-		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		"dynasty": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+		"description": "Vào ngày 23 tháng 1 năm 2020, trường hợp đầu tiên mắc COVID-19 do virus SARS-CoV-2 gây ra được xác nhận tại Thành phố Hồ Chí Minh, Việt Nam. Xã hội, kinh tế bị tác động bởi đại dịch. Các hoạt động kiểm soát đã diễn ra trong đó có hạn chế tự do di chuyển.",
+		"image": {
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Mua_h%C3%A0ng_d%E1%BB%B1_tr%E1%BB%AF_d%E1%BB%8Bch_COVID-19.png",
+			"caption": "Mua hàng hóa dự trữ tại 1 siêu thị ở Việt Nam vì dịch COVID-19."
+		}
 	}
 ]

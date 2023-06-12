@@ -87,6 +87,10 @@ public class QNLEventDataCollector extends EventDataCollector {
                 startDate = startDate.replace(".", "/");
                 String endDate = matchedDates.size() == 2 ? matchedDates.get(1).replace("-", "/").trim() : "";
                 endDate = endDate.replace(".", "/");
+                if (endDate.contains("SCN")) 
+                	endDate = endDate.replace(" SCN", "");
+                else if (endDate.contains("TCN"))
+                	startDate = startDate.concat(" TCN");
                 Event event = new Event(strList.get(index), startDate, endDate);
                 events.add(event);
                 index++;
