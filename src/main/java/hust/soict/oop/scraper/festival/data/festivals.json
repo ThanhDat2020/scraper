@@ -1,0 +1,488 @@
+[
+  {
+    "date": "1 tháng 1",
+    "name": "Tết Dương Lịch",
+    "description": "Ngày lễ Tết Quốc tế của hầu hết các quốc gia.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "Ngày cuối tháng Chạp đến mồng 4 tháng Giêng (Âm lịch)",
+    "name": "Tết Nguyên Đán",
+    "description": "Tết cổ truyền dân tộc.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "10 tháng 3 (Âm lịch)",
+    "name": "Giỗ Tổ Hùng Vương",
+    "description": "Tưởng nhớ đến công ơn dựng nước của các Vua Hùng.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "30 tháng 4",
+    "name": "Ngày Giải phóng miền Nam, Thống nhất đất nước",
+    "description": "Ngày Giải phóng miền Nam, Thống nhất đất nước.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "1 tháng 5",
+    "name": "Ngày Quốc tế Lao động",
+    "description": "Kỷ niệm ngày của người lao động toàn thế giới.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "2 tháng 9 và 1 ngày liền kề trước hoặc sau",
+    "name": "Ngày Quốc khánh",
+    "description": "Kỷ niệm ngày Chủ tịch Hồ Chí Minh đọc tuyên ngôn độc lập.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "10 tháng 10",
+    "name": "Thăng Long - Hà Nội",
+    "description": "Not Available",
+    "location": "Nationwide"
+  },
+  {
+    "date": "4 tháng 1 - 16 tháng 1",
+    "name": "Hội Xuân Núi Bà",
+    "description": "Núi Bà Đen là ngọn núi lửa đã tắt nằm ở trung tâm tỉnh Tây Ninh, Việt Nam. Với độ cao 986 m, đây là ngọn núi cao nhất miền Nam Việt Nam hiện nay, được mệnh danh \"Đệ nhất thiên sơn\".",
+    "location": "Tây Ninh"
+  },
+  {
+    "date": "5 tháng 1",
+    "name": "Hội Đống Đa",
+    "description": "Gò Đống Đa là một gò đất và là một di tích nằm bên phố Tây Sơn, phường Quang Trung, quận Đống Đa, Thành phố Hà Nội. Tại đây năm 1789 quân Tây Sơn đã đại phá và đánh thắng quân nhà Thanh Trung Quốc trong Trận Ngọc Hồi - Đống Đa",
+    "location": "Đống Đa, Hà Nội Tây Sơn, Bình Định"
+  },
+  {
+    "date": "6 tháng 1 - 10 tháng 1",
+    "name": "Hội đền Hai Bà Trưng",
+    "description": "Đền Hai Bà Trưng còn gọi là đền Hạ Lôi ở thôn Hạ Lôi xã Mê Linh, huyện Mê Linh, thành phố Hà Nội. Đền thờ hai vị liệt nữ - anh hùng dân tộc là Trưng Trắc và Trưng Nhị.",
+    "location": "Mê Linh, Hà Nội"
+  },
+  {
+    "date": "6 tháng 1 đến hạ tuần tháng 3",
+    "name": "Hội Chùa Hương",
+    "description": "Chùa Hương là cách nói trong dân gian, trên thực tế chùa Hương hay Hương Sơn là cả một quần thể văn hóa - tôn giáo Việt Nam, gồm hàng chục ngôi chùa thờ Phật, vài ngôi đền thờ thần, các ngôi đình, thờ tín ngưỡng nông nghiệp. Trung tâm chùa Hương nằm ở xã Hương Sơn, huyện Mỹ Đức, Hà Nội, nằm ở ven bờ phải sông Đáy. Trung tâm của cụm đền chùa tại vùng này chính là chùa Hương nằm trong động Hương Tích hay còn gọi là chùa Trong.",
+    "location": "Mỹ Đức, Hà Nội"
+  },
+  {
+    "date": "8 tháng 1 - 10 tháng 1",
+    "name": "Hội Chùa Đậu",
+    "description": "Chùa Đậu (tên chữ: Thành Đạo tự 成道寺) là một ngôi chùa ở thôn Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín, Hà Nội. Vì chùa thờ Bà Đậu hay Đại Bồ Tát Pháp Vũ nên chùa được gọi là chùa Đậu và còn có tên là Pháp Vũ tự.",
+    "location": "Thường Tín, Hà Nội"
+  },
+  {
+    "date": "Một ngày trong tháng 3",
+    "name": "Lễ hội đua Voi",
+    "description": "Lễ hội đua voi là một trong những lễ hội quan trọng trong hệ thống các lễ hội cổ truyền của người vùng cao Tây Nguyên Việt Nam. Hội Đua Voi là một trong những hội của văn hóa truyền thống các dân tộc tỉnh Đắk Lắk được tổ chức 02 năm 01 lần vào tháng 3 âm lịch. Là Tháng của những con ong rừng đi lấy mật và cũng là thời điểm bắt đầu làm nương rẫy. Hội Đua Voi nhằm tôn vinh tinh thần thượng võ và tài nghệ thuần dưỡng voi của đồng bào các dân tộc Tây Nguyên.Ngoài ra, du khách đến đây cũng được thưởng thức ẩm thực độc đáo, đậm đà bản sắc của các dân tộc Tây Nguyên tại chỗ và được cưỡi voi tham quan buôn làng, trải nghiệm với hành trình cưỡi Voi lội sông Sêrêpốk tham quan Rừng Yok Don. Được tổ chức ở vùng Đắk Lắk. Một trong những lễ hội được xem là độc đáo nhất của nước Việt Nam ta.",
+    "location": "Buôn Ma Thuột, Đắk Lắk"
+  },
+  {
+    "date": "13 tháng 1",
+    "name": "Hội Lim",
+    "description": "Hội Lim là một lễ hội lớn của tỉnh Bắc Ninh, chính hội được tổ chức vào ngày 13 tháng giêng hàng năm trên địa bàn huyện Tiên Du, tỉnh Bắc Ninh. Hội Lim được coi là nét kết tinh độc đáo của vùng văn hoá Kinh Bắc.",
+    "location": "Tiên Du, Bắc Ninh"
+  },
+  {
+    "date": "16 tháng 1 - 22 tháng 1",
+    "name": "Hội Côn Sơn",
+    "description": "Chùa Côn Sơn (tên chữ là Tư Phúc tự hay Côn Sơn Tự), còn gọi là chùa Hun, là một ngôi chùa nằm bên ngọn núi Côn Sơn (hay còn gọi là núi Hun) ở phường Cộng Hoà, thành phố Chí Linh, tỉnh Hải Dương, Việt Nam. Chùa đã được Bộ trưởng Bộ Văn hóa Việt Nam Dân chủ cộng hòa xếp hạng di tích quốc gia ngay trong đợt I năm 1962. Đây là di tích quan trọng thuộc khu di tích Côn Sơn - Kiếp Bạc được công nhận là di tích quốc gia đặc biệt năm 2012.",
+    "location": "Hải Dương"
+  },
+  {
+    "date": "1 tháng 3 - 9 tháng 3",
+    "name": "Hội Phủ Dầy",
+    "description": "Phủ Dầy (có khi ghi là Phủ Giầy, Phủ Giày) là một quần thể kiến trúc tín ngưỡng truyền thống của người Việt trải rộng trên địa bàn xã Kim Thái huyện Vụ Bản, tỉnh Nam Định, gần quốc lộ 10, quốc lộ 37B và quốc lộ 38B từ thành phố Nam Định đi thành phố Ninh Bình.",
+    "location": "Nam Định"
+  },
+  {
+    "date": "5 tháng 3 - 7 tháng 3",
+    "name": "Hội Chùa Thầy",
+    "description": "Chùa Thầy là một nhóm những ngôi chùa ở chân núi Sài Sơn, huyện Quốc Oai, tỉnh Hà Tây cũ, nay là xã Sài Sơn, huyện Quốc Oai, Hà Nội, cách trung tâm Hà Nội khoảng 20 km về phía Tây nam, đi theo đường cao tốc Láng - Hòa Lạc. Sài Sơn có tên Nôm là núi Thầy, nên chùa được gọi là chùa Thầy. Chùa được xây dựng từ thời nhà Lý. Đây từng là nơi tu hành của Thiền sư Từ Đạo Hạnh, lúc này núi Thầy còn gọi là núi Phật Tích.",
+    "location": "Quốc Oai, Hà Nội"
+  },
+  {
+    "date": "6 tháng 3 đến hết 8 tháng 3",
+    "name": "Hội Chùa Tây Phương",
+    "description": "Chùa Tây Phương (tên chữ là Sùng Phúc tự 崇福寺) là một ngôi chùa được xây trên đỉnh đồi Câu Lậu ở thôn Yên, xã Thạch Xá, huyện Thạch Thất, thành phố Hà Nội.",
+    "location": "Thạch Thất - Hà Nội"
+  },
+  {
+    "date": "8 tháng 3 - 11 tháng 3",
+    "name": "Lễ hội Hoa Lư",
+    "description": "Lễ hội Hoa Lư là một lễ hội diễn ra hàng năm để tôn vinh vị anh hùng dân tộc Đinh Bộ Lĩnh đã xây dựng kinh đô Hoa Lư, lập ra nhà nước Đại Cồ Việt và mở đầu thời kỳ độc lập, thống nhất lâu dài của người Việt suốt các triều đại Đinh, Lê, Lý, Trần. Lễ hội Hoa Lư đã được xếp hạng là di sản văn hóa cấp quốc gia và đang được đề nghị nâng tầm tổ chức lễ hội theo nghi thức cấp nhà nước. Lễ hội Hoa Lư là lễ hội đã có lịch sử lâu đời, phản ánh đậm nét, sinh động về cuộc đời, thân thế và sự nghiệp của đức vua Đinh Tiên Hoàng và lịch sử Việt Nam qua ba triều đại Đinh, Lê, Lý. Lễ hội Hoa Lư xưa được các vương triều phong kiến tổ chức trang trọng ở cấp Nhà nước. Hiện nay, lễ hội Hoa Lư vẫn là lễ hội có tầm ảnh hưởng lớn, bảo lưu được những yếu tố văn hóa, văn nghệ dân gian đặc sắc và đang hướng tới nâng cấp thành quốc lễ.",
+    "location": "Hoa Lư, Ninh Bình"
+  },
+  {
+    "date": "14,15,16 tháng 3 - 14,15,16 tháng 11",
+    "name": "Lễ hội Gò Tháp",
+    "description": "Khu di tích Gò Tháp là một di tích quốc gia đặc biệt, nằm trên địa bàn hai xã Mỹ Hòa và Tân Kiều, huyện Tháp Mười, tỉnh Đồng Tháp, cách Mỹ An (huyện lỵ) khoảng 11 km về hướng Bắc, cách Thành phố Cao Lãnh về hướng đông bắc 43 km (theo đường bộ và đường thủy).",
+    "location": "Tháp Mười - Đồng Tháp"
+  },
+  {
+    "date": "10 tháng 3",
+    "name": "Giỗ Tổ Hùng Vương",
+    "description": "Ngày giỗ Tổ Hùng Vương hoặc Lễ hội Đền Hùng hoặc Quốc giỗ là một ngày lễ của Việt Nam. Đây là ngày hội truyền thống của Người Việt tưởng nhớ công lao dựng nước của Hùng Vương. Nghi lễ truyền thống được tổ chức hàng năm vào mùng 10 tháng 3 Âm lịch tại Đền Hùng, thành phố Việt Trì, tỉnh Phú Thọ và được người dân Việt Nam trên toàn thế giới kỷ niệm và tôn kính. Tín ngưỡng thờ cúng Hùng Vương đã được Bộ Văn hóa, Thể thao và Du lịch Việt Nam ghi danh vào Danh mục di sản văn hóa phi vật thể quốc gia (đợt 1) và UNESCO công nhận là Di sản văn hóa phi vật thể.",
+    "location": "Việt Trì, Phú Thọ"
+  },
+  {
+    "date": "Tháng 3",
+    "name": "Hội Đâm Trâu",
+    "description": "Lễ hội đâm trâu (người Ba Na gọi là x\u0027trǎng, người Cor gọi là xa-ố-piêu, người Gia Lai gọi là mnăm thu, người Lạch gọi là sa rơpu) là một lễ hội nhằm mục đích tế thần linh hoặc những người đã có công chủ trì thành lập buôn làng, ăn mừng chiến thắng, ăn mừng mùa màng bội thu hay ăn mừng các sự kiện quan trọng khác. Đây là một trong những lễ hội truyền thống của các dân tộc Tây Nguyên ở Việt Nam.",
+    "location": "Buôn Ma Thuột, Đắk Lắk"
+  },
+  {
+    "date": "9 tháng 4",
+    "name": "Hội Gióng",
+    "description": "Hội Gióng là một lễ hội truyền thống hàng năm ở nhiều nơi thuộc vùng Hà Nội để tưởng niệm và ca ngợi chiến công của người anh hùng truyền thuyết Thánh Gióng, một trong tứ bất tử của tín ngưỡng dân gian Việt Nam .",
+    "location": "Phù Đổng, Gia Lâm, Hà Nội"
+  },
+  {
+    "date": "23 tháng 4 - 27 tháng 4",
+    "name": "Hội Bà Chúa Xứ",
+    "description": "Lễ hội miếu Bà Chúa Xứ còn gọi lễ Vía Bà là một lễ hội của người dân Nam bộ, nằm dưới Núi Sam. Thành phố Châu Đốc, tỉnh An Giang, hàng năm đã thu hút trên 2 triệu lượt khách hành hương",
+    "location": "Châu Đốc, An Giang"
+  },
+  {
+    "date": "2 tháng 8",
+    "name": "Hội Lăng Lê Văn Duyệt",
+    "description": "Lăng Lê Văn Duyệt (có tên chữ là Thượng Công miếu (chữ Hán: 上公廟, tục gọi là Lăng Ông) là khu đền và mộ của Tả quân Lê Văn Duyệt (1764-1832); hiện tọa lạc tại số 1 đường Vũ Tùng, có cổng Tây tại số 126 đường Lê Văn Duyệt, phường 1, quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam. Do vị trí Lăng Ông nằm ở khu vực Bà Chiểu nên người dân quen gọi chung Lăng Ông - Bà Chiểu (tức là \"Lăng Ông ở Bà Chiểu\") để chỉ khu vực này.",
+    "location": "TP Hồ Chí Minh"
+  },
+  {
+    "date": "9 tháng 8",
+    "name": "Hội Chọi Trâu Đồ Sơn",
+    "description": "Lễ hội chọi trâu Đồ Sơn, còn gọi là đấu ngưu , là một tập tục cổ, có từ xa xưa, một lễ hội truyền thống của người dân vạn chài tại vùng biển Đồ Sơn, Hải Phòng; diễn ra vào ngày 9 tháng 8 Âm lịch hàng năm; di sản văn hóa phi vật thể quốc gia năm 2013 của Việt Nam. Đây là một lễ hội với lễ nghi trang trọng, rước kiệu thần, có lọng che, phường bát âm....",
+    "location": "Hải Phòng"
+  },
+  {
+    "date": "14 tháng 8 - 16 tháng 8",
+    "name": "Hội Nghinh Ông",
+    "description": "Lễ hội nghinh Ông là lễ hội cúng cá Ông của ngư dân các tỉnh miền ven biển Việt Nam từ Quảng Bình trở vào Nam (gồm cả Phú Quốc). Đây là lễ hội cầu ngư: cầu cho biển lặng gió hòa, ngư dân may mắn làm ăn phát đạt, an khang. Lễ hội nghinh Ông là loại lễ hội nước lớn nhất của ngư dân. Có nhiều tên gọi khác nhau như lễ rước cốt ông, lễ cầu ngư, lễ tế cá \"Ông\", lễ cúng \"Ông\", lễ nghinh \"Ông\", lễ nghinh ông Thủy tướng, nhưng tất cả đều có chung một quan niệm rằng cá \"Ông\" là sinh vật thiêng ở biển, là cứu tinh đối với những người đánh cá và làm nghề trên biển nói chung. Điều này đã trở thành một tín ngưỡng dân gian phổ biến trong các thế hệ ngư dân ở các địa phương nói trên. Ở mỗi địa phương, lễ hội nghinh Ông diễn ra vào một thời điểm khác nhau.",
+    "location": "Tiền Giang, Bến Tre, TP. HCM, Bình Thuận"
+  },
+  {
+    "date": "15 tháng 8 - 20 tháng 8",
+    "name": "Hội Côn Sơn - Kiếp Bạc",
+    "description": "Đền Kiếp Bạc thuộc địa phận hai thôn Dược Sơn và Vạn Kiếp, xã Hưng Đạo, thành phố Chí Linh, tỉnh Hải Dương, Việt Nam; là nơi thờ phụng Hưng Đạo Đại Vương Trần Quốc Tuấn. Kiếp Bạc là tên ghép của hai vùng Vạn Yên (làng Kiếp) và Dược Sơn (làng Bạc). Đây là di tích quan trọng thuộc khu di tích Côn Sơn - Kiếp Bạc.",
+    "location": "Hải Dương"
+  },
+  {
+    "date": "9 tháng 1",
+    "name": "Ngày Truyền Thống Học sinh, Sinh viên Việt Nam (1950)",
+    "description": "Not Available",
+    "location": "Nationwide"
+  },
+  {
+    "date": "3 tháng 2",
+    "name": "Ngày thành lập Đảng Cộng sản Việt Nam (1930)",
+    "description": "Đảng Cộng sản Việt Nam là đảng cầm quyền và là chính đảng duy nhất được phép hoạt động tại Việt Nam theo Hiến pháp. Theo Cương lĩnh và Điều lệ chính thức hiện nay, Đảng là đại diện của giai cấp công nhân, nhân dân lao động và của cả dân tộc, lấy Chủ nghĩa Marx-Lenin và Tư tưởng Hồ Chí Minh làm kim chỉ nam cho mọi hoạt động. Trong ngữ cảnh không chính thức cũng dùng từ \"Đảng\" (hoặc \"Đảng ta\") để nói về Đảng Cộng sản Việt Nam.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "27 tháng 2",
+    "name": "Ngày Thầy thuốc Việt Nam (1955)",
+    "description": "Ngày Thầy thuốc Việt Nam là ngày 27 tháng 2, bắt đầu từ sau năm 1955, gắn với sự kiện Chủ tịch Hồ Chí Minh viết thư gửi Hội nghị cán bộ ngành y tế. Bộ Y tế Việt Nam đã lấy ngày 27 tháng 2 làm ngày truyền thống của ngành. Ngày 6 tháng 2 năm 1985, Hội đồng Bộ trưởng (nay là Chính phủ) đã đưa ra quyết định ngày 27 tháng 2 hằng năm là \"Ngày Thầy thuốc Việt Nam\" nhằm nêu cao trách nhiệm và tài trí của người cán bộ y tế trong sự nghiệp xây dựng và bảo vệ Tổ quốc. Từ năm đó trở đi, ngày 27 tháng 2 được xem là ngày tôn vinh các y, bác sĩ và những người đang làm việc trong ngành y tế tại Việt Nam và được gọi là Ngày Thầy thuốc Việt Nam. Đến ngày này có nhiều hoạt động thăm hỏi, chúc sức khỏe, động viên dành cho đội ngũ cán bộ y tế.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "1 tháng 3",
+    "name": "Ngày sinh của Đồng chí Phạm Văn Đồng (1906)",
+    "description": "Phạm Văn Đồng (1 tháng 3 năm 1906 – 29 tháng 4 năm 2000), bí danh Anh Tô, là Thủ tướng đầu tiên của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ năm 1976 (từ năm 1981 gọi là Chủ tịch Hội đồng Bộ trưởng) cho đến khi nghỉ hưu năm 1987. Trước đó ông từng giữ chức vụ Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa từ năm 1955 đến năm 1976.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "3 tháng 3",
+    "name": "Ngày Truyền Thống Bộ đội Biên phòng (1959)",
+    "description": "Bộ đội Biên phòng Việt Nam (tiếng Anh: Vietnam Border Guard) là lực lượng vũ trang nhân dân, thành phần của Quân đội nhân dân Việt Nam, là lực lượng nòng cốt, chuyên trách quản lý, bảo vệ biên giới quốc gia, khu vực biên giới.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "8 tháng 3",
+    "name": "Ngày Quốc tế Phụ nữ (1910)",
+    "description": "Ngày Quốc tế Phụ nữ hay còn gọi là Ngày Liên Hợp Quốc vì Nữ quyền và Hòa bình Quốc tế được tổ chức vào ngày 8 tháng 3 hằng năm với vai trò là tâm điểm trong phong trào đấu tranh vì quyền của phụ nữ, thu hút sự chú ý đến các vấn đề như bình đẳng giới, quyền sinh sản, bạo lực và lạm dụng đối với phụ nữ. Ngày này được Liên Hợp Quốc chính thức hóa vào năm 1975.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "20 tháng 3",
+    "name": "Ngày Quốc tế Hạnh phúc",
+    "description": "Ngày Quốc tế Hạnh phúc hay là Ngày Hạnh phúc (International Day of Happiness) là ngày 20 tháng 3 hàng năm, kể từ năm 2013. Ngày này là ý tưởng của chuyên gia Liên Hợp Quốc Jayme Illien đưa ra nhằm tôn vinh, phát triển và nâng cao hạnh phúc trên toàn cầu. Trong năm 2011, Illien đã đưa ra ý tưởng và khái niệm về việc tạo ra một ngày mới toàn cầu về nhận thức, Ngày Quốc tế Hạnh phúc, cho các quan chức cấp cao của Liên Hợp Quốc.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "22 tháng 3",
+    "name": "Ngày Nước sạch Thế giới",
+    "description": "Ngày Nước Thế giới hay Ngày Nước sạch Thế giới được tổ chức vào ngày 22 tháng 3 hàng năm.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "26 tháng 3",
+    "name": "Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh (1931)",
+    "description": "Đoàn Thanh niên Cộng sản Hồ Chí Minh, thường được gọi ngắn gọn là Đoàn, là một tổ chức chính trị – xã hội của thanh niên Việt Nam. Tổ chức này do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh sáng lập, lãnh đạo và rèn luyện.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "27 tháng 3",
+    "name": "Ngày Thể thao Việt Nam (1991)",
+    "description": "Tổng cục Thể dục thể thao (tiếng Anh: Vietnam Sports Administration) là tổ chức thuộc Bộ Văn hóa, Thể thao và Du lịch, thực hiện chức năng tham mưu, giúp Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quản lý nhà nước và tổ chức thực thi pháp luật về thể dục, thể thao trên phạm vi cả nước; quản lý và tổ chức thực hiện các dịch vụ công về thể dục, thể thao theo quy định của pháp luật.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "28 tháng 3",
+    "name": "Ngày thành lập Lực Lượng Dân Quân Tự Vệ (1935)",
+    "description": "Dân quân tự vệ là lực lượng vũ trang quần chúng (tức dân quân) không thoát ly sản xuất, công tác, là một bộ phận cấu thành của lực lượng vũ trang tại nước Cộng hòa xã hội chủ nghĩa Việt Nam, đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, dưới sự thống lĩnh của Chủ tịch nước Cộng hòa Xã hội chủ nghĩa Việt Nam, sự quản lý điều hành của Chính phủ và của Ủy ban nhân dân các cấp, sự chỉ đạo, chỉ huy thống nhất của Bộ trưởng Bộ Quốc phòng và sự chỉ đạo, chỉ huy trực tiếp của cơ quan quân sự địa phương có trách nhiệm bảo vệ chính quyền, bảo vệ tính mạng, tài sản của nhân dân, tài sản của Nhà nước ở cấp xã, cơ quan, tổ chức.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "21 tháng 4",
+    "name": "Ngày sách Việt Nam (2014)",
+    "description": "Not Available",
+    "location": "Nationwide"
+  },
+  {
+    "date": "29 tháng 4",
+    "name": "Ngày mất của Đồng chí Phạm Văn Đồng (2000)",
+    "description": "Phạm Văn Đồng (1 tháng 3 năm 1906 – 29 tháng 4 năm 2000), bí danh Anh Tô, là Thủ tướng đầu tiên của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ năm 1976 (từ năm 1981 gọi là Chủ tịch Hội đồng Bộ trưởng) cho đến khi nghỉ hưu năm 1987. Trước đó ông từng giữ chức vụ Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa từ năm 1955 đến năm 1976.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "30 tháng 4",
+    "name": "Ngày Giải phóng Miền Nam, Thống nhất Đất nước (1975)",
+    "description": "Chiến dịch Hồ Chí Minh, tên ban đầu là Chiến dịch Giải phóng Sài Gòn – Gia Định là chiến dịch cuối cùng của Quân Giải phóng miền Nam Việt Nam trong Cuộc Tổng tấn công và nổi dậy mùa Xuân năm 1975 và Chiến tranh Việt Nam. Đây cũng là chiến dịch quân sự diễn ra trong thời gian ngắn nhất trong Chiến tranh Việt Nam, diễn ra từ ngày 26 tháng 4 đến ngày 30 tháng 4 năm 1975 tại Sài Gòn và kéo theo là cuộc tiếp quản chính quyền cũ của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tại Đồng bằng sông Cửu Long trong hai ngày 1 và 2 tháng 5. Chiến dịch này dẫn đến việc chấm dứt hoàn toàn sự chia cắt thành hai vùng tập kết quân sự về mặt lãnh thổ giữa hai miền Nam – Bắc của Việt Nam vào năm 1975, đưa đến việc thống nhất xã hội, chế độ chính trị, dân cư và toàn vẹn lãnh thổ của Việt Nam trên đất liền, vùng lãnh hải, vùng trời và một số hải đảo  khác của Việt Nam vào năm 1976.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "1 tháng 5",
+    "name": "Quốc tế lao động (1886) Ngày phát sóng đầu tiên của Đài Truyền hình Thành phố Hồ Chí Minh",
+    "description": "Ngày Quốc tế Lao động hay ngày 1 tháng 5 là ngày lễ kỷ niệm của phong trào công nhân quốc tế và của người lao động vào ngày 1 tháng 5 hằng năm, tại nhiều quốc gia trên thế giới, thường có các cuộc biểu tình trên đường phố của hàng triệu người lao động và các tổ chức công đoàn của họ. Vào ngày này, các phong trào cộng sản, cánh tả, các tổ chức theo chủ nghĩa vô chính phủ cùng với các công đoàn liên minh thực hiện các cuộc tuần hành trên đường phố, yêu cầu mở rộng các quyền lao động và an sinh xã hội.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "6 tháng 5",
+    "name": "Ngày giỗ của Đồng chí Phạm Văn Đồng (2000)",
+    "description": "Phạm Văn Đồng (1 tháng 3 năm 1906 – 29 tháng 4 năm 2000), bí danh Anh Tô, là Thủ tướng đầu tiên của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ năm 1976 (từ năm 1981 gọi là Chủ tịch Hội đồng Bộ trưởng) cho đến khi nghỉ hưu năm 1987. Trước đó ông từng giữ chức vụ Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa từ năm 1955 đến năm 1976.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "7 tháng 5",
+    "name": "Ngày chiến thắng Điện Biên Phủ (1954)",
+    "description": "Trận Điện Biên Phủ (tiếng Pháp: Bataille de Diên Biên Phu; phát âm: [bataj də djɛ̃ bjɛ̃ fy]), còn gọi là Chiến dịch Trần Đình là trận đánh lớn nhất trong Chiến tranh Đông Dương lần thứ nhất diễn ra tại lòng chảo Mường Thanh, châu Điện Biên, tỉnh Lai Châu (nay thuộc thành phố Điện Biên Phủ, tỉnh Điện Biên) giữa Quân đội Nhân dân Việt Nam và Quân đội Liên hiệp Pháp (gồm Lực lượng Viễn chinh Pháp, Binh đoàn Lê dương Pháp, quân phụ lực bản xứ và Quân đội Quốc gia Việt Nam).",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 5",
+    "name": "Ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh (1941)",
+    "description": "Đội Thiếu niên Tiền phong Hồ Chí Minh (gọi ngắn gọn là Đội) là một tổ chức dành cho thiếu niên nhi đồng hoạt động tại Việt Nam, do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh sáng lập ngày 15 tháng 5 năm 1941, ở thôn Nà Mạ, xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng và được Đoàn Thanh niên Cộng sản Hồ Chí Minh phụ trách. Đội Thiếu niên Tiền phong Hồ Chí Minh được dựa trên nền tảng hoạt động của Phong trào Thiếu niên Tiền phong tại các quốc gia Cộng sản.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "19 tháng 5",
+    "name": "Ngày sinh của Chủ tịch Hồ Chí Minh (1890) Ngày thành lập Mặt trận Việt Minh (1941)",
+    "description": "Hồ Chí Minh (chữ Nho: 胡志明; 19 tháng 5 năm 1890 – 2 tháng 9 năm 1969), tên khai sinh là Nguyễn Sinh Cung (chữ Nho: 阮生恭), còn được biết với tên gọi Bác Hồ, là một nhà cách mạng và chính khách người Việt Nam. Ông là người sáng lập Đảng Cộng sản Việt Nam, từng là Chủ tịch nước Việt Nam Dân chủ Cộng hoà từ 1945–1969, Thủ tướng Việt Nam Dân chủ Cộng hòa trong những năm 1945–1955, Tổng Bí thư Ban Chấp hành Trung ương Đảng Lao động Việt Nam từ 1956–1960, Chủ tịch Ban Chấp hành Trung ương Đảng Lao động Việt Nam từ năm 1951 cho đến khi qua đời.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "1 tháng 6",
+    "name": "Ngày Quốc tế Thiếu nhi",
+    "description": "Ngày Thiếu nhi hay Ngày Trẻ em, Tết Nhi Đồng như là một sự kiện hay một ngày lễ dành cho thiếu nhi được tổ chức vào các ngày khác nhau ở nhiều nơi trên thế giới.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "5 tháng 6",
+    "name": "Ngày Bác Hồ ra đi tìm đường cứu nước (1911) Ngày Môi trường Thế giới",
+    "description": "Ngày Bác Hồ ra đi tìm đường cứu nước (ngày 5 tháng 6 năm 1911) là ngày kỷ niệm hàng năm tại Việt Nam ghi nhận sự kiện Hồ Chí Minh (lúc đó tên là Nguyễn Tất Thành) rời bến Nhà Rồng trên con tàu Đô đốc Latouche-Tréville lên đường sang Pháp với tên gọi Văn Ba hay anh Ba để học hỏi những điều mà ông cho là \"tinh hoa và tiến bộ\" từ các nước phương Tây nhằm thực hiện công cuộc giải phóng Việt Nam khỏi ách thuộc địa của Thực dân Pháp. Tại Việt Nam, ngày 5 tháng 6 hàng năm là một dịp lễ lớn cùng với nhiều hoạt động nhằm kỷ niệm, đặc biệt là các hoạt động được tổ chức rầm rộ trong năm 2011, là năm kỷ niệm tròn 100 năm sự kiện diễn ra.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "21 tháng 6",
+    "name": "Ngày Báo chí Cách mạng Việt Nam (1925)",
+    "description": "Ngày Báo chí Cách mạng Việt Nam (ngày 21 tháng 6) là ngày kỉ niệm ra đời của báo \"Thanh niên\" do lãnh tụ Nguyễn Ái Quốc sáng lập 21 tháng 6 năm 1925. Trong lịch sử báo chí Việt Nam, từ những năm 60 thế kỉ 19 đã có \"Gia Định báo\" và một số báo khác lần lượt ra đời tại Sài Gòn, Hà Nội và một vài địa phương khác. Nhưng báo \"Thanh niên\" đã mở ra một dòng báo chí mới: báo chí cách mạng Việt Nam. Báo \"Thanh niên\" giương cao ngọn cờ cách mạng, nói lên ý chí, khát vọng của dân tộc Việt Nam và chỉ rõ phương hướng đấu tranh của nhân dân Việt Nam vì độc lập, tự do và chủ nghĩa xã hội. Do ý nghĩa đó, Ban Bí thư Trung ương Đảng Cộng sản Việt Nam đã ra Quyết định số 52 ngày 5 tháng 2 năm 1985 lấy ngày 21 tháng 6 hằng năm làm Ngày báo chí Việt Nam nhằm nâng cao vai trò và trách nhiệm xã hội của báo chí, thắt chặt mối quan hệ giữa báo chí với công chúng, tăng cường sự lãnh đạo của Đảng đối với báo chí.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "28 tháng 6",
+    "name": "Ngày Gia đình Việt Nam (2001)",
+    "description": "Ngày gia đình Việt Nam là một ngày lễ tôn vinh gia đình Việt Nam, là ngày mọi người trong gia đình quan tâm đến nhau, xã hội quan tâm đến trẻ nhỏ và những người không có cha mẹ, cặp vợ chồng phải hiểu được giá trị mái ấm và cùng nhau vượt qua sóng gió để có một gia đình hạnh phúc \"Xây dựng gia đình no ấm, bình đẳng, tiến bộ và hạnh phúc\".",
+    "location": "Nationwide"
+  },
+  {
+    "date": "1 tháng 7",
+    "name": "Ngày Bảo hiểm Y tế Việt Nam (2009)",
+    "description": "Bảo hiểm y tế (của nhà nước) hay bảo hiểm sức khỏe (của khối tư nhân) là loại hình bảo hiểm toàn bộ hoặc một phần rủi ro mà một người phải chịu chi phí y tế. Cũng như các loại hình bảo hiểm khác, rủi ro này được nhiều cá nhân cùng chia sẻ với nhau. Bằng cách ước tính rủi ro tổng thể của rủi ro sức khỏe và chi phí hệ thống y tế trong nhóm rủi ro, công ty bảo hiểm có thể phát triển một cấu trúc tài chính thông thường, chẳng hạn như phí bảo hiểm hàng tháng hoặc thuế trả lương, để cung cấp tiền để chi trả cho các quyền lợi chăm sóc sức khỏe được quy định trong hợp đồng bảo hiểm. Lợi ích này được quản lý bởi một tổ chức trung ương, chẳng hạn như cơ quan chính phủ, doanh nghiệp tư nhân hoặc tổ chức phi lợi nhuận.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 7",
+    "name": "Ngày Truyền thống Lực lượng Thanh niên xung phong Việt Nam (1950)",
+    "description": "Thanh niên xung phong là một lực lượng thanh niên do Đảng Đoàn Thanh vận Trung ương và Ban Thường vụ Trung ương Đoàn Thanh niên Cứu quốc Việt Nam thành lập vào ngày 15 tháng 7 năm 1950 để phục vụ Chiến dịch Biên giới.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "27 tháng 7",
+    "name": "Ngày Thương binh Liệt sĩ (1947)",
+    "description": "Ngày thương binh - liệt sĩ (ngày 27 tháng 7) là ngày lễ kỉ niệm được tổ chức hàng năm nhằm tưởng niệm về những người thương binh, liệt sĩ của nước Cộng hòa Xã hội chủ nghĩa Việt Nam. Ngày lễ này được ghi nhận như là một biểu hiện của truyền thống \"uống nước nhớ nguồn, đền ơn đáp nghĩa, ăn quả nhớ kẻ trồng cây\" ở Việt Nam. Trong ngày này, chính quyền các cấp, các đoàn thể mà trọng tâm là Hội cựu chiến binh tổ chức nhiều hoạt động sôi nổi, rầm rộ, chủ yếu là việc các cá nhân, tổ chức, nhà chức trách thăm và tặng quà cho các gia đình thương binh, liệt sĩ, dâng hương tri ân tại các nghĩa trang liệt sĩ.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "28 tháng 7",
+    "name": "Ngày thành lập Công đoàn Việt Nam (1929)",
+    "description": "Công đoàn Việt Nam là tổ chức chính trị – xã hội rộng lớn của giai cấp công nhân, đội ngũ trí thức và những người lao động tự nguyện lập ra nhằm mục đích tập hợp, đoàn kết lực lượng, xây dựng giai cấp công nhân Việt Nam lớn mạnh về mọi mặt; đại diện và bảo vệ các quyền, lợi ích hợp pháp, chính đáng của người lao động, phấn đấu xây dựng nước Việt Nam độc lập, thống nhất đi lên chủ nghĩa xã hội. Công đoàn Việt Nam là một cơ quan của Tổng Liên đoàn Lao động Việt Nam trong Mặt trận Tổ quốc Việt Nam, là trung tâm tập hợp, đoàn kết, giáo dục, rèn luyện, xây dựng đội ngũ giai cấp công nhân, lao động.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "19 tháng 8",
+    "name": "Ngày Cách mạng tháng Tám thành công (1945) Ngày thành lập CAND Việt Nam (1945) Ngày hội Toàn dân bảo vệ an ninh Tổ quốc (2005) Ngày thành lập Đài Truyền hình Kỹ thuật số VTC (2004)",
+    "description": "Cách mạng tháng Tám còn gọi là Tổng khởi nghĩa tháng Tám là tên gọi ngành sử học chính thống tại Việt Nam hiện nay dùng để chỉ việc phong trào Việt Minh tiến hành khởi nghĩa chống Đế quốc Nhật Bản, buộc Đế quốc Việt Nam bàn giao chính quyền trung ương và các địa phương và buộc Bảo Đại phải thoái vị trong tháng 8 năm 1945.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "2 tháng 9",
+    "name": "Ngày Quốc khánh (1945) Ngày mất của Chủ tịch Hồ Chí Minh (1969)",
+    "description": "Ngày Quốc khánh Việt Nam là ngày lễ chính thức của Việt Nam, diễn ra vào ngày 2 tháng 9 hằng năm, kỷ niệm ngày Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn độc lập tại Quảng trường Ba Đình, Hà Nội, khai sinh ra nước Việt Nam Dân chủ Cộng hòa, một trong các tiền thân của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ngày nay.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "7 tháng 9",
+    "name": "Ngày thành lập Đài Tiếng nói Việt Nam (1945) Ngày thành lập Đài Truyền hình Việt Nam (1970)",
+    "description": "Đài Tiếng nói Việt Nam (tiếng Anh: Voice of Vietnam, viết tắt: VOV), là đài phát thanh quốc gia trực thuộc Chính phủ Việt Nam, có nhiệm vụ \"tuyên truyền đường lối, chính sách của Đảng và pháp luật của Nhà nước, Quốc hội, nhằm góp phần nâng cao dân trí, phục vụ đời sống tinh thần của nhân dân\".",
+    "location": "Nationwide"
+  },
+  {
+    "date": "10 tháng 9",
+    "name": "Ngày thành lập Mặt trận Tổ quốc Việt Nam (1955)",
+    "description": "Mặt trận Tổ quốc Việt Nam là một bộ phận cấu thành hệ thống chính trị của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, các tầng lớp xã hội, các dân tộc, các tôn giáo và người Việt Nam định cư ở nước ngoài.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "2 tháng 10",
+    "name": "Ngày Khuyến học Việt Nam (1996)",
+    "description": "Hội Khuyến học Việt Nam (tiếng Anh: Vietnam Association for Promoting Education, viết tắt là VAPE) là tổ chức xã hội với mục đích \"nâng cao dân trí, đào tạo nguồn nhân lực, bồi dưỡng nguồn nhân tài cho sự nghiệp công nghiệp hoá, hiện đại hoá đất nước, hội nhập khu vực và quốc tế\".",
+    "location": "Nationwide"
+  },
+  {
+    "date": "10 tháng 10",
+    "name": "Ngày giải phóng thủ đô (1954) Thăng Long - Hà Nội (1010) Ngày Truyền thống Luật sư Việt Nam (1945)",
+    "description": "Giải phóng thủ đô 10/10/1954, hoặc theo cách gọi trên các văn kiện chính trị Việt Nam là Giải phóng thủ đô là sự kiện diễn ra từ lúc 08 giờ ngày 10 tháng 10 năm 1954, các đơn vị Quân đội Nhân dân Việt Nam tiến vào 2 cửa ô ( một số nhầm lẫn đây là 5 cửa ô do bài hát quá nổi tiếng của nhạc sĩ Văn Cao. Nhưng thực chất quân đội nhân dân Việt Nam chỉ đi vào từ 2 cửa ô là ô Cầu Giấy và ô Cầu Dền ) nhận bàn giao chính quyền từ Quốc gia Việt Nam cùng một số cơ sở quân sự Pháp. Sự kiện này được coi là kết quả trực tiếp của Hội nghị Trung Giã và đánh dấu kết thúc Chiến tranh Đông Dương về hiện trạng, đồng thời khởi động tiến trình 2 năm thi hành Hiệp định Genève 1954.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "14 tháng 10",
+    "name": "Ngày thành lập Hội Nông dân Việt Nam (1930)",
+    "description": "Hội Nông dân Việt Nam (tên cũ: Hội Liên hiệp Nông dân tập thể Việt Nam trước 1991) là tổ chức chính trị - xã hội của giai cấp nông dân do Đảng Cộng sản Việt Nam lãnh đạo và là thành viên của Mặt trận Tổ quốc Việt Nam; cơ sở chính trị của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam. Chủ tịch Hội Nông dân hiện nay là ông Lương Quốc Đoàn (nguyên Phó Chủ tịch Thường trực Trung ương Hội Nông dân Việt Nam).",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 10",
+    "name": "Ngày truyền thống Hội Liên hiệp Thanh niên Việt Nam (1956)",
+    "description": "Hội Liên hiệp Thanh niên Việt Nam là một tổ chức xã hội rộng rãi của thanh niên Việt Nam. Về danh nghĩa, đây là tổ chức thanh niên lớn nhất tại Việt Nam, quy tụ nhiều tổ chức thanh niên thành viên, bao gồm cả Đoàn Thanh niên Cộng sản Hồ Chí Minh.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "20 tháng 10",
+    "name": "Ngày Phụ nữ Việt Nam (1930)",
+    "description": "Ngày Phụ nữ Việt Nam là kỷ niệm mốc thành lập Hội Phụ nữ phản đế Việt Nam (20 tháng 10 năm 1930). Đây là tổ chức do Đảng Cộng sản Việt Nam phê duyệt thành lập, về sau đổi tên thành Hội Phụ nữ Việt Nam, là tổ chức có vai trò chính trị xã hội trong thời chiến cũng như thời bình. Cũng giống nhiều Hội khác của Đảng Cộng sản và chính phủ Việt Nam, ngày thành lập thường được tổ chức kỷ niệm long trọng ở các cấp từ trung ương tới địa phương, trong các cơ sở doanh nghiệp Nhà nước. Việc tổ chức kỷ niệm và tuyên truyền rộng rãi trong một giai đoạn dài khiến ngày 20 tháng 10 ăn sâu vào trong đời sống xã hội. Nhiều người cũng cho rằng đây là ngày tôn vinh những người phụ nữ giống như ngày Quốc tế Phụ nữ (8 tháng 3). Vào dịp này, phụ nữ Việt Nam được nhiều người bày tỏ sự quan tâm và tôn vinh dưới nhiều hình thức nhưng phổ biến nhất vẫn là tặng hoa hồng, thiệp và kèm theo những lời chúc mừng.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "9 tháng 11",
+    "name": "Ngày Pháp luật Việt Nam (1946)",
+    "description": "Ngày pháp luật nước Cộng hòa Xã hội chủ nghĩa Việt Nam hay gọi ngắn gọn là Ngày pháp luật là một ngày kỷ niệm tại Việt Nam vào ngày 09 tháng 11 hàng năm, bắt đầu từ năm 2013, ngày pháp luật được quy định cụ thể trong Luật Phổ biến, giáo dục pháp luật Việt Nam. Đây là ngày trong năm để khẳng định vị trí thượng tôn của pháp luật trong đời sống xã hội, nâng cao ý thức chấp hành và bảo vệ pháp luật tại Việt Nam và thúc đẩy tiến trình xây dựng Nhà nước pháp quyền. Ngày 09 tháng 11 chính là ngày bản Hiến pháp đầu tiên của nước Việt Nam dân chủ cộng hòa được ban hành nên Việt Nam lấy đó làm Ngày Pháp luật.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "18 tháng 11",
+    "name": "Ngày Thành lập Mặt trận Dân tộc Thống nhất Việt Nam (1930)",
+    "description": "Mặt trận Tổ quốc Việt Nam là một bộ phận cấu thành hệ thống chính trị của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, các tầng lớp xã hội, các dân tộc, các tôn giáo và người Việt Nam định cư ở nước ngoài.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "19 tháng 11",
+    "name": "Ngày Quốc Tế Nam Giới",
+    "description": "Ngày Quốc tế Nam giới là một sự kiện quốc tế được tổ chức vào ngày 19 tháng 11 hàng năm. Ngày này được bắt đầu vào năm 1999 ở Trinidad và Tobago và được Liên Hợp Quốc ủng hộ, và nhận được sự ủng hộ của các nhóm nam giới ở Mỹ, châu Âu, châu Á, châu Phi và vùng Caribe. Mục đích của Ngày quốc tế nam giới là tập trung vào sức khoẻ của nam giới và trẻ em nam, cải thiện quan hệ giữa các giới, thúc đẩy bình đẳng giới và làm nổi bật vai trò của nam giới. Đây là dịp để nam giới nêu bật sự phân biệt đối xử với họ và để kỷ niệm những thành tựu và đóng góp của mình, đặc biệt là đóng góp đối với cộng đồng, gia đình, hôn nhân và chăm sóc con cái.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "20 tháng 11",
+    "name": "Ngày Nhà giáo Việt Nam (1982)",
+    "description": "Ngày Nhà giáo Việt Nam (hay Ngày Hiến chương Nhà giáo Việt Nam) là một ngày kỷ niệm được tổ chức hằng năm vào ngày 20 tháng 11 tại Việt Nam. Đây chính là lễ hội của ngành Giáo dục và là Ngày Nhà giáo, ngày \"tôn sư trọng đạo\" nhằm mục đích để tôn vinh những người dạy học và những người trong ngành giáo dục.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "6 tháng 12",
+    "name": "Ngày Thành lập Hội Cựu Chiến binh Việt Nam (1989)",
+    "description": "Hội Cựu chiến binh Việt Nam là tổ chức xã hội - chính trị của các cựu chiến binh của các lực lượng vũ trang và bán vũ trang trong cuộc đấu tranh giành và bảo vệ độc lập chủ quyền quốc gia qua các thời kỳ, của Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hiện nay. Hội Cựu chiến binh là thành viên của Mặt trận Tổ quốc Việt Nam, là một cơ sở chính trị của chính quyền nhân dân, một tổ chức trong hệ thống chính trị do Đảng Cộng sản Việt Nam lãnh đạo, hoạt động theo đường lối, chủ trương của Đảng, Hiến pháp, pháp luật của Nhà nước và Điều lệ của Hội.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "20 tháng 12",
+    "name": "Ngày Thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam (1960)",
+    "description": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam (phía Việt Nam Cộng hoà và cùng các đồng minh phương Tây gọi là Việt Cộng) là một tổ chức liên minh chính trị hoạt động chống lại sự can thiệp của Hoa Kỳ và các đồng minh (Việt Nam Cộng hòa, Úc, Hàn Quốc, Thái Lan...) trong thời kỳ Chiến tranh Việt Nam. Đây là tổ chức được thành lập theo đường lối của Đảng Cộng sản Việt Nam tại Đại hội III với phương châm liên minh những người miền Nam Việt Nam có mục tiêu đấu tranh chống Mỹ và Việt Nam Cộng hòa, thực hiện đấu tranh giành độc lập dân tộc, thống nhất đất nước Việt Nam. Năm 1969, mặt trận này và Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam thành lập Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tại Nam Việt Nam. Mặt trận nhận được sự viện trợ và giúp đỡ của Việt Nam Dân chủ Cộng hòa và chịu sự lãnh đạo linh hoạt của Đảng Lao động Việt Nam.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "24 tháng 12 25 tháng 12",
+    "name": "Lễ Giáng Sinh",
+    "description": "Lễ Giáng Sinh (còn được gọi là Noel, Christmas) là lễ hội kỷ niệm sự ra đời của Chúa Giê-su, được tổ chức chủ yếu vào ngày 25 tháng 12 hằng năm, là một dịp lễ tôn giáo và văn hóa của hàng tỷ người trên thế giới.[gc 1] Là một đại lễ mừng trọng tâm của năm phụng vụ Kitô giáo, nó kết thúc mùa Mùa Vọng và bắt đầu mùa Giáng Sinh, theo lịch sử ở phương Tây kéo dài mười hai ngày cho tới Đêm thứ mười hai (đêm trước Lễ Hiển Linh). Ngày Giáng sinh là một ngày nghỉ lễ ở nhiều quốc gia trên thế giới, được tổ chức tôn giáo theo đa số Kitô hữu, và cũng được tổ chức như lễ hội văn hóa của nhiều người ngoài Kitô giáo, và tạo thành một phần không thể thiếu của kỳ nghỉ lễ tập trung xung quanh ngày này.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "22 tháng 12",
+    "name": "Ngày thành lập Quân đội Nhân dân Việt Nam (1944) Ngày hội Quốc phòng toàn dân (1989)",
+    "description": "Quân đội nhân dân Việt Nam là lực lượng chính của Lực lượng vũ trang nhân dân Việt Nam. Theo Bộ Quốc phòng Việt Nam, sứ mệnh của quân đội là \"vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, vì hạnh phúc của nhân dân\". Ngày truyền thống là ngày 22 tháng 12 hàng năm. Quân kỳ là quốc kỳ Việt Nam có thêm dòng chữ \"Quyết thắng\" màu vàng ở góc phía trên bên trái. Mười lời thề danh dự của quân nhân Quân đội nhân dân Việt Nam nói rằng quân đội có nhiệm vụ: \"không ngừng nâng cao tinh thần yêu nước xã hội chủ nghĩa, tinh thần quốc tế vô sản, góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ và chủ nghĩa xã hội\".",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 1",
+    "name": "Tết Nguyên Tiêu",
+    "description": "Tết Nguyên Tiêu (Chữ Nho: 節元宵), Tết Thượng Nguyên, Rằm Tháng Giêng là ngày lễ hội truyền thống của Việt Nam và Trung Quốc . Lễ hội trăng rằm từ giữa đêm 14 (đêm trước trăng rằm) trọn ngày 15 (ngày rằm) cho đến nửa đêm 15 (đêm trăng rằm) của tháng giêng Âm lịch.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "3 tháng 3",
+    "name": "Tết Hàn Thực",
+    "description": "Tết Hàn Thực hay Tết bánh trôi bánh chay là một ngày tết vào ngày mồng 3 tháng 3 Âm lịch. \"Hàn Thực\" nghĩa là \"thức ăn lạnh\". Ngày tết truyền thống này xuất hiện tại một số tỉnh của Trung Quốc, miền bắc Việt Nam và một số cộng đồng người gốc Hoa trên thế giới. Hàng năm vào ngày này, nhiều gia đình cho xay bột, đồ đỗ xanh, làm bánh trôi, bánh chay (ở Trung Quốc nấu chè trôi nước), nấu xôi chè lễ Phật và cúng gia tiên.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "Chủ Nhật trong tháng 3 hoặc tháng 4 dương lịch",
+    "name": "Lễ Phục Sinh",
+    "description": "Lễ Phục Sinh thường được xem là một trong những ngày lễ quan trọng nhất trong năm của người theo Kitô giáo. Thường diễn ra vào tháng 3 hoặc tháng 4 mỗi năm để tưởng niệm sự kiện chết và Phục sinh của Giê-su từ cõi chết sau khi bị đóng đinh trên thập tự giá. Được người Kitô hữu tin là đã xảy ra vào khoảng năm 30 đến năm 33. Phục Sinh cũng được dùng để chỉ một mùa trong năm phụng vụ Công giáo gọi là Mùa Phục Sinh, kéo dài đúng 50 ngày, từ Chúa Nhật Phục Sinh đến Lễ Hiện Xuống.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 4",
+    "name": "Lễ Phật Đản",
+    "description": "Phật Đản (chữ Nho 佛誕 - nghĩa là ngày sinh của đức Phật) hay là Vesak (tiếng Phạn: Vaiśākha, Devanagari: वैशाख, Sinhala: වෙසක් පෝය) là ngày kỷ niệm Phật Tất-đạt-đa Cồ-đàm sinh ra tại vườn Lâm-tì-ni năm 624 TCN, diễn ra vào ngày 8 tháng 4 âm lịch hoặc 15 tháng 4 hàng năm, tùy theo quốc gia.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "5 tháng 5",
+    "name": "Tết Đoan Ngọ",
+    "description": "Tết Đoan Ngọ hoặc Tết Đoan Dương (Hán Việt: 端午節 - Đoan Ngọ Tiết, 端陽節 - Đoan Dương Tiết) (ngày mùng 5 tháng 5 theo âm lịch Trung Quốc) là một ngày Tết truyền thống tại một số nước như Trung Quốc, Hồng Kông, Đài Loan, Triều Tiên, Nhật Bản và Việt Nam. Tết Đoan Ngọ tồn tại từ lâu trong văn hóa dân gian phương Đông và có ảnh hưởng đến sinh hoạt văn hóa. Đoan nghĩa là mở đầu, Ngọ là khoảng thời gian từ 11 giờ trưa tới 1 giờ chiều, và ăn Tết Đoan Ngọ là ăn vào buổi trưa. Đoan ngọ lúc mặt trời bắt đầu ngắn nhất, ở gần trời đất nhất trùng với ngày hạ chí. Tết Đoan Ngọ còn được gọi là Tết Đoan dương. Theo triết lý y học Đông phương thì hỏa khí (thuộc dương) của trời đất và trong cơ thể của con người trong ngày Đoan ngọ đều lên đến tột bậc.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 7",
+    "name": "Tết Trung nguyên / Lễ Vu-lan",
+    "description": "Vu lan (chữ Hán: 盂蘭, bính âm: yúlán), còn được gọi là lễ báo hiếu, là một trong những ngày lễ chính của Phật giáo (Đại thừa Bắc tông) và phong tục Việt Nam, Trung Hoa.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "12 tháng 8",
+    "name": "Ngày Sân Khấu Việt Nam",
+    "description": "Ở Việt Nam, đã có nhiều hình thức sân khấu cổ truyền tồn tại từ lâu đời như hát chèo, hát tuồng, múa rối nước... và mới hơn như cải lương, kịch dân ca.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "15 tháng 8",
+    "name": "Tết Trung Thu",
+    "description": "Tết Trung thu (chữ Nôm: 節中秋; tiếng Trung: 中秋節 (Trung thu tiết)/ Zhōngqiū jié; Tiếng Hàn: 한가을 축제; Tiếng Nhật: お月見の日、中秋節(ちゅうしゅうせつ)、còn được gọi là Tết trông Trăng hay Tết hoa đăng theo Âm lịch là ngày Rằm tháng 8 hằng năm, là một lễ hội truyền thống được kỉ niệm ở văn hóa của Việt Nam. Một văn hoá lâu đời từ Trung Quốc nhưng đến hiện tại đã phát triển thành ngày trẻ em của Việt Nam. Vào ngày lễ này, các gia đình thường ăn bánh nướng, bánh dẻo. Cúng rằm cũng là một hoạt động trong ngày lễ này.",
+    "location": "Nationwide"
+  },
+  {
+    "date": "23 tháng Chạp",
+    "name": "Ngày Đưa Ông Táo Về Trời",
+    "description": "Hàng năm, theo quan niệm của người Việt thì đúng vào ngày 23 tháng Chạp âm lịch, là ngày Táo Quân cưỡi cá chép bay về trời để bẩm báo mọi việc lớn nhỏ xảy ra trong gia đình của gia chủ cho Ngọc Hoàng. Cho đến đêm Giao thừa Táo Quân sẽ quay về hạ giới để tiếp tục công việc trông coi bếp lửa của mình.",
+    "location": "Nationwide"
+  }
+]
