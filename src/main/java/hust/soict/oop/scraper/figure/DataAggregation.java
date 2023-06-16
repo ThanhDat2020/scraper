@@ -32,20 +32,25 @@ public class DataAggregation {
         return VS;
     }
 
-    public List<Figure> Aggregation(List<Figure> NKS, List<Figure> VS) {
-        List<Figure> figure = new ArrayList<Figure>();
+    public ArrayList<Figure> Aggregation(List<Figure> NKS, List<Figure> VS) {
+        ArrayList<Figure> figure = new ArrayList<Figure>();
 
         int count = 0;
         int countNKS = 0;
         int countVS = 0;
         int countSame = 0;
+        //System.out.println("1");
 
         for (Figure nks : NKS) {
+        	//System.out.print(i);
+        	
             countNKS++;
             boolean check = false;
             String nameNKS = nks.getName();
             for (Figure vs : VS) {
-                
+//            	System.out.print(j);
+
+            	
                 String nameVS = vs.getName();
                 if (nameNKS.equals(nameVS)) {
                     countSame++;
@@ -79,31 +84,33 @@ public class DataAggregation {
 
                     figure.add(f);
                     count++;
+//                    System.out.println("1");
                 }
             }
-
+            
             if (check == false) {
                 figure.add(nks);
                 count++;
+                countVS++;
             }
         }
 
         for (Figure vs : VS) {
             boolean check = false;
             String nameVS = vs.getName();
-            
+
             for (Figure f : figure) {
                 String name = f.getName();
                 if (nameVS.equals(name)) {
                     check = true;
                     break;
                 }
-
-                if (check == false) {
+            }
+            if (check == false) {
                     figure.add(vs);
                     count++;
-                }
             }
+            
         }
 
         System.out.println("Số lượng nhân vật trong nguoikesu.com: " + countNKS);
