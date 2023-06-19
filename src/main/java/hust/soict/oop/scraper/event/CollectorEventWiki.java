@@ -9,9 +9,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class WikiEventDataCollector extends EventDataCollector {
+public class CollectorEventWiki extends CollectorEvent {
 	
-	public WikiEventDataCollector() {
+	public CollectorEventWiki() {
 		super();
 	}
 
@@ -35,9 +35,9 @@ public class WikiEventDataCollector extends EventDataCollector {
                     if (currentElement.tagName().equals("h3")) {
                         dynastyList.add(0, currentElement.select(".mw-headline").text());
                     } else if (currentElement.tagName().equals("p")) {
-                        processParagraph(currentElement, ageText, dynastyList, yearList);
+                        processParagraph(currentElement, ageText, dynastyList, yearList, url);
                     } else if (currentElement.tagName().equals("dl")) {
-                        processDefinitionList(currentElement, ageText, dynastyList, yearList);
+                        processDefinitionList(currentElement, ageText, dynastyList, yearList, url);
                     }
                     currentElement = currentElement.nextElementSibling();
                 }
@@ -48,7 +48,7 @@ public class WikiEventDataCollector extends EventDataCollector {
         }
     }
 
-    private void processParagraph(Element element, String ageText, List<String> dynastyList, List<String> yearList) {
+    private void processParagraph(Element element, String ageText, List<String> dynastyList, List<String> yearList, String url) {
         String time = element.select("b").text();
         String[] years = time.split("-|–");
         String startYear = years[0].contains("tháng ") ? years[0].replace("tháng ", "").trim() : years[0].trim();
@@ -84,14 +84,16 @@ public class WikiEventDataCollector extends EventDataCollector {
         	}
         	
         	description = description.replaceAll("\\[[^\\]]*\\]", "").replaceAll("\\s+", " ").trim();
-        	WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear), description, image);
+        	startYear = startYear.replace(".", "");
+            endYear = endYear.replace(".", "");
+        	Event eventEntity = new Event(ageText, dynastyList.get(0), event, HelperDateConverter.convertDate(startYear, " "), HelperDateConverter.convertDate(endYear, " "), description, image, url);
         	events.add(eventEntity);
         } else {
             yearList.set(0, time);
         }
     }
 
-    private void processDefinitionList(Element element, String ageText, List<String> dynastyList, List<String> yearList) {
+    private void processDefinitionList(Element element, String ageText, List<String> dynastyList, List<String> yearList, String url) {
         Elements ddElements = element.select("dd");
         ddElements.forEach(ddElement -> {
             String rawTime = ddElement.select("b").text();
@@ -129,13 +131,15 @@ public class WikiEventDataCollector extends EventDataCollector {
         	}
         	
         	description = description.replaceAll("\\[[^\\]]*\\]", "").replaceAll("\\s+", " ").trim();
-            WikiEvent eventEntity = new WikiEvent(ageText, dynastyList.get(0), event, DateConverter.convertDate(startYear), DateConverter.convertDate(endYear), description, image);
+            startYear = startYear.replace(".", "");
+            endYear = endYear.replace(".", "");
+        	Event eventEntity = new Event(ageText, dynastyList.get(0), event, HelperDateConverter.convertDate(startYear, " "), HelperDateConverter.convertDate(endYear, " "), description, image, url);
             events.add(eventEntity);
         });
     }
 
     public static void main(String[] args) {
-        WikiEventDataCollector dataCollector = new WikiEventDataCollector();
+        CollectorEventWiki dataCollector = new CollectorEventWiki();
         dataCollector.collectEventData("https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam");
         dataCollector.printEvents();
         dataCollector.writeEventsToFile("src/main/java/hust/soict/oop/scraper/event/data/wiki_events.json");

@@ -1,8 +1,10 @@
 package hust.soict.oop.scraper.event;
 
-public class DateConverter {
-    public static String convertDate(String inputDate) {
-        String[] dateParts = inputDate.split(" ");
+import java.util.*;
+
+public class HelperDateConverter {
+    public static String convertDate(String inputDate, String originalDelimiter) {
+        String[] dateParts = inputDate.split(originalDelimiter);
         if (dateParts.length == 3) {
             String day = dateParts[0];
             String month = dateParts[1];
@@ -46,5 +48,21 @@ public class DateConverter {
     
     private static String formatWithLeadingZeros(int value) {
         return String.format("%02d", value);
+    }
+    
+    public static List<Integer> convertToIntList(String str) {
+        List<Integer> result = new ArrayList<>();
+        boolean isNegative = str.contains(" TCN");
+        str = str.replace(" TCN", "");
+        
+        String[] numbers = str.split("/");
+        
+        for (int i = 0; i < numbers.length; i++) {
+        	int number = isNegative ? -Integer.parseInt(numbers[i].trim()) : Integer.parseInt(numbers[i].trim());
+        	result.add(number);
+        }
+        
+        Collections.reverse(result);
+        return result;
     }
 }

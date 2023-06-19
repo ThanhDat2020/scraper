@@ -7,11 +7,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class EventDataCollector {
+public abstract class CollectorEvent {
     protected List<Event> events;
     private ObjectMapper objectMapper;
 
-    public EventDataCollector() {
+    public CollectorEvent() {
         events = new ArrayList<>();
         objectMapper = new ObjectMapper();
     }

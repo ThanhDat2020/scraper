@@ -7,9 +7,9 @@ import org.jsoup.nodes.Document;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class QNLEventDataCollector extends EventDataCollector {
+public class CollectorEventQNL extends CollectorEvent {
 
-    public QNLEventDataCollector() {
+    public CollectorEventQNL() {
         super();
     }
     
@@ -91,7 +91,8 @@ public class QNLEventDataCollector extends EventDataCollector {
                 	endDate = endDate.replace(" SCN", "");
                 else if (endDate.contains("TCN"))
                 	startDate = startDate.concat(" TCN");
-                Event event = new Event(strList.get(index), startDate, endDate);
+                if (startDate.equals("113")) startDate = startDate + " TCN";
+                Event event = new Event(strList.get(index), HelperDateConverter.convertDate(startDate, "/"), HelperDateConverter.convertDate(endDate, "/"), url);
                 events.add(event);
                 index++;
             }
@@ -102,7 +103,7 @@ public class QNLEventDataCollector extends EventDataCollector {
     }
 
     public static void main(String[] args) {
-        QNLEventDataCollector dataCollector = new QNLEventDataCollector();
+        CollectorEventQNL dataCollector = new CollectorEventQNL();
         dataCollector.collectEventData("https://quynhonland.vn/tom-tat-cac-moc-su-kien-lich-su-viet-nam/");
         dataCollector.printEvents();
         dataCollector.writeEventsToFile("src/main/java/hust/soict/oop/scraper/event/data/qnl_events.json");

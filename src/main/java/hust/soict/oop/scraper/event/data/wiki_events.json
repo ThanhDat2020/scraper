@@ -1,19 +1,20 @@
 [
 	{
 		"event": "Văn hóa Soi Nhụ",
-		"from": "25.000 TCN",
-		"to": "7.000 TCN",
+		"from": "25000 TCN",
+		"to": "7000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá cũ",
 		"description": "Văn hóa Soi Nhụ gọi theo tên địa điểm khảo cổ học Soi Nhụ thuộc vịnh Bái Tử Long, là nền văn hóa của người tiền sử được các nhà khảo cổ học Việt Nam phát hiện năm 1964 và khai quật năm 1967. Khái niệm và đặc điểm của nền văn hóa này đầu tiên được Ts. Hà Hữu Nga, Viện Khảo cổ học đề xuất trong Hội nghị thông báo \"Những phát hiện mới về khảo cổ học năm 1996\" (Nhà Xuất bản KHXH, Hà Nội năm 1997).",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Ngườm",
-		"from": "23.000 TCN",
+		"from": "23000 TCN",
 		"to": "",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá cũ",
@@ -21,143 +22,155 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Tràng An",
-		"from": "23.000 TCN",
-		"to": "1.000 TCN",
+		"from": "23000 TCN",
+		"to": "1000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá cũ",
 		"description": "Văn hóa Tràng An là một nền văn hóa cổ ở Việt Nam, hình thành từ thời kỳ đồ đá cũ cách nay khoảng 25 ngàn năm. Tràng An là tên một địa danh ở Ninh Bình, nơi đầu tiên tìm ra những di chỉ của nền văn hóa này. Đến nay đã có khoảng 30 địa điểm thuộc nền văn hóa Tràng An đã được phát hiện.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tam_Coc_taken_by_Harmony_Hiro.jpg",
 			"caption": "Những hang động xuyên thủy ở Tràng An."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Sơn Vi",
-		"from": "20.000 TCN",
-		"to": "12.000 TCN",
+		"from": "20000 TCN",
+		"to": "12000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá cũ",
 		"description": "Văn hóa Sơn Vi là một nền văn hóa ở Việt Nam vào hậu kỳ thời đại đồ đá cũ cách ngày nay khoảng 30 ngàn đến 11 ngàn năm. Đây là nền văn hóa kế trước văn hóa Hòa Bình. Sơn Vi là tên một xã thuộc huyện Lâm Thao, tỉnh Phú Thọ, nơi đầu tiên tìm ra những di chỉ của nền văn hóa này. Đến nay đã có khoảng 160 địa điểm thuộc văn hóa Sơn Vi đã được phát hiện.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ng%C6%B0%E1%BB%9Di_th%C6%B0%E1%BB%A3ng_c%E1%BB%95_Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Su%E1%BB%91i_Ti%C3%AAn.JPG",
 			"caption": "Phục dựng cảnh người thượng cổ Việt Nam tại Khu du lịch Suối Tiên."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Hòa Bình",
-		"from": "12.000 TCN",
-		"to": "10.000 TCN",
+		"from": "12000 TCN",
+		"to": "10000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá mới",
 		"description": "Văn hóa Hòa Bình được giới khảo cổ học chính thức công nhận từ ngày 30 tháng 1 năm 1932, do đề xuất của Madeleine Colani, sau khi đã được Đại hội các nhà Tiền sử Viễn Đông họp tại Hà Nội thông qua. Khởi thủy, cụm từ này được dùng để nói đến nền văn hóa cuội được ghè đẽo trên khắp chu vi hòn cuội để tạo ra những dụng cụ từ thời kỳ đá cũ đến thời kỳ đá mới. Qua thời gian, tất nhiên cụm từ này đã được đề nghị mang những tên khác nhau và có những ý nghĩa cũng khác nhau. Nhưng thời gian gần đây, hoạt động của các nhà khảo cổ học trong suốt từ năm 1975 lại đây đã cho thấy một hướng mới về quan niệm khác về thời đại cũng như không gian của Văn hóa Hòa Bình.Đây là 1 nền văn hoá đã khởi nguồn cho văn minh người Việt mà lan truyền và ảnh hưởng lên xứ phía Bắc.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nguoi_nguyen_thuy_Hoa_Binh.jpg",
 			"caption": "Mô hình minh họa cư dân Văn hóa Hòa Bình."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Bắc Sơn",
-		"from": "10.000 TCN",
-		"to": "8.000 TCN",
+		"from": "10000 TCN",
+		"to": "8000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá mới",
 		"description": "Văn hóa Bắc Sơn là một nền văn hóa cổ đại Việt Nam ở sơ kỳ thời đại đồ đá mới có niên đại sau nền văn hóa Hòa Bình, cách ngày nay từ một vạn đến tám ngàn năm. Bắc Sơn là đặt theo tên huyện Bắc Sơn (tỉnh Lạng Sơn), nơi đầu tiên phát hiện những di vật của nền văn hóa này. Các bộ lạc chủ nhân của văn hóa Hòa Bình đã tạo ra nền văn hóa Bắc Sơn.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Quỳnh Văn",
-		"from": "8.000 TCN",
-		"to": "6.000 TCN",
+		"from": "8000 TCN",
+		"to": "6000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá mới",
 		"description": "Văn hóa Quỳnh Văn (thời đại đồ đá mới, khoảng 6.000 – 3.500 năm cách ngày nay) được phát hiện từ những năm 1930 bởi các học giả người Pháp. Cho đến nay đã có hơn 70 năm nghiên cứu với 21 di tích, phân bố ở ven biển Nghệ An và Hà Tĩnh, chủ yếu tập trung xung quanh vịnh biển cổ Quỳnh Lưu. Đây là các di tích \"đống rác bếp\" (Kjökkenmodding), thành phần chủ yếu là các loại điệp. Trong các lớp điệp còn có xương cốt động vật, di vật đá, gốm và bếp lửa. Công cụ đá Quỳnh Văn ít về số lượng, nghèo nàn về loại hình, kỹ thuật ghè đẽo thô sơ, chủ yếu được tạo từ đá gốc. Loại hình thường thấy là các công cụ không xác định, công cụ hình đĩa, công cụ hình múi bưởi, công cụ hình rìu dài và công cụ hình rìu ngắn. Đồ gốm thô, hầu hết là đồ đun nấu với kích thước lớn, được tạo hình bằng tay kết hợp với bàn đập hòn kê. Đồ gốm có bốn loại chủ yếu: gốm đáy tròn văn in đập, gốm đáy tròn văn thừng, gốm đáy tròn văn thừng ở mặt ngoài và văn chải ở mặt trong, gốm đáy nhọn văn chải 2 mặt. Gốm đáy nhọn, văn chải 2 mặt là đặc trưng tiêu biểu nhất của văn hóa Quỳnh Văn. Các loại hình hiện vật khác như xương, đồ trang sức có số lượng ít.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Cái Bèo",
-		"from": "7.000 TCN",
-		"to": "5.000 TCN",
+		"from": "7000 TCN",
+		"to": "5000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá mới",
 		"description": "Văn hóa Cái Bèo có niên đại trước nền văn hóa Hạ Long. Di chỉ Cái Bèo được phát hiện vào năm 1938 trong lần tiến hành thám sát khảo cổ học ven biển khu vực liên quan thuộc vùng vịnh Hạ Long ngày nay. Di chỉ Cái Bèo khai quật được hơn 479 công cụ như chày, bàn nghiền, bàn mài, hòn kê, rìu bôn, đục, chì lưới … bằng đá cuội. Đồ gốm thô cứng làm từ đất sét và cát hạt khô, bếp, di cốt người; các xương răng động vật, xương thú như lợn rừng, nai, dê núi. Theo các nhà khảo cổ học, di chỉ Cái Bèo thuộc nền văn hóa Hạ Long, bởi phân tích rõ ra là cư dân Cái Bèo cùng với thời gian và xu hướng chuyển cư của người Hòa Bình – Bắc Sơn từ vùng núi xuống biển. Riêng cư dân đảo Cát Bà, trong đó có người cổ Cái Bèo làm nghề đánh cá là chủ yếu.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Đa Bút",
-		"from": "6.000 TCN",
-		"to": "5.000 TCN",
+		"from": "6000 TCN",
+		"to": "5000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đá mới",
 		"description": "Văn hóa Đa Bút là một nền văn hóa Việt Nam ở sơ kỳ thời đại đồ đá mới có niên đại sau các nền văn hóa Hòa Bình và Bắc Sơn, cách đây từ 5000 đến 6000 năm. Không gian của văn hóa Đa Bút là dải đất nằm từ hữu ngạn sông Đáy đến tả ngạn sông Mã thuộc các tỉnh Ninh Bình và Thanh Hóa ngày nay. Tính đến năm 2010, đã có hơn 10 điểm văn hóa Đa Bút được phát hiện và khai quật. Các bộ lạc chủ nhân của văn hóa Đa Bút đã tạo ra nền văn hóa Đông Sơn.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Hạ Long",
-		"from": "3.000 TCN",
-		"to": "1.500 TCN",
+		"from": "3000 TCN",
+		"to": "1500 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đồng đá",
 		"description": "Văn hóa Hạ Long là một nền văn hóa cổ. Cho đến nay, đã có khoảng gần 50 di tích “Văn hoá Hạ Long” được phát hiện trên các đảo của Vịnh Hạ Long cũng như dọc bờ biển từ Móng Cái đến Vân Đồn, với đặc trưng chung về loại hình - kỹ thuật chế tác công cụ đá và đồ gốm có từ cách đây 5.000-3.000 năm.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Phùng Nguyên",
-		"from": "2.000 TCN",
-		"to": "1.500 TCN",
+		"from": "2000 TCN",
+		"to": "1500 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đồng đá",
 		"description": "Văn hóa Phùng Nguyên là một nền văn hóa tiền sử thuộc sơ kỳ thời đại đồ đồng, cuối thời đại đồ đá mới, tồn tại từ cuối thiên niên kỷ III TCN, đầu thiên niên II TCN và kết thúc vào khoảng nửa đầu thiên niên kỷ II TCN. Phùng Nguyên là tên một làng ở xã Kinh Kệ (nay là xã Phùng Nguyên), huyện Lâm Thao, tỉnh Phú Thọ, nơi đầu tiên tìm ra các di chỉ của nền văn hóa này. Di chỉ văn hóa Phùng Nguyên đã được phát hiện ở Phú Thọ, Bắc Ninh, Ninh Bình, Hà Nội, Hải Phòng và một vài nơi khác trong lưu vực sông Hồng. Tính đến năm 1998, có khoảng 55 địa điểm đã được phát hiện có di chỉ văn hóa đồng dạng với các di chỉ tại Phùng Nguyên, trong đó có 3 địa điểm có di cốt người. Công cụ bằng đá phổ biến và chiếm ưu thế tuyệt đối. Đồ trang sức bằng các loại đá, đá bán quý, ngọc được tìm thấy nhiều, đặc biệt là các vòng đá. Ngoài đồ đá, cư dân Phùng Nguyên đã biết chế tạo đồ gốm đặc sắc từ khâu làm đất, tạo dáng cho đến hoa văn trang trí. Trong đời sống của cư dân Phùng Nguyên đã xuất hiện đồ đồng và thuật luyện kim (còn hạn chế).",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Tiền Sa Huỳnh",
-		"from": "2.000 TCN",
-		"to": "1.000 TCN",
+		"from": "2000 TCN",
+		"to": "1000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đồng đá",
 		"description": "",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Đồng Đậu",
-		"from": "1.500 TCN",
-		"to": "1.000 TCN",
+		"from": "1500 TCN",
+		"to": "1000 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đồng",
 		"description": "Văn hoá Đồng Đậu là nền văn hóa thuộc thời kỳ đồ đồng ở Việt Nam cách ngày nay khoảng 3.000 năm, sau văn hóa Phùng Nguyên, trước văn hóa Gò Mun. Tên của nền văn hóa này đặt theo tên khu di tích Đồng Đậu ở thị trấn Yên Lạc, huyện Yên Lạc, tỉnh Vĩnh Phúc, nơi các nhà khảo cổ học đã khám phá ra một nền văn hóa đồ đồng phong phú năm 1962.",
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Gò Mun",
-		"from": "1.000 TCN",
+		"from": "1000 TCN",
 		"to": "600 TCN",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ đồng",
@@ -165,11 +178,12 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Sa Huỳnh",
-		"from": "1.000 TCN",
+		"from": "1000 TCN",
 		"to": "200",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ sắt",
@@ -177,11 +191,12 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bronze_weapon_Sa_Huynh_Culture.JPG",
 			"caption": "Vũ khí bằng đồng"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Đồng Nai",
-		"from": "1.000 TCN",
+		"from": "1000 TCN",
 		"to": "0",
 		"age": "Thời tiền sử",
 		"dynasty": "Thời đại đồ sắt",
@@ -189,7 +204,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Hien_vat_da_Dong_Nai.jpg",
 			"caption": "Hiện vật đá văn hóa Đồng Nai"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Đông Sơn",
@@ -201,7 +217,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Trong_dong_ngoc_lu1.jpg",
 			"caption": "Trống đồng Ngọc Lũ - một sản phẩm của công nghệ luyện kim của cư dân Việt cổ cách ngày nay từ 2000 - 3000 năm."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Văn hóa Óc Eo",
@@ -213,7 +230,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Sites_of_Oc_Eo_Culture_in_Southern_Vietnam.jpg",
 			"caption": "Một số di tích thuộc văn hóa Óc Eo"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "vua Hùng thành lập quốc gia Văn Lang",
@@ -225,7 +243,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
 			"caption": "Bản đồ Đông Nam Á"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "An Dương Vương thôn tính Văn Lang, thành lập quốc gia Âu Lạc",
@@ -237,7 +256,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_V%C4%83n_Lang_%26_Nam_C%C6%B0%C6%A1ng.JPG",
 			"caption": "Bản đồ Văn Lang của Hùng Vương và Nam Cương của Thục Phán."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Tần-Việt",
@@ -249,7 +269,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_V%C4%83n_Lang_%26_Nam_C%C6%B0%C6%A1ng.JPG",
 			"caption": "Vị trí nước Văn Lang và các con sông tại đất Lĩnh Nam của người Bách Việt."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Triệu Đà xâm lược nước Âu Lạc, sáp nhập vào quốc gia Nam Việt",
@@ -257,11 +278,12 @@
 		"to": "",
 		"age": "Thời Bắc thuộc",
 		"dynasty": "Thuộc Nam Việt",
-		"description": "Triệu Vũ Đế (chữ Hán: 趙武帝, 257 TCN hoặc 235 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), là vị vua đầu tiên của nước Nam Việt, án ngữ tại Quảng Đông và miền bắc Việt Nam. Ông vốn là người Trung Quốc, quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山) (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc. Âu Lạc (chữ Hán:甌貉/甌駱;) là nhà nước cổ của người Việt cổ được thành lập tại miền Bắc Việt Nam bởi một nhân vật có thật tên là Thục Phán (An Dương Vương) năm 257 TCN. Nhà nước này đã thống nhất 2 bộ tộc Âu Việt - Lạc Việt (Sử gọi là Văn Lang) lại với nhau và đã bảo vệ đất nước thành công trước cuộc xâm lược của nhà Tần, nhưng sau cùng, nhà nước sụp đổ do thất bại trước Nam Việt của Triệu Đà (một quan lại nhà Tần), tạo cơ sở cho nhà Hán xâm lược sau này. Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia có thật được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
+		"description": "Triệu Vũ Đế (chữ Hán: 趙武帝, 257 TCN hoặc 235 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), là vị vua đầu tiên của nước Nam Việt, án ngữ tại Quảng Đông và miền bắc Việt Nam. Ông vốn là người Trung Quốc, quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山) (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc. Âu Lạc (chữ Hán:甌貉/甌駱;) là nhà nước cổ của người Việt cổ được thành lập tại miền Bắc Việt Nam bởi một nhân vật có thật tên là Thục Phán (An Dương Vương) năm 257 TCN. Nhà nước này đã thống nhất 2 bộ tộc Âu Việt - Lạc Việt (Sử gọi là Văn Lang) lại với nhau và đã bảo vệ đất nước thành công trước cuộc xâm lược của nhà Tần, nhưng sau cùng, nhà nước sụp đổ do thất bại trước Nam Việt của Triệu Đà (một quan lại nhà Tần), tạo cơ sở cho nhà Hán xâm lược sau này. Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Western_Han_Mawangdui_Silk_Map.JPG",
 			"caption": "Tấm bản đồ bằng lụa ở mộ số 3 Mã Vương Đôi mô tả hai nước Trường Sa và Nam Việt."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Hán-Nam Việt",
@@ -273,7 +295,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nam-Viet_200bc.jpg",
 			"caption": "Bản đồ khu vực khoảng 200 năm TCN. Nước Nam Việt phía Tây giáp Dạ Lang và Câu Đinh, phía Đông giáp Mân Việt, phía Nam giáp với dãy Hoành Sơn, phía Bắc giáp nhà Hán."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Hán thôn tính Nam Việt",
@@ -281,11 +304,12 @@
 		"to": "",
 		"age": "Thời Bắc thuộc",
 		"dynasty": "Thuộc Hán",
-		"description": "Nhà Hán là hoàng triều thứ hai trong lịch sử Trung Quốc, do thủ lĩnh khởi nghĩa nông dân Lưu Bang thành lập và được cai trị bởi gia tộc họ Lưu. Tiếp nối nhà Tần (221 TCN – 206 TCN) tồn tại trong một khoảng thời gian ngắn ngủi và thời kỳ Chiến tranh Hán – Sở vô quân chủ, nhà Hán bị gián đoạn giai đoạn ngắn khi nhiếp chính Vương Mãng tiếm quyền, lập nên nhà Tân (9 – 23). Nó tồn tại qua hai thời kỳ – Tây Hán (206 – 9) và Đông Hán (23 – 220) – trước khi thời kỳ Tam Quốc mở ra. Trải dài hơn bốn thế kỷ, nhà Hán được coi là triều đại hoàng kim trong lịch sử Trung Quốc, ảnh hưởng mạnh mẽ đến bản sắc nền văn minh Trung Hoa cho tới mãi về sau. Ngày nay, nhóm dân tộc đa số ở Trung Quốc tự gọi mình là \"Hán nhân\", tiếng Trung được gọi là \"Hán ngữ\" và chữ viết Trung Quốc được gọi là \"Hán tự\". Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia có thật được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
+		"description": "Nhà Hán là hoàng triều thứ hai trong lịch sử Trung Quốc, do thủ lĩnh khởi nghĩa nông dân Lưu Bang thành lập và được cai trị bởi gia tộc họ Lưu. Tiếp nối nhà Tần (221 TCN – 206 TCN) tồn tại trong một khoảng thời gian ngắn ngủi và thời kỳ Chiến tranh Hán – Sở vô quân chủ, nhà Hán bị gián đoạn giai đoạn ngắn khi nhiếp chính Vương Mãng tiếm quyền, lập nên nhà Tân (9 – 23). Nó tồn tại qua hai thời kỳ – Tây Hán (206 – 9) và Đông Hán (23 – 220) – trước khi thời kỳ Tam Quốc mở ra. Trải dài hơn bốn thế kỷ, nhà Hán được coi là triều đại hoàng kim trong lịch sử Trung Quốc, ảnh hưởng mạnh mẽ đến bản sắc nền văn minh Trung Hoa cho tới mãi về sau. Ngày nay, nhóm dân tộc đa số ở Trung Quốc tự gọi mình là \"Hán nhân\", tiếng Trung được gọi là \"Hán ngữ\" và chữ viết Trung Quốc được gọi là \"Hán tự\". Nam Việt (tiếng Quan Thoại: 南越 / Nányuè, tiếng Quảng Đông: 南粤 / Nàahm-yuht) là một quốc gia được lãnh đạo bởi nhà Triệu tồn tại trong giai đoạn 203 TCN – 111 TCN trước khi bị nhà Hán tiêu diệt. Cương vực tương ứng một phần lãnh thổ Trung Quốc và Việt Nam hiện nay.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Western_Han_Mawangdui_Silk_Map.JPG",
 			"caption": "Tấm bản đồ bằng lụa ở mộ số 3 Mã Vương Đôi mô tả hai nước Trường Sa và Nam Việt."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Hai Bà Trưng, Trưng Trắc thành lập quốc gia Lĩnh Nam, kinh đô đặt tại Mê Linh",
@@ -297,7 +321,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_L%C4%A9nh_Nam_th%E1%BB%9Di_Tr%C6%B0ng_V%C6%B0%C6%A1ng-Hai_B%C3%A0_Tr%C6%B0ng.jpg",
 			"caption": "Bản đồ Lĩnh Nam thời Trưng Vương (40-43 sau Công nguyên)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Lĩnh Nam - Đông Hán",
@@ -309,7 +334,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đông Hán thôn tính Lĩnh Nam",
@@ -321,7 +347,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg",
 			"caption": "Hán Vũ Đế (trị. 141 TCN – 87 TCN)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khởi nghĩa Chu Đạt",
@@ -333,7 +360,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khởi nghĩa Lương Long",
@@ -345,7 +373,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khu Liên khởi nghĩa, tách quận Nhật Nam thành lập quốc gia Lâm Ấp",
@@ -357,7 +386,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Tôn Quyền xưng đế, lập nước Đông Ngô, ly khai nhà Hán",
@@ -369,7 +399,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg",
 			"caption": "Hán Vũ Đế (trị. 141 TCN – 87 TCN)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khởi nghĩa Bà Triệu",
@@ -381,7 +412,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:China_5.jpg",
 			"caption": "Bản đồ Tam quốc năm 262, Đông Ngô kiểm soát Giao Châu."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Tấn – Ngô",
@@ -393,7 +425,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Jindestroywu.png",
 			"caption": "Các mũi tiến công của quân Tấn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lưu Dụ ép Tấn Cung Đế nhường ngôi, lập ra nhà Lưu Tống",
@@ -405,7 +438,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Thứ sử Giao Châu Đàn Hòa Chi đánh Lâm Ấp, cướp châu báu rút về",
@@ -417,7 +451,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Lý Trường Nhân",
@@ -429,7 +464,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Tiêu Đạo Thành phế Lưu Chuẩn tự làm vua, thành lập nhà Nam Tề",
@@ -441,7 +477,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Tiêu Diễn phế truất Tiêu Bảo Dung, thành lập nhà Lương",
@@ -453,7 +490,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Northern_and_Southern_Dynasties_560_CE.png",
 			"caption": "Năm 560 Trần Bắc Tề Bắc Chu. Tây Lương."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Lý Bí",
@@ -465,7 +503,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Bí thành lập quốc gia Vạn Xuân",
@@ -477,7 +516,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Emperor_Ly_Nam_De_and_the_Empress_(SDK_6376).jpg",
 			"caption": "Tranh thế kỷ XVIII vẽ Lý Nam Đế và Hoàng Hậu"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Tùy–Vạn Xuân",
@@ -489,7 +529,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Uyên tuyên bố thành lập nhà Đường",
@@ -501,7 +542,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Gaozong_of_Tang.jpg",
 			"caption": "Lãnh thổ Đại Đường được mở rộng tối đa dưới thời Đường Cao Tông"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Uyên ép Dương Hựu nhường ngôi",
@@ -513,7 +555,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Gaozu_of_Tang_Dynasty.jpeg",
 			"caption": "Tranh vẽ Đường Cao Tổ Lý Uyên"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Lý Tự Tiên",
@@ -525,7 +568,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Mai Hắc Đế",
@@ -537,7 +581,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Phùng Hưng",
@@ -549,7 +594,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:L%C4%83ngPh%C3%B9ngH%C6%B0ng3.jpg",
 			"caption": "Lăng Phùng Hưng (Phùng đại vương lăng, 馮大王陵) ở Ngõ 2 phố Giảng Võ phường Giảng Võ quận Ba Đình thành phố Hà Nội."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khúc Thừa Dụ xây dựng chính quyền tự chủ",
@@ -561,7 +607,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trận Bạch Đằng, Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
@@ -573,7 +620,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_Giang_chi_chi%E1%BA%BFn_(938).jpg",
 			"caption": "Tranh ghép đá mô phỏng trận Bạch Đằng 938"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Ngô Quyền xưng vương, kinh đô Cổ Loa",
@@ -585,7 +633,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:An_Duong_Vuong_Temple_Gate_Co_Loa.jpg",
 			"caption": "Đền thờ An Dương Vương tại khu di tích Cổ Loa"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Loạn 12 sứ quân",
@@ -597,7 +646,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lo%E1%BA%A1n_12_x%E1%BB%A9_qu%C3%A2n.png",
 			"caption": "Một sơ đồ mô tả các khu vực cát cứ của các sứ quân"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đinh Bộ Lĩnh xưng đế, thành lập quốc gia Đại Cồ Việt, kinh đô Hoa Lư",
@@ -609,7 +659,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Codohoalu1-Model.jpg",
 			"caption": "Sơ đồ kinh đô Hoa Lư"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đinh Bộ Lĩnh cho đúc Thái Bình hưng bảo, đồng tiền đầu tiên của Việt Nam",
@@ -621,7 +672,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:An36_Dinh_Bo_Linh_Thai_Binh_(12537160424).jpg",
 			"caption": "Thái Bình hưng bảo (太平興寶)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đinh Bộ Lĩnh cùng con trai bị sát hại",
@@ -633,7 +685,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:T%C6%B0%E1%BB%A3ng_%C4%90inh_B%E1%BB%99_L%C4%A9nh_t%E1%BA%A1i_C%C3%B4ng_vi%C3%AAn_Tao_%C4%90%C3%A0n,_th%C3%A1ng_12_n%C4%83m_2021_(1).jpg",
 			"caption": "Tượng đài cờ lau Đinh Bộ Lĩnh ở Công viên Tao Đàn, Thành phố Hồ Chí Minh"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê",
@@ -645,7 +698,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1855_Spruner_Map_of_Asia_in_the_9th_and_10th_Centuries_-_Geographicus_-_AsienIXX-spruneri-1855.jpg",
 			"caption": "Châu Á vào giữa thế kỷ thứ 9 đến hết thế kỷ thứ 10, với lãnh thổ Đại Cồ Việt (màu vàng)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Tống - Việt",
@@ -657,7 +711,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Công Uẩn lên ngôi vua, thành lập nhà Lý",
@@ -669,7 +724,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(1009-1225).png",
 			"caption": "Lãnh thổ Việt Nam thời nhà Lý (1009–1225)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Công Uẩn dời đô về Thăng Long",
@@ -681,7 +737,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
 			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Thánh Tông lên ngôi, đổi tên nước từ Đại Cồ Việt thành Đại Việt",
@@ -693,7 +750,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
 			"caption": "Bản đồ Đông Nam Á"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Việt-Chiêm, Đại Việt chiếm được 3 châu của Chiêm Thành",
@@ -705,7 +763,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(1009-1225).png",
 			"caption": "Lãnh thổ Việt Nam thời nhà Lý (1009–1225)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Tống-Việt",
@@ -717,7 +776,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trận Như Nguyệt, đẩy lùi quân xâm lược Tống",
@@ -729,7 +789,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Song_Taizu.jpg",
 			"caption": "Tống Thái Tổ (trị. 960–976), tranh chân dung cung đình."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh, thành lập nhà Trần",
@@ -741,7 +802,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Emperor_Taizu_play_Cuju.jpg",
 			"caption": "Cuju, môn thể thao được cho là thịnh hành của giới cung cấm quý tộc ở nhà Tống lẫn nhà Lý, Trần thời bấy giờ."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông–Đại Việt lần 1",
@@ -749,11 +811,12 @@
 		"to": "",
 		"age": "Thời phong kiến độc lập",
 		"dynasty": "Nhà Trần",
-		"description": "Chiến tranh Nguyên Mông – Đại Việt lần thứ nhất hay Kháng chiến chống Nguyên Mông lần thứ nhất là cách người Việt Nam gọi cuộc chiến đấu của quân dân Đại Việt chống lại quân đội của đế quốc Mông Cổ do Uriyangqatai (Ngột Lương Hợp Thai) chỉ huy vào trong khoảng thời gian nửa tháng cuối tháng 1 năm 1258 (hay năm Nguyên Phong thứ 7). Cuộc chiến mở đầu với thất bại của quân Đại Việt trong trận Bình Lệ Nguyên, sau đó là trận ở Phù Lỗ, dù thắng nhưng quân đội của Ngột Lương Hợp Thai không đánh bại được đạo quân chủ lực của nhà Trần. Quân Mông Cổ tiến vào kinh thành của Đại Việt trong 9 ngày. Quân đội nhà Trần đã phản công, đại phá quân Mông trong trận Đông Bộ Đầu khiến cho đội quân này phải chạy về phía Bắc, sau đó còn phải hứng chịu một cuộc tập kích khác của thủ lĩnh miền núi - Hà Bổng. Cuộc chiến này đã kết thúc với chiến thắng của nước Đại Việt, ghi dấu công lao của vua Trần Thái Tông trong việc lãnh đạo quân dân Đại Việt chiến đấu chống quân đội Mông Cổ.",
+		"description": "Chiến tranh Nguyên Mông – Đại Việt lần thứ nhất hay Kháng chiến chống Nguyên Mông lần thứ nhất là cách người Việt Nam gọi cuộc chiến đấu của quân dân Đại Việt chống lại quân đội của đế quốc Mông Cổ do Uriyangqatai (Ngột Lương Hợp Thai) chỉ huy vào trong khoảng thời gian nửa tháng cuối tháng 1 năm 1258 (hay năm Nguyên Phong thứ 7). Cuộc chiến mở đầu với thất bại của quân Đại Việt trong trận Bình Lệ Nguyên, sau đó là trận Phù Lỗ, dù thắng nhưng quân đội của Ngột Lương Hợp Thai không đánh bại được đạo quân chủ lực của nhà Trần. Quân Mông Cổ tiến vào kinh thành của Đại Việt trong 9 ngày. Quân đội nhà Trần đã phản công, đại phá quân Mông trong trận Đông Bộ Đầu khiến cho đội quân này phải chạy về phía Bắc, sau đó còn phải hứng chịu một cuộc tập kích khác của thủ lĩnh miền núi - Hà Bổng. Cuộc chiến này đã kết thúc với chiến thắng của nước Đại Việt, ghi dấu công lao của vua Trần Thái Tông trong việc lãnh đạo quân dân Đại Việt chiến đấu chống quân đội Mông Cổ.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_%C4%91%E1%BA%BF_qu%E1%BB%91c_M%C3%B4ng_C%E1%BB%95,_1559.jpg",
 			"caption": "Bản đồ Đại Việt, Mông Cổ, Nam Tống, năm 1257"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hội nghị Bình Than, triệu họp vương hầu, trăm quan",
@@ -765,7 +828,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hội nghị Diên Hồng, triệu họp bô lão cả nước",
@@ -777,7 +841,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n,_Qu%E1%BA%ADn_1,_th%C3%A1ng_12_n%C4%83m_2021_(ph%C3%B9_%C4%91i%C3%AAu_h%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng)_(2).jpg",
 			"caption": "Phù điêu Hội nghị Diên Hồng tại Đền thờ Đức Thánh Trần, Quận 1. Trong đó khắc họa rõ nét cảnh các vị bô lão thể hiện ý chí quyết đánh quân Nguyên"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông-Đại Việt lần 2",
@@ -789,7 +854,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Chongquannguyenlan2-th%E1%BB%AD.gif",
 			"caption": "Diễn biến chính Chiến tranh Nguyên Mông-Đại Việt lần 2"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Nguyên Mông–Đại Việt lần 3",
@@ -801,7 +867,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Battle_of_V%C3%A2n_%C4%90%E1%BB%93n.jpg",
 			"caption": "Địa điểm được giả thuyết là \"sông Mang\" giữa hai đảo Cái Bàn và Vân Hải nơi xảy ra cuộc tập kích của quân và dân Đại Việt dưới sự chỉ huy của Trần Khánh Dư và anh em họ Phạm người Quan Lạn vào đoàn thuyền của Trương Văn Hổ."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phát hành Thông Bảo hội sao theo chủ trương của Hồ Quý Ly, đây là tiền giấy đầu tiên của Việt Nam",
@@ -813,7 +880,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:C%E1%BB%95ng_Nam.jpg",
 			"caption": "Cổng Nam Thành nhà Hồ, thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hóa."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hồ Quý Ly ép Trần Thuận Tông dời đô về Tây Đô",
@@ -825,7 +893,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Toan_canh.tif",
 			"caption": "Toàn cảnh di sản văn hóa thế giới Thành Nhà Hồ"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hồ Quý Ly lên ngôi, thành lập nhà Hồ, đổi tên nước thành Đại Ngu",
@@ -837,7 +906,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:C%E1%BB%95ng_Nam.jpg",
 			"caption": "Cửa Nam thành Tây Đô , kinh đô nhà Hồ. Năm 2011, UNESCO đã công nhận Thành nhà Hồ ở tỉnh Thanh Hóa là di sản thế giới."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Việt-Chiêm",
@@ -849,7 +919,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Đại Ngu–Đại Minh",
@@ -861,7 +932,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ming-dynasty-map-small.jpg",
 			"caption": "Bản đồ lãnh thổ Trung Quốc dưới thời nhà Minh."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Minh thôn tính Đại Ngu, đặt làm quận Giao Chỉ, trung tâm hành chính là Đông Quan",
@@ -873,7 +945,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
 			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trần Ngỗi xưng Giản Định đế, lập nên nhà Hậu Trần",
@@ -885,7 +958,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ming_Domination_of_Vietnam.jpg",
 			"caption": "Bản đồ Trung Quốc dưới triều nhà Minh"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Hậu Trần bị nhà Minh đánh bại",
@@ -897,7 +971,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
 			"caption": "Chân dung Minh Thái Tổ (trị. 1368–1398), hoàng đế khai quốc nhà Minh."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Lam Sơn",
@@ -909,7 +984,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bia_Vinh_Lang.JPG",
 			"caption": "Bia Vĩnh Lăng do Nguyễn Trãi soạn nói về cuộc Khởi nghĩa Lam Sơn."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lê Lợi thành lập quốc gia Đại Việt, đặt kinh đô tại Đông Kinh",
@@ -921,7 +997,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
 			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Vụ án Lệ Chi viên",
@@ -933,7 +1010,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chính biến Thiên Hưng, Lê Thánh Tông lên ngôi",
@@ -945,7 +1023,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_(Annam),_15th_century_-_Ewer_in_the_Shape_of_a_Dragon_-_1989.359_-_Cleveland_Museum_of_Art.tif",
 			"caption": "Tượng gốm Chu Đậu thời Hồng Đức, lưu trữ tại Bảo tàng Nghệ thuật Cleveland."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Việt–Chiêm, miền bắc Chiêm Thành sáp nhập vào Đại Việt",
@@ -957,7 +1036,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Southeast_asia.jpg",
 			"caption": "Bản đồ Đông Nam Á"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Đại Việt–Lan Xang",
@@ -969,7 +1049,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "biên soạn Luật Hồng Đức",
@@ -981,7 +1062,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Trần Tuân",
@@ -993,7 +1075,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Trần Cảo",
@@ -1005,7 +1088,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khủng hoảng cuối nhà Lê sơ và nội chiến",
@@ -1017,7 +1101,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Mạc Đăng Dung ép Lê Cung Hoàng nhường ngôi, lập lên nhà Mạc",
@@ -1029,7 +1114,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
 			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Kim lập Lê Ninh làm vua, tái lập nhà Lê, đóng đô tại Vạn Lại",
@@ -1041,7 +1127,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Doan_ruoc_vua_Le.jpg",
 			"caption": "Nghi vệ xa giá vua Lê. Tranh vẽ thế kỷ XVIII."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Lê–Mạc",
@@ -1053,7 +1140,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Lê trung hưng đánh bại nhà Mạc, lên nắm quyền điều hành đất nước",
@@ -1065,7 +1153,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
 			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Lê Thế Tông dời đô về Đông Kinh",
@@ -1077,7 +1166,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Samuel_Baron_-_The_City_of_CHA-CHO,_the_Metropolis_of_TONQUEEN.jpg",
 			"caption": "Cảnh Thăng Long-Kẻ Chợ những năm 1690 do Samuel Baron miêu tả sau chuyến đi đến Đàng Ngoài của ông."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Hoàng vào trấn thủ Thuận Hóa",
@@ -1089,7 +1179,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%91%E1%BB%93_Th%E1%BB%ABa_Tuy%C3%AAn_Thu%E1%BA%ADn_H%C3%B3a_trong_b%E1%BB%99_H%E1%BB%93ng_%C4%90%E1%BB%A9c_B%E1%BA%A3n_%C4%90%E1%BB%93.jpg",
 			"caption": "Thừa Tuyên Thuận Hóa trong Hồng Đức Bản Đồ"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trịnh – Nguyễn phân tranh",
@@ -1101,7 +1192,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Triumphant_return_of_a_civil_commander,_view_2,_Doc_Loi_temple,_Nghe_An_province,_late_18th_century,_Do_(poonah)_paper_-_Vietnam_National_Museum_of_Fine_Arts_-_Hanoi,_Vietnam_-_DSC05115.JPG",
 			"caption": "Quân đội Đàng Ngoài, tranh Võ quan vinh quy đồ Thế kỷ 17."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Lê trung hưng đánh bại hoàn toàn nhà Mạc",
@@ -1113,7 +1205,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:National_Museum_Vietnamese_History_82.jpg",
 			"caption": "Tượng Quán Thế Âm ngàn tay ngàn mắt, Bảo tàng lịch sử Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Tây Sơn",
@@ -1125,7 +1218,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nhac_Brothers.JPG",
 			"caption": "Tượng Tây Sơn Tam Kiệt ở Bảo tàng Quang Trung, Quy Nhơn, Bình Định."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến tranh Bình Nam",
@@ -1137,7 +1231,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Ánh xưng vương",
@@ -1149,7 +1244,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:B%E1%BA%A3n_%C4%90%E1%BB%93_X%E1%BB%A9_Gia_%C4%90%E1%BB%8Bnh_H%E1%BA%ADu_B%E1%BA%A3n_XVIII.png",
 			"caption": "Lược đồ một số địa danh ở Gia Định cuối thế kỷ XVIII xuất hiện trong bài viết. Bản đồ này chứa đựng hầu hết các địa danh ở miền nam Việt Nam và khu vực lân cận xuất hiện trong bài viết (riêng địa danh Long Xuyên thế kỷ XVIII nay là Cà Mau, Long Xuyên trong bản đồ này chỉ là địa danh từ cuối thế kỷ XIX khi thuộc Pháp)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Nhạc xưng Hoàng đế, đặt niên hiệu Thái Đức, lập lên nhà Tây Sơn, đặt kinh đô tại Quy Nhơn",
@@ -1161,7 +1257,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Harbour_of_Qui_Nhon_1795_Jean-Marie_Dayot.jpg",
 			"caption": "Cảng Quy Nhơn năm 1795, vẽ bởi Jean-Marie Dayot."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Nhạc phong Nguyễn Huệ làm Bắc Bình Vương",
@@ -1173,7 +1270,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
 			"caption": "Nguồn gốc dòng Tây Sơn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Huệ phá tan quân Xiêm tại Rạch Gầm – Xoài Mút",
@@ -1185,7 +1283,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG",
 			"caption": "Tượng đài kỷ niệm chiến thắng Rạch Gầm-Xoài Mút tại Châu Thành, Tiền Giang"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Nhạc từ bỏ đế hiệu, chỉ xưng Tây Sơn vương",
@@ -1197,7 +1296,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
 			"caption": "Nguồn gốc Nhà Tây Sơn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Huệ xưng đế, đặt niên hiệu Quang Trung, đặt kinh đô tại Phú Xuân",
@@ -1209,7 +1309,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:K%E1%BB%B3_%C4%91%C3%A0i_%E1%BB%9F_Hu%E1%BA%BF.jpg",
 			"caption": "Hoa đỏ rực bên Kỳ Đài"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trận Ngọc Hồi – Đống Đa, đẩy lui quân xâm lược nhà Thanh, nhà Hậu Lê sụp đổ",
@@ -1219,9 +1320,10 @@
 		"dynasty": "Nhà Tây Sơn",
 		"description": "60.000 quân chính quy và dân binh đóng ở miền bắc, cộng với mấy vạn quân và dân binh hành quân từ phía nam ra, tổng số khoảng 100.000 quân chính quy và dân binh (gồm khoảng 5 vạn quân chính quy và 5 vạn dân binh) Thời tiền sử",
 		"image": {
-			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%E6%BB%BF%E8%92%99%E6%BC%A2%E5%90%88%E7%92%A7%E6%95%99%E7%A7%91%E6%9B%B8_(%E7%AF%80%E9%8C%84).png",
-			"caption": "Văn chương Trung Quốc (中國) trong một cuốn sách giáo khoa tiếng Trung, tiếng Mãn và tiếng Mông Cổ (song ngữ) được xuất bản trong triều đại nhà Thanh; đoạn văn hiển thị ở trên có nội dung: \"Đất nước Trung Quốc của chúng tôi nằm ở Đông Á... Trong 5000 năm, văn hóa phát triển (ở đất nước Trung Quốc)... Vì chúng tôi là người Trung Quốc, làm sao chúng tôi không yêu Trung Quốc.\""
-		}
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Flag_of_Later_Le_dynasty.svg",
+			"caption": "Hậu Lê Hoàng Kì(phục dựng)."
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Huệ qua đời, con trai Nguyễn Quang Toản lên ngôi",
@@ -1233,7 +1335,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ngu%E1%BB%93n_g%E1%BB%91c_gai_th%E1%BA%BF_d%C3%B2ng_T%C3%A2y_S%C6%A1n.JPG",
 			"caption": "Nguồn gốc dòng Tây Sơn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Ánh đánh bại nhà Tây Sơn, lên ngôi vua, đặt niên hiệu là Gia Long, lập lên nhà Nguyễn, đặt kinh đô tại Phú Xuân",
@@ -1245,7 +1348,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:K%E1%BB%B3_%C4%91%C3%A0i_%E1%BB%9F_Hu%E1%BA%BF.jpg",
 			"caption": "Hoa đỏ rực bên Kỳ Đài"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nổi dậy Đá Vách",
@@ -1257,7 +1361,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Ánh đổi tên nước thành Việt Nam",
@@ -1269,7 +1374,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
 			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Khởi nghĩa Phan Bá Vành",
@@ -1281,7 +1387,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:S%C6%A1_%C4%91%E1%BB%93_m%E1%BB%99t_s%E1%BB%91_%C4%91%E1%BB%8Ba_danh_li%C3%AAn_quan_kh%E1%BB%9Fi_ngh%C4%A9a_Phan_B%C3%A1_V%C3%A0nh.png",
 			"caption": "Sơ đồ một số địa danh trong khởi nghĩa Phan Bá Vành"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Việt–Xiêm",
@@ -1293,7 +1400,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:R%E1%BA%A1ch_%C3%94ng_Ch%C6%B0%E1%BB%9Fng.jpg",
 			"caption": "Bản đồ vị trí sông Thuận Cảng (Vàm Nao) và đồn Cổ Hỗ (nay là chợ Thủ, xã Long Điền A, huyện Chợ Mới)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Việt Nam thôn tính Chân Lạp, đặt làm Trấn Tây Thành",
@@ -1305,7 +1413,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tran_Tay_Thanh_1838.jpg",
 			"caption": "Vị trí của Trấn Tây Thành"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Minh Mạng đổi tên nước thành Đại Nam",
@@ -1317,7 +1426,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:MinhMang.jpg",
 			"caption": "Một bức chân dung Minh Mạng."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "rút quân khỏi Trấn Tây Thành, Xiêm đặt Ang Duong lên ngôi, tái lập Chân Lạp",
@@ -1329,7 +1439,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:East-Hem_600ad.jpg",
 			"caption": "Chân Lạp - Phù Nam, vào năm 600"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến tranh Pháp-Đại Nam",
@@ -1341,7 +1452,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ban_do_viet_nam_1857.jpg",
 			"caption": "Bản đồ Việt Nam năm 1857"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Bạo loạn ven biển",
@@ -1353,7 +1465,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chính biến chày vôi",
@@ -1365,7 +1478,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tomb_of_Tu_Duc_3.jpg",
 			"caption": "Lăng Tự Đức, tức Vạn Niên cơ."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "nhà Nguyễn cắt Nam Kỳ lục tỉnh nhượng cho Pháp",
@@ -1377,7 +1491,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lascaux2.jpg",
 			"caption": "Một bức hoạ trong di chỉ Lascaux tại tỉnh Dordogne, khoảng 18.000 TCN"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hòa ước Giáp Thân, kết thúc Chiến tranh Pháp–Đại Nam, triều đình nhà Nguyễn chấp nhận sự bảo hộ của Pháp",
@@ -1389,7 +1504,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:131Etendue_de_l%27Empire_Fran%C3%A7ais.svg",
 			"caption": "Bản đồ của đế quốc thực dân Pháp thứ nhất (màu xanh lá cây) và thứ hai (màu xanh dương)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phong trào Cần Vương",
@@ -1401,7 +1517,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thực dân Pháp thành lập Liên bang Đông Dương, gồm Bắc Kỳ, Trung Kỳ, Nam Kỳ và Campuchia, đặt thủ đô tại Sài Gòn",
@@ -1413,7 +1530,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
 			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "sáp nhập Lào vào Liên bang Đông Dương",
@@ -1425,7 +1543,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
 			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "sáp nhập Quảng Châu Loan vào Liên bang Đông Dương",
@@ -1437,7 +1556,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
 			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Liên bang Đông Dương dời thủ đô về Hà Nội",
@@ -1449,7 +1569,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ha_Noi_in_Vietnam.svg",
 			"caption": "Vị trí thành phố Hà Nội trên bản đồ Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phong trào Duy Tân",
@@ -1461,7 +1582,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phong trào chống sưu thuế Trung Kỳ",
@@ -1473,7 +1595,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khoảng 100.000 người Việt bị ép sang châu Âu chiến đấu cho Pháp trong Chiến tranh thế giới thứ nhất",
@@ -1485,7 +1608,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_1914_WWI_Alliances.jpg",
 			"caption": "Các nước tham chiến tại châu Âu. Hình dáng tiểu bang Illinois nằm ở bên trái để có thể so sánh diện tích. Khối Trung tâm (Central Powers) Khối Hiệp ước (Entente Powers) Các nước trung lập"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khởi nghĩa Thái Nguyên",
@@ -1497,7 +1621,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VNQPHhoiky.png",
 			"caption": "Cờ Ngũ tinh liên châu của Việt Nam Quang phục Hội"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nguyễn Ái Quốc gửi Yêu sách của nhân dân An Nam tới Hội nghị Hòa bình Versailles",
@@ -1509,7 +1634,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Treaty_of_Versailles,_English_version.jpg",
 			"caption": "Trang đầu của Hòa ước Versailles, bản tiếng Anh"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam",
@@ -1521,7 +1647,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:CPV_emblem.png",
 			"caption": "Đảng huy không chính thức của Đảng Cộng sản Việt Nam, thường được thể hiện trên các bằng khen của các tổ chức trong Đảng."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phong trào Xô Viết Nghệ Tĩnh",
@@ -1533,7 +1660,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "khoảng 20.000 thanh niên Việt Nam bị cưỡng bức phục vụ Pháp trong chiến tranh thế giới thứ hai",
@@ -1545,7 +1673,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Bundesarchiv_Bild_102-09042,_Genf,_V%C3%B6lkerbund,_Sitzungssaal.jpg",
 			"caption": "Hội nghị Hội Quốc Liên tổ chức tại Geneva, Thụy Sĩ, năm 1930"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "quân đội Nhật Bản tiến vào Đông Dương",
@@ -1553,11 +1682,12 @@
 		"to": "",
 		"age": "Thời phong kiến độc lập",
 		"dynasty": "Pháp thuộc",
-		"description": "Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947. Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
+		"description": "Đế quốc Nhật Bản, tên chính thức là Đại Nhật Bản Đế Quốc (大日本帝國, Dai Nippon Teikoku?) là một nhà nước tồn tại trong lịch sử của Nhật Bản từ Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947. Liên bang Đông Dương (chữ Nôm: 聯邦東洋, tiếng Pháp: Union indochinoise, sau 1947 là Fédération indochinoise) hay còn gọi là Đông Dương thuộc Pháp, Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp trong hơn 67 năm (1887-1954) tại khu vực Đông Nam Á, ngày nay thuộc lãnh thổ Việt Nam, Lào, Campuchia và đất đai của huyện Trạm Giang (tỉnh Quảng Đông, Trung Quốc). Nhân danh Triều đình Huế, Pháp cũng chính thức kiểm soát quần đảo Trường Sa và quần đảo Hoàng Sa vào năm 1920 và tuyên bố chủ quyền thống trị vào năm 1921.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Map_of_French_Indochina_expansion.svg",
 			"caption": "Tiến trình xâm lược của thực dân Pháp ở Đông Dương"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chính phủ Pháp chấp nhận mọi yêu sách, chấp nhận việc chiếm đóng cùng giao quyền điều hành những căn cứ quân sự cho quân đội Nhật",
@@ -1565,11 +1695,12 @@
 		"to": "",
 		"age": "Thời phong kiến độc lập",
 		"dynasty": "Pháp thuộc",
-		"description": "Chính phủ Pháp (tiếng Pháp: Gouvernement de la France) là cơ quan điều hành ngành hành pháp Cộng hòa Pháp. Chính phủ bao gồm Thủ tướng, là người đứng đầu chính phủ, và Bộ trưởng phụ trách và Bộ trưởng cao cấp. Bộ trưởng cao cấp còn được gọi là Bộ trưởng (tiếng Pháp: Ministres), và Bộ trưởng phụ trách thì được gọi bằng Thư ký Nhà nước hay Quốc vụ khanh (tiếng Pháp: Secrétaires d'État). Một cơ quan điều hành bé hơn nhưng với quyền lực lớn hơn là Hội đồng Bộ trưởng (tiếng Pháp: Conseil des ministres) chỉ gồm Bộ trưởng cao cấp, mặc dù Bộ trưởng phụ trách có thể tham dự phiên họp. Chủ tịch Hội đồng Bộ trưởng (tiếng Pháp: Président du Conseil des ministres) do Tổng thống nắm giữ, không giống với Chính phủ do Thủ tướng lãnh đạo. Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
+		"description": "Chính phủ Pháp (tiếng Pháp: Gouvernement de la France) là cơ quan điều hành ngành hành pháp Cộng hòa Pháp. Chính phủ bao gồm Thủ tướng, là người đứng đầu chính phủ, và Bộ trưởng phụ trách và Bộ trưởng cao cấp. Bộ trưởng cao cấp còn được gọi là Bộ trưởng (tiếng Pháp: Ministres), và Bộ trưởng phụ trách thì được gọi bằng Thư ký Nhà nước hay Quốc vụ khanh (tiếng Pháp: Secrétaires d'État). Một cơ quan điều hành bé hơn nhưng với quyền lực lớn hơn là Hội đồng Bộ trưởng (tiếng Pháp: Conseil des ministres) chỉ gồm Bộ trưởng cao cấp, mặc dù Bộ trưởng phụ trách có thể tham dự phiên họp. Chủ tịch Hội đồng Bộ trưởng (tiếng Pháp: Président du Conseil des ministres) do Tổng thống nắm giữ, không giống với Chính phủ do Thủ tướng lãnh đạo. Đế quốc Nhật Bản, tên chính thức là Đại Nhật Bản Đế Quốc (大日本帝國, Dai Nippon Teikoku?) là một nhà nước tồn tại trong lịch sử của Nhật Bản từ Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Japanese_Empire.png",
 			"caption": "Đế quốc Nhật Bản. Cho tới trước khi Chiến tranh thế giới thứ hai kết thúc, thuộc địa của Nhật tại vùng Đông Á đã tăng gấp gần 5 lần diện tích quốc gia"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Việt Nam Tuyên truyền Giải phóng quân được thành lập",
@@ -1581,7 +1712,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vo_Nguyen_Giap,_Vietminh_forces,_1944.jpg",
 			"caption": "Buổi lễ thành lập đội Việt Nam Tuyên truyền Giải phóng Quân; Võ Nguyên Giáp (bìa trái), Hoàng Văn Thái cầm cờ (là người đội mũ cối)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Nhật đảo chính thực dân Pháp",
@@ -1593,7 +1725,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:131Etendue_de_l%27Empire_Fran%C3%A7ais.svg",
 			"caption": "Bản đồ của đế quốc thực dân Pháp thứ nhất (màu xanh lá cây) và thứ hai (màu xanh dương)."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thành lập Đế quốc Việt Nam, phụ thuộc Đế quốc Nhật Bản",
@@ -1601,11 +1734,12 @@
 		"to": "",
 		"age": "Thời phong kiến độc lập",
 		"dynasty": "Pháp thuộc",
-		"description": "Đế quốc Việt Nam (chữ Hán: 越南帝國; tiếng Nhật: ベトナム帝国, chuyển tự Betonamu Teikoku, cựu tự thể: 越南帝國, chuyển tự Etsunan Teikoku, tiếng Pháp: Empire du Viêt Nam) là tên gọi chính thức của một Nhà nước Việt Nam tồn tại chỉ 5 tháng trong lịch sử Việt Nam (từ tháng 3 đến tháng 8 năm 1945) dưới sự kiểm soát và chi phối của Đế quốc Nhật Bản. Đế quốc Nhật Bản hay Đại Nhật Bản Đế Quốc (大日本帝国 (大日本帝國), Dai Nippon Teikoku?) là một nhà nước lịch sử của Nhật Bản tồn tại từ cuộc Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
+		"description": "Đế quốc Việt Nam (chữ Hán: 越南帝國; tiếng Nhật: ベトナム帝国, chuyển tự Betonamu Teikoku, cựu tự thể: 越南帝國, chuyển tự Etsunan Teikoku, tiếng Pháp: Empire du Viêt Nam) là tên gọi chính thức của một Nhà nước Việt Nam tồn tại chỉ 5 tháng trong lịch sử Việt Nam (từ tháng 3 đến tháng 8 năm 1945) dưới sự kiểm soát và chi phối của Đế quốc Nhật Bản. Đế quốc Nhật Bản, tên chính thức là Đại Nhật Bản Đế Quốc (大日本帝國, Dai Nippon Teikoku?) là một nhà nước tồn tại trong lịch sử của Nhật Bản từ Cách mạng Minh Trị năm 1868 cho đến khi Hiến pháp Nhật Bản được ban hành năm 1947.",
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Japanese_Empire.png",
 			"caption": "Đế quốc Nhật Bản. Cho tới trước khi Chiến tranh thế giới thứ hai kết thúc, thuộc địa của Nhật tại vùng Đông Á đã tăng gấp gần 5 lần diện tích quốc gia"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "cách mạng tháng Tám",
@@ -1617,7 +1751,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ch%E1%BB%89_th%E1%BB%8B_c%E1%BB%A7a_H%E1%BB%93_Ch%E1%BB%A7_t%E1%BB%8Bch_ph%C3%A1t_l%E1%BB%87nh_kh%E1%BB%9Fi_ngh%C4%A9a.JPG",
 			"caption": "Chỉ thị của Hồ Chí Minh về Tổng khởi nghĩa giành chính quyền trong cả nước."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đế quốc Việt Nam sụp đổ",
@@ -1629,7 +1764,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:%C4%90%E1%BA%BF-qu%E1%BB%91c_Vi%E1%BB%87t-Nam_tuy%C3%AAn-b%E1%BB%91_%C4%91%E1%BB%99c-l%E1%BA%ADp_1945.jpg",
 			"caption": "Nhật báo Sài Gòn loan tin Đế quốc Việt Nam tuyên bố độc lập."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Bảo Đại thoái vị",
@@ -1641,7 +1777,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Abdication_napoleon01.jpg",
 			"caption": "Napoleon thoái vị"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hồ Chí Minh tuyên bố độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa",
@@ -1653,7 +1790,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:H%E1%BB%93_Ch%C3%AD_Minh_v%C3%A0_%C4%91%E1%BA%A1i_bi%E1%BB%83u_qu%E1%BB%91c_h%E1%BB%99i_kho%C3%A1_1_VNDCCH,_1946.jpg",
 			"caption": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập trên Quảng trường Ba Đình."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "phát động phong trào Bình dân học vụ",
@@ -1665,7 +1803,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Lop_Binh_dan_hoc_vu.jpg",
 			"caption": "Chủ tịch Hồ Chí Minh thăm lớp bình dân học vụ dạy chữ cho cả những cụ già"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "quân Pháp nổ súng tại Sài Gòn, bắt đầu cuộc chiến tranh xâm lược Việt Nam lần 2",
@@ -1677,7 +1816,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:CaptureOfLang-Son.jpg",
 			"caption": "Quân Pháp tấn công quân Thanh ở Lạng Sơn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Trần Văn Giàu kêu gọi Nam Bộ kháng chiến",
@@ -1689,7 +1829,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Kienthuc-linh-nhat-06_upmw.jpg",
 			"caption": "Lính Nhật dán bản Thông cáo số 1 về việc duy trì pháp luật và trật tự ở Đông Dương vào tháng 9/1945"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Tổng tuyển cử bầu Quốc hội đầu tiên",
@@ -1701,7 +1842,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1st_National_Assembly_of_Vietnam_-_1st_session.svg",
 			"caption": "Cơ cấu thành phần Quốc hội Việt Nam khóa I tại kỳ họp 1. Đại biểu được bầu (333): Việt Minh (120); Dân chủ (46); Xã hội (24); Không đảng phái (143). Đại biểu truy nhận (70): Việt Cách (20); Việt Quốc (50)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Pháp lập nên Cộng hòa Tự trị Nam Kỳ thuộc Liên hiệp Pháp, thủ đô Sài Gòn",
@@ -1713,7 +1855,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
 			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Tạm ước Việt - Pháp",
@@ -1725,7 +1868,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Vietnam_France_modus_vivendi.JPG",
 			"caption": "Hồ Chí Minh và Marius Moutet bắt tay sau khi ký Tạm ước Việt – Pháp"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hồ Chí Minh kêu gọi Toàn quốc kháng chiến",
@@ -1737,7 +1881,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ho_Chi_Minh_(third_from_left_standing)_and_the_OSS_in_1945.jpg",
 			"caption": "Hồ Chí Minh (hàng đứng, thứ ba từ trái sang), Võ Nguyên Giáp (hàng đứng, thứ năm từ trái sang) và OSS năm 1945."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến dịch Việt Bắc Thu - Đông 1947",
@@ -1749,7 +1894,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Pháp lập nên Quốc gia Việt Nam, quốc trưởng Bảo Đại, thủ đô Sài Gòn",
@@ -1761,7 +1907,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Thanh_pho_Ho_Chi_Minh_in_Vietnam.svg",
 			"caption": "Vị trí Thành phố Hồ Chí Minh trên bản đồ Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Mỹ bắt đầu can thiệp quân sự vào Việt Nam",
@@ -1773,7 +1920,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
 			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến dịch Biên giới",
@@ -1785,7 +1933,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:PKA.jpg",
 			"caption": "Hình ảnh du kích quân trong tranh Nhớ một chiều Tây Bắc của Phan Kế An"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến dịch Điện Biên Phủ",
@@ -1797,7 +1946,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Dien_bien_phu_castor_or_siege_deinterlaced.png",
 			"caption": "Quân đội viễn chinh Pháp nhảy dù xuống Điện Biên Phủ."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hiệp định Genève, Pháp rút quân khỏi Việt Nam và đất nước bị chia cắt",
@@ -1809,7 +1959,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Victory_in_Battle_of_Dien_Bien_Phu.jpg",
 			"caption": "Quân đội Nhân dân Việt Nam phất cờ Quyết chiến Quyết thắng trên nóc hầm chỉ huy của Pháp tại Điện Biên Phủ."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Giải phóng Thủ đô",
@@ -1821,7 +1972,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:French_Troops_in_Vietnam.jpg",
 			"caption": "Lực lượng Pháp vượt cầu Long Biên qua ngả Bắc Ninh đi Hải Phòng."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Ngô Đình Diệm phế truất Bảo Đại, lên làm Tổng thống, lập nên Việt Nam Cộng hòa",
@@ -1833,7 +1985,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Major-general-lansdale.jpg",
 			"caption": "Tướng Edward Lansdale, Chỉ huy cố vấn Mỹ ở Việt Nam."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Phong trào Đồng khởi",
@@ -1845,7 +1998,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nha_truyen_thong_Dong_Khoi.JPG",
 			"caption": "Nhà truyền thống phong trào Đồng Khởi ở huyện Mỏ Cày Nam, Bến Tre"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
@@ -1857,7 +2011,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Taquangbuukyhiepdinhgeneve.jpg",
 			"caption": "Tạ Quang Bửu, phía đoàn Việt Nam Dân chủ Cộng hòa, và tướng Pháp Henri Delteil, Quyền Tổng Tư lệnh Lực lượng Liên Hiệp Pháp ở Đông Dương, Phái đoàn Pháp đang ký Hiệp định đình chỉ chiến sự tại Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thành lập Quân Giải phóng miền Nam Việt Nam",
@@ -1869,7 +2024,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Viet_Cong_soldier_DD-ST-99-04298.jpg",
 			"caption": "Một chiến sĩ Quân Giải phóng miền Nam Việt Nam đang đứng dưới cờ của Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam, tay cầm khẩu AK47."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến dịch Chiến tranh đặc biệt",
@@ -1881,7 +2037,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "đảo chính lật đổ chính quyền Ngô Đình Diệm",
@@ -1893,7 +2050,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:5_v%E1%BB%8B_Th%C6%B0%E1%BB%A3ng_th%C6%B0_t%E1%BB%AB_tr%C3%A1i_qua_ph%E1%BA%A3i_H%E1%BB%93_%C4%90%E1%BA%AFc_Kh%E1%BA%A3i,_Ph%E1%BA%A1m_Qu%E1%BB%B3nh,_Th%C3%A1i_V%C4%83n_To%E1%BA%A3n,_Ng%C3%B4_%C4%90%C3%ACnh_Di%E1%BB%87m,_B%C3%B9i_B%E1%BA%B1ng_%C4%90o%C3%A0n.jpg",
 			"caption": "5 vị Thượng thư từ trái qua phải: Hồ Đắc Khải, Phạm Quỳnh, Thái Văn Toản, Ngô Đình Diệm, Bùi Bằng Đoàn"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Mỹ bắt đầu đưa quân vào tham chiến tại miền Nam Việt Nam",
@@ -1903,9 +2061,10 @@
 		"dynasty": "Việt Nam Dân chủ Cộng hòa",
 		"description": "Miền Nam Việt Nam là một khái niệm để chỉ vùng địa lý ở phía nam nước Việt Nam. Tuy nhiên, tùy theo từng thời điểm lịch sử và thói quen sử dụng mà khái niệm này đôi khi được dùng để chỉ các vùng lãnh thổ khác nhau theo nghĩa chính trị một cách không chính thức.",
 		"image": {
-			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Mayflower_in_Plymouth_Harbor,_by_William_Halsall.jpg",
-			"caption": "Chiếc thuyền Mayflower đưa người di cư đến Tân Thế giới năm 1620, được miêu tả trong tác phẩm của William Halsall năm 1882."
-		}
+			"imageUrl": "/wiki/T%E1%BA%ADp_tin:IndoChina1867,_Cochinchina.jpg",
+			"caption": "Lãnh thổ Đàng Trong và \"Hạ Đàng Trong\", năm 1867"
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến dịch Chiến tranh cục bộ",
@@ -1917,7 +2076,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:US_Army_UH-1Ds_near_Saigon_1965.jpg",
 			"caption": "Chiến thuật Trực thăng vận lần đầu tiên được Mỹ sử dụng trong chiến tranh"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến dịch Việt Nam hóa chiến tranh",
@@ -1929,7 +2089,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thành lập Cộng hòa Miền Nam Việt Nam, thủ đô Tây Ninh",
@@ -1941,7 +2102,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Tay_Ninh_in_Vietnam.svg",
 			"caption": "Vị trí tỉnh Tây Ninh trên bản đồ Việt Nam"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chủ tịch Hồ Chí Minh từ trần",
@@ -1953,7 +2115,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Ho_Chi_Minh_(third_from_left_standing)_and_the_OSS_in_1945.jpg",
 			"caption": "Hồ Chí Minh (hàng đứng, thứ ba từ trái sang), Võ Nguyên Giáp (hàng đứng, thứ năm từ trái sang) và OSS năm 1945."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến dịch Điện Biên Phủ trên không",
@@ -1965,7 +2128,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:North_Vietnamese_Air_Force_disposition_prior_to_Operation_Linebacker_II.png",
 			"caption": "Hệ thống radar cảnh giới quốc gia và sân bay ở miền Bắc Việt Nam năm 1972"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Hiệp định Paris, Mỹ rút quân khỏi Việt Nam",
@@ -1977,7 +2141,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
 			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Chiến dịch Hồ Chí Minh",
@@ -1989,7 +2154,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nha_Trang,_April_1975.jpg",
 			"caption": "Một người đàn ông Mỹ đấm vào mặt một người khác để giành chỗ trên trực thăng di tản khỏi Nha Trang."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chính phủ Việt Nam Cộng hòa đầu hàng vô điều kiện Cộng hòa Miền Nam Việt Nam",
@@ -2001,7 +2167,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Major-general-lansdale.jpg",
 			"caption": "Tướng Edward Lansdale, Chỉ huy cố vấn Mỹ ở Việt Nam."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "thống nhất đất nước, đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam",
@@ -2013,7 +2180,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:VietNam(1009-1945).gif",
 			"caption": "Thay đổi lãnh thổ từ triều Lý năm 1009 đến hết triều Nguyễn năm 1945 cùng cuộc Nam tiến (1069–1757)"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "gia nhập Liên Hợp Quốc",
@@ -2025,7 +2193,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Signing_Declaration_by_United_Nations.jpg",
 			"caption": "Ngày 1 tháng 1 năm 1942, đại biểu 26 nước Đồng Minh gặp nhau tại Washington ký Tuyên bố Liên Hợp Quốc cam kết ủng hộ Hiến chương Đại Tây Dương[8]"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến tranh biên giới Tây Nam",
@@ -2037,7 +2206,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Campuchia_88.jpg",
 			"caption": "Xe tăng T-54 của Việt Nam rút về nước năm 1988."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "chiến tranh biên giới phía Bắc",
@@ -2049,7 +2219,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Nam_quan.JPG",
 			"caption": "Nam Quan, hay Hữu Nghị Quan năm 2007, cửa ải nằm tại biên giới Việt Nam – Trung Quốc."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đổi Mới",
@@ -2061,7 +2232,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Khu_trung_t%C3%A2m_th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh,_nh%C3%ACn_t%E1%BB%AB_ph%C3%ADa_qu%E1%BA%ADn_2.JPG",
 			"caption": "Khu trung tâm thành phố Hồ Chí Minh ban đêm."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "bình thường hóa quan hệ với Trung Quốc",
@@ -2073,7 +2245,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:1979propaganda_against_China.jpg",
 			"caption": "Một áp phích của Việt Nam năm 1979 cho thấy quan hệ căng thẳng giữa hai nước vào thời điểm này."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "bình thường hóa quan hệ với Mỹ",
@@ -2085,7 +2258,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "gia nhập ASEAN",
@@ -2097,7 +2271,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:ASEAN_HQ_1.jpg",
 			"caption": "ASEAN tại đại lộ Jalan Sisingamangaraja No.70A, Nam Jakarta, Indonesia."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "gia nhập APEC",
@@ -2109,7 +2284,8 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:APEC_Leaders_Retreat.jpg",
 			"caption": "Họp lãnh đạo APEC"
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "gia nhập WTO",
@@ -2121,7 +2297,8 @@
 		"image": {
 			"imageUrl": null,
 			"caption": null
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	},
 	{
 		"event": "Đại dịch COVID-19",
@@ -2133,6 +2310,7 @@
 		"image": {
 			"imageUrl": "/wiki/T%E1%BA%ADp_tin:Mua_h%C3%A0ng_d%E1%BB%B1_tr%E1%BB%AF_d%E1%BB%8Bch_COVID-19.png",
 			"caption": "Mua hàng hóa dự trữ tại 1 siêu thị ở Việt Nam vì dịch COVID-19."
-		}
+		},
+		"source": "https://vi.wikipedia.org/wiki/Ni%C3%AAn_bi%E1%BB%83u_l%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
 	}
 ]
