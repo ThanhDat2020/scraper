@@ -9,8 +9,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 
-
-
 public abstract class FigureDataCollector {
 	//constructor
 	public FigureDataCollector() {}
@@ -24,7 +22,6 @@ public abstract class FigureDataCollector {
 			if (statusCode == 200) {
 				return true;
 			}
-			
 		}
 		
 		catch (Exception e) {
@@ -33,7 +30,7 @@ public abstract class FigureDataCollector {
 		return false;
 	}
 	
-	public Document getDoc(String url) throws IOException {	
+	protected Document getDoc(String url) throws IOException {	
 		Connection con = Jsoup.connect(url);
 		Document doc = con.get();
 		return doc;	
@@ -41,9 +38,9 @@ public abstract class FigureDataCollector {
 	
 
 	
-	public abstract  List<String> getAllUrls (String url) throws IOException;
-	public abstract void getData (List<String> allUrls) throws IOException;
-	public abstract void Start() throws IOException;
+	protected abstract  List<String> getAllUrls (String url) throws IOException;
+	protected abstract void getData (List<String> allUrls) throws IOException;
+	protected abstract void Start() throws IOException;
 
 
 	

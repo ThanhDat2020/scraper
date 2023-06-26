@@ -15,9 +15,10 @@ public class Figure {
         this.description = description;
         this.place = place;
         this.period = period;
-            this.otherName = otherName;
+          this.otherName = otherName;
 
    }
+
 
    public Figure() {
    }

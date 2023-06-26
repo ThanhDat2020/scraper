@@ -17,7 +17,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Đế Minh",
   "thanMau": "Con gái của bà Vụ Tiên",
-  "theThiep": "Thần Long (con gái Động Đình Quân)"
+  "theThiep": "Thần Long (con gái Động Đình Quân)",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lạc Long Quân 貉龍君",
@@ -37,7 +38,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Kinh Dương Vương",
   "thanMau": "Long Mẫu Thần Long",
-  "theThiep": "Âu Cơ"
+  "theThiep": "Âu Cơ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ph%C3%B9_%C4%91i%C3%AAu_Qu%E1%BB%91c_t%E1%BB%95_L%E1%BA%A1c_Long_Qu%C3%A2n_t%E1%BA%A1i_%C4%90%E1%BB%81n_N%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0.jpg/250px-Ph%C3%B9_%C4%91i%C3%AAu_Qu%E1%BB%91c_t%E1%BB%95_L%E1%BA%A1c_Long_Qu%C3%A2n_t%E1%BA%A1i_%C4%90%E1%BB%81n_N%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0.jpg"
 },
 {
   "name": "Hùng vương thứ I Hùng Đức Vương",
@@ -57,18 +59,24 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lạc Long Quân",
   "thanMau": "Âu Cơ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
-{},
+{
+  "pictureLink": "Không có ảnh"
+},
 {
   "name": "Hùng vương 雄王",
   "country": "Hùng Vương",
@@ -87,7 +95,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Vương thứ V",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_of_Hung_King.JPG/272px-Mausoleum_of_Hung_King.JPG"
 },
 {
   "name": "Hùng vương 雄王",
@@ -107,31 +116,40 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Vương thứ VI",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "description": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên.",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Hùng vương 雄王",
@@ -151,7 +169,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Vương thứ XV",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Hùng vương 雄王",
@@ -171,7 +190,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Vương thứ XV",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Hùng Vương 雄王",
@@ -191,9 +211,12 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Vương thứ XVII",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
-{},
+{
+  "pictureLink": "Không có ảnh"
+},
 {
   "name": "An Dương vương 安陽王",
   "country": "Quốc vương nước Âu Lạc",
@@ -212,7 +235,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Thục Chế",
   "thanMau": "?",
-  "theThiep": "Thục Nương"
+  "theThiep": "Thục Nương",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/B%E1%BA%A3o_t%C3%A0ng_M%E1%BB%B9_thu%E1%BA%ADt_Tp_%28V%C6%B0%E1%BB%9Dn_t%C6%B0%E1%BB%A3ng%2C_t%C6%B0%E1%BB%A3ng_An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng%29_%289%29.jpg/300px-B%E1%BA%A3o_t%C3%A0ng_M%E1%BB%B9_thu%E1%BA%ADt_Tp_%28V%C6%B0%E1%BB%9Dn_t%C6%B0%E1%BB%A3ng%2C_t%C6%B0%E1%BB%A3ng_An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng%29_%289%29.jpg"
 },
 {
   "name": "Triệu Vũ Đế 趙武帝",
@@ -232,7 +256,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nhâm Ngao",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Longchuan_Tuocheng_Nanyuewang_Miao_2015.11.12_09-10-58.jpg/400px-Longchuan_Tuocheng_Nanyuewang_Miao_2015.11.12_09-10-58.jpg"
 },
 {
   "name": "Triệu Văn Đế 趙文帝",
@@ -252,7 +277,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trọng Thủy",
   "thanMau": "Mỵ Châu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Remains_of_King_Zhao_Mo.jpg/250px-Remains_of_King_Zhao_Mo.jpg"
 },
 {
   "name": "Triệu Minh Vương 趙明王",
@@ -272,7 +298,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Triệu Văn Đế",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Triệu Ai Vương 趙哀王",
@@ -292,7 +319,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Triệu Minh Vương",
   "thanMau": "Cù hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Triệu Dương Vương 趙陽王",
@@ -312,7 +340,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Triệu Minh Vương",
   "thanMau": "người Việt (không rõ tên)",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Trưng Nữ vương 徵女王",
@@ -332,7 +361,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hùng Định (sau đổi thành Trưng Định)",
   "thanMau": "Man Thiện",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg/272px-Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg"
 },
 {
   "name": "Lý Nam Đế 李南帝",
@@ -352,7 +382,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Cạnh hay Lý Toản",
   "thanMau": "Lê Thị Oánh",
-  "theThiep": "Hoàng hậu Đỗ Thị Khương"
+  "theThiep": "Hoàng hậu Đỗ Thị Khương",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Emperor_Ly_Nam_De.jpg/250px-Emperor_Ly_Nam_De.jpg"
 },
 {
   "name": "Triệu Việt Vương 趙越王",
@@ -372,7 +403,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Triệu Túc (趙肅)",
   "thanMau": "Nguyễn Thị Hựu (阮氏佑)",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/st71t85s8da3inzwwcptddmr6gs2vtz.png"
 },
 {
   "name": "Đào Lang Vương 桃郎王",
@@ -392,7 +424,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Toản",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Hậu Lý Nam Đế 後李南帝",
@@ -412,7 +445,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/digmn5n1ocr8fwwi3kfjodlteik4kfl.png"
 },
 {
   "name": "Lý Sư Lợi",
@@ -432,7 +466,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Phật Tử (Hậu Lý Nam Đế)",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Mai Hắc Đế 梅黑帝",
@@ -452,7 +487,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mai Hoàn",
   "thanMau": "Mai An Hoà",
-  "theThiep": "Đinh Ngọc Tô Phạm Thị Uyển"
+  "theThiep": "Đinh Ngọc Tô Phạm Thị Uyển",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mai_Hac_De_temple_gate_in_2014.jpg/272px-Mai_Hac_De_temple_gate_in_2014.jpg"
 },
 {
   "name": "Mai Thiếu Đế 梅少帝",
@@ -472,7 +508,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mai Hắc Đế",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Bạch Đầu đế 白頭帝",
@@ -492,7 +529,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mai Hắc Đế",
   "thanMau": "Đinh Ngọc Tô",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Bố Cái Đại Vương 布盖大王",
@@ -512,7 +550,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Phùng Hạp Khanh",
   "thanMau": "Sử Thục Nương",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TuongPhungHung.jpg/250px-TuongPhungHung.jpg"
 },
 {
   "name": "Phùng An 馮安",
@@ -532,7 +571,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Phùng Hưng",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Khúc Tiên Chủ",
@@ -552,7 +592,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Khúc Trung Chủ 曲中主",
@@ -572,7 +613,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Khúc Tiên Chủ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Khúc Hậu Chủ 曲後主",
@@ -592,7 +634,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Khúc Trung Chủ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Dương Đình Nghệ",
@@ -612,7 +655,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Kiều Công Tiễn",
@@ -632,7 +676,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Ngô Quyền (Tiền Ngô Vương) 前吳王",
@@ -652,7 +697,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Ngô Mân",
   "thanMau": "Phùng Thị Tinh Phong",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg/272px-T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg"
 },
 {
   "name": "Dương Bình Vương 楊平王",
@@ -672,7 +718,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Dương Đình Nghệ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Thiên Sách Vương 天策王",
@@ -692,7 +739,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Ngô Quyền",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Nam Tấn vương 南晉王",
@@ -712,12 +760,13 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Ngô Quyền",
   "thanMau": "Dương hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
-  "name": "Ngô Sứ quân 吳使君",
-  "country": "Vua nhà Ngô (hậu kỳ)",
-  "description": "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi là Ngô Sứ quân (吳使君), được chính sử ghi nhận là một trong những thủ lĩnh thời 12 sứ quân thế kỷ X. Nhiều tài liệu cho biết ông là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950.",
+  "name": "Ngô Xương Xí 吳昌熾",
+  "country": "Ngô sứ quân - 吳使君",
+  "description": "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi là Ngô sứ quân (吳使君), được chính sử ghi nhận là một trong những thủ lĩnh thời 12 sứ quân thế kỷ X. Nhiều tài liệu cho biết ông là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950.",
   "triVi": "965 - 968",
   "sinh": "Không rõ",
   "mat": "Không rõ",
@@ -732,7 +781,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Thiên Sách Vương",
   "thanMau": "Phạm Thị Uy Duyên",
-  "theThiep": "Lý Thị Khoan Dung"
+  "theThiep": "Lý Thị Khoan Dung",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Đinh Tiên Hoàng 丁先皇",
@@ -752,7 +802,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Đinh Công Trứ",
   "thanMau": "Đàm Thiềm Nương",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/VuaDinhTienHoang.jpg/200px-VuaDinhTienHoang.jpg"
 },
 {
   "name": "Đinh Thiếu Đế 丁少帝",
@@ -772,7 +823,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Đinh Tiên Hoàng",
   "thanMau": "Dương Vân Nga",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dinhtoan.jpg/250px-Dinhtoan.jpg"
 },
 {
   "name": "Lê Đại Hành 黎大行",
@@ -792,7 +844,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Mịch[1]",
   "thanMau": "Đặng Thị Sen[1]",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Le_Dai_Hanh.jpg/250px-Le_Dai_Hanh.jpg"
 },
 {
   "name": "Tiền Lê Trung Tông 前黎中宗",
@@ -812,7 +865,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Đại Hành",
   "thanMau": "Chi hậu Diệu nữ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/pwsn2mfntwp1c5415xg59vroef5zz5j.png"
 },
 {
   "name": "Lê Ngọa Triều 黎臥朝帝",
@@ -832,7 +886,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Đại Hành",
   "thanMau": "Quảng Thánh Hoàng thái hậu",
-  "theThiep": "Cảm Thánh Hoàng hậu và một số người vợ khác"
+  "theThiep": "Cảm Thánh Hoàng hậu và một số người vợ khác",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lelongdinh.jpg/250px-Lelongdinh.jpg"
 },
 {
   "name": "Lý Thái Tổ 李太祖",
@@ -852,7 +907,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hiển Khánh vương",
   "thanMau": "Phạm Thị Ngà",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg/250px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg"
 },
 {
   "name": "Lý Thái Tông 李太宗",
@@ -872,7 +928,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Thái Tổ",
   "thanMau": "Linh Hiển Hoàng thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/L%C3%BDTh%C3%A1iT%C3%B4ng.jpg/250px-L%C3%BDTh%C3%A1iT%C3%B4ng.jpg"
 },
 {
   "name": "Lý Thánh Tông 李聖宗",
@@ -892,7 +949,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Thái Tông",
   "thanMau": "Kim Thiên hoàng hậu",
-  "theThiep": "Thượng Dương Hoàng hậu Nguyên phi Ỷ Lan"
+  "theThiep": "Thượng Dương Hoàng hậu Nguyên phi Ỷ Lan",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG/250px-L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG"
 },
 {
   "name": "Lý Nhân Tông 李仁宗",
@@ -912,7 +970,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Thánh Tông",
   "thanMau": "Linh Nhân Hoàng thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG/250px-L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG"
 },
 {
   "name": "Lý Thần Tông 李神宗",
@@ -932,7 +991,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Sùng Hiền hầu",
   "thanMau": "Đỗ Phu nhân",
-  "theThiep": "xem văn bản"
+  "theThiep": "xem văn bản",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toda_No._5_%E9%A0%86%E5%A4%A9%E5%A4%A7%E5%AF%B6.gif/200px-Toda_No._5_%E9%A0%86%E5%A4%A9%E5%A4%A7%E5%AF%B6.gif"
 },
 {
   "name": "Lý Anh Tông 李英宗",
@@ -952,7 +1012,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Thần Tông",
   "thanMau": "Linh Chiếu Thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%C4%90%E1%BA%A1i_%C4%90%E1%BB%8Bnh_Th%C3%B4ng_B%E1%BA%A3o_%E5%A4%A7%E5%AE%9A%E9%80%9A%E5%AF%B6%2C_Coins_of_L%C3%BD_dynasty%281009-1225%29_at_room_4_Ly_Dynasty_%2811th_-_13th_c.%29_of_the_Museum_of_Vietnamese_History.jpg/272px-%C4%90%E1%BA%A1i_%C4%90%E1%BB%8Bnh_Th%C3%B4ng_B%E1%BA%A3o_%E5%A4%A7%E5%AE%9A%E9%80%9A%E5%AF%B6%2C_Coins_of_L%C3%BD_dynasty%281009-1225%29_at_room_4_Ly_Dynasty_%2811th_-_13th_c.%29_of_the_Museum_of_Vietnamese_History.jpg"
 },
 {
   "name": "Lý Cao Tông 李高宗",
@@ -972,7 +1033,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Anh Tông",
   "thanMau": "Linh Đạo hoàng hậu",
-  "theThiep": "An Toàn Hoàng hậu Vương Trung Phi Sở Hoàng Phi Triệu Lan Phi"
+  "theThiep": "An Toàn Hoàng hậu Vương Trung Phi Sở Hoàng Phi Triệu Lan Phi",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tr%E1%BB%8B_B%C3%ACnh_Nguy%C3%AAn_B%C3%A1o_%E6%B2%BB%E5%B9%B3%E5%85%83%E5%AF%B6%2C_%28Coins_of_L%C3%BD_dynasty%281009-1225%29_at_room_4_Ly_Dynasty_%2811th_-_13th_c.%29_of_the_Museum_of_Vietnamese_History3.jpg/220px-Tr%E1%BB%8B_B%C3%ACnh_Nguy%C3%AAn_B%C3%A1o_%E6%B2%BB%E5%B9%B3%E5%85%83%E5%AF%B6%2C_%28Coins_of_L%C3%BD_dynasty%281009-1225%29_at_room_4_Ly_Dynasty_%2811th_-_13th_c.%29_of_the_Museum_of_Vietnamese_History3.jpg"
 },
 {
   "name": "Lý Thầm",
@@ -992,7 +1054,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Cao Tông",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lý Huệ Tông 李惠宗",
@@ -1012,7 +1075,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Cao Tông",
   "thanMau": "An Toàn hoàng hậu (họ Đàm)",
-  "theThiep": "Linh Từ Quốc mẫu"
+  "theThiep": "Linh Từ Quốc mẫu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toda_No._5_%E9%A0%86%E5%A4%A9%E5%A4%A7%E5%AF%B6.gif/220px-Toda_No._5_%E9%A0%86%E5%A4%A9%E5%A4%A7%E5%AF%B6.gif"
 },
 {
   "name": "Lý Nguyên Hoàng",
@@ -1032,7 +1096,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Anh Tông",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lý Chiêu Hoàng 李昭皇",
@@ -1052,7 +1117,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lý Huệ Tông",
   "thanMau": "Linh Từ Quốc mẫu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/66fo4tiwy8kmmi24qf88kjjm4eb9zqc.png"
 },
 {
   "name": "Trần Thái Tông 陳太宗",
@@ -1072,7 +1138,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Thừa",
   "thanMau": "Lê Thị Thái",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg/220px-L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg"
 },
 {
   "name": "Trần Thánh Tông 陳聖宗",
@@ -1092,7 +1159,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Thái Tông",
   "thanMau": "Hiển Từ Thuận Thiên Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg/272px-Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg"
 },
 {
   "name": "Trần Nhân Tông 陳仁宗",
@@ -1112,7 +1180,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Thánh Tông",
   "thanMau": "Nguyên Thánh Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png/272px-Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png"
 },
 {
   "name": "Trần Anh Tông 陳英宗",
@@ -1132,7 +1201,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Nhân Tông",
   "thanMau": "Bảo Thánh Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg/220px-Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg"
 },
 {
   "name": "Trần Minh Tông 陳明宗",
@@ -1152,7 +1222,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Anh Tông",
   "thanMau": "Chiêu Từ Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/md7ht6mwyeu2w721g8l0m66mcd3205f.png"
 },
 {
   "name": "Trần Hiến Tông 陳憲宗",
@@ -1172,7 +1243,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Minh Tông",
   "thanMau": "Minh Từ Hoàng thái phi",
-  "theThiep": "Hiển Trinh Công chúa"
+  "theThiep": "Hiển Trinh Công chúa",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png/272px-T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png"
 },
 {
   "name": "Trần Dụ Tông 陳裕宗",
@@ -1192,7 +1264,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Minh Tông",
   "thanMau": "Hiến Từ Hoàng hậu",
-  "theThiep": "Huy Từ Tá Thánh Hoàng hậu"
+  "theThiep": "Huy Từ Tá Thánh Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg/200px-Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg"
 },
 {
   "name": "Dương Nhật Lễ 昏德公",
@@ -1212,7 +1285,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Nguyên Dục",
   "thanMau": "Vương mẫu",
-  "theThiep": "Trần thị"
+  "theThiep": "Trần thị",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/qan9308pzkysxt76mata0q8zy770cww.png"
 },
 {
   "name": "Trần Nghệ Tông 陳藝宗",
@@ -1232,7 +1306,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Minh Tông",
   "thanMau": "Minh Từ Quý phi",
-  "theThiep": "Thục Từ Hoàng hậu"
+  "theThiep": "Thục Từ Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png/272px-Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png"
 },
 {
   "name": "Trần Duệ Tông 陳睿宗",
@@ -1252,7 +1327,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Minh Tông",
   "thanMau": "Đôn Từ Hoàng thái phi",
-  "theThiep": "Gia Từ Hoàng hậu Chế Thắng Phu Nhân"
+  "theThiep": "Gia Từ Hoàng hậu Chế Thắng Phu Nhân",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg/272px-Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg"
 },
 {
   "name": "Trần Phế Đế 陳廢帝",
@@ -1272,7 +1348,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Duệ Tông",
   "thanMau": "Gia Từ Hoàng hậu",
-  "theThiep": "Quang Loan Hoàng hậu"
+  "theThiep": "Quang Loan Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/2dkr02rlbczyxxfo2hh434fqshephei.png"
 },
 {
   "name": "Trần Thuận Tông 陳順宗",
@@ -1292,7 +1369,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Nghệ Tông",
   "thanMau": "Không rõ",
-  "theThiep": "Khâm Thánh Hoàng hậu"
+  "theThiep": "Khâm Thánh Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/ssrb4q4ct93v0x3ody60i9c8d12d2m8.png"
 },
 {
   "name": "Trần Thiếu Đế 陳少帝",
@@ -1312,7 +1390,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Thuận Tông",
   "thanMau": "Khâm Thánh Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/cd3e8r3sebpzdxel2qarf9xvoijdz4v.png"
 },
 {
   "name": "Hồ Chương Hoàng 胡 章 皇",
@@ -1332,7 +1411,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Quốc Mạo",
   "thanMau": "Phạm Phu nhân",
-  "theThiep": "Thái Từ Hoàng hậu Mẫn Dương quý phi"
+  "theThiep": "Thái Từ Hoàng hậu Mẫn Dương quý phi",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/gpueeo6ect6y1qf3t4izyyifwlh2raj.png"
 },
 {
   "name": "Hồ Hán Thương 胡漢蒼",
@@ -1352,10 +1432,12 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hồ Quý Ly",
   "thanMau": "Thái Từ hoàng hậu",
-  "theThiep": "Hiến Gia Hoàng hậu"
+  "theThiep": "Hiến Gia Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/An47_rebelle_Ho_Han_Thuong_%2815216463182%29.jpg/272px-An47_rebelle_Ho_Han_Thuong_%2815216463182%29.jpg"
 },
 {
-  "description": "Trần Nguyệt Hồ (chữ Hán: 陳月湖[1]) là người đứng thứ 4 trong các cuộc khởi nghĩa nông dân đã khởi nghĩa chống quân Minh."
+  "description": "Trần Nguyệt Hồ (chữ Hán: 陳月湖[1]) là người đứng thứ 4 trong các cuộc khởi nghĩa nông dân đã khởi nghĩa chống quân Minh.",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Giản Định Đế 簡定帝",
@@ -1375,7 +1457,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trần Nghệ Tông",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Trùng Quang Đế 重光帝",
@@ -1395,7 +1478,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trang Định vương Trần Ngạc",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Trần Cảo 陳暠",
@@ -1415,7 +1499,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lê Thái Tổ 黎太祖",
@@ -1435,7 +1520,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Khoáng",
   "thanMau": "Trịnh Ngọc Thương",
-  "theThiep": "Cung Từ Cao Hoàng hậu"
+  "theThiep": "Cung Từ Cao Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_L%C3%AA_Th%C3%A1i_T%E1%BB%95_HN.JPG/250px-T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_L%C3%AA_Th%C3%A1i_T%E1%BB%95_HN.JPG"
 },
 {
   "name": "Lê Thái Tông 黎太宗",
@@ -1455,7 +1541,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thái Tổ",
   "thanMau": "Phạm Thị Ngọc Trần",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/An9_Le_Thai_Tong_Thieu_Binh_1ar_%2812027836095%29.jpg/272px-An9_Le_Thai_Tong_Thieu_Binh_1ar_%2812027836095%29.jpg"
 },
 {
   "name": "Lê Nhân Tông 黎仁宗",
@@ -1475,7 +1562,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thái Tông",
   "thanMau": "Tuyên Từ Hoàng thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/An9_Le_Nhan_Tong_Dien_Ninh_1ar_%2812030823993%29.jpg/272px-An9_Le_Nhan_Tong_Dien_Ninh_1ar_%2812030823993%29.jpg"
 },
 {
   "name": "Thiên Hưng Đế 天興帝",
@@ -1495,7 +1583,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thái Tông",
   "thanMau": "Dương phi",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/ccadkw0zjfhhmywscqwul2hr99b1cj0.png"
 },
 {
   "name": "Lê Thánh Tông 黎聖宗",
@@ -1515,7 +1604,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thái Tông",
   "thanMau": "Ngô Thị Ngọc Dao",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg/250px-L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg"
 },
 {
   "name": "Lê Hiến Tông 黎憲宗",
@@ -1535,7 +1625,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thánh Tông",
   "thanMau": "Huy Gia Thuần Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/p558kj4jp3orowmxwx0ayp0obpo9tdj.png"
 },
 {
   "name": "Lê Túc Tông 黎肅宗",
@@ -1555,7 +1646,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Hiến Tông",
   "thanMau": "Trang Thuận Duệ Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/i6m6fycevj7zsir7xzd5z1cyn2a163s.png"
 },
 {
   "name": "Lê Uy Mục Đế 黎威穆帝",
@@ -1575,7 +1667,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Hiến Tông",
   "thanMau": "Chiêu Nhân Duệ Hoàng hậu",
-  "theThiep": "Trần Hoàng hậu"
+  "theThiep": "Trần Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%C4%90oan_kh%C3%A1nh_th%C3%B4ng_b%E1%BA%A3o.jpg/250px-%C4%90oan_kh%C3%A1nh_th%C3%B4ng_b%E1%BA%A3o.jpg"
 },
 {
   "name": "Lê Tương Dực 黎襄翼帝",
@@ -1595,7 +1688,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Tân",
   "thanMau": "Trịnh Thị Tuyên",
-  "theThiep": "Khâm Đức Hoàng hậu"
+  "theThiep": "Khâm Đức Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/as6clfvgjx5xj0x6tgnp4cwjmbg9s85.png"
 },
 {
   "name": "Lê Quang Trị 黎光治",
@@ -1615,7 +1709,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mục Ý vương Lê Doanh",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lê Chiêu Tông 黎昭宗",
@@ -1635,7 +1730,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Minh Tông Lê Sùng",
   "thanMau": "Trịnh Thị Loan",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/An53_Chieu_Tong_Quang_Thieu_%2815979672256%29.jpg/225px-An53_Chieu_Tong_Quang_Thieu_%2815979672256%29.jpg"
 },
 {
   "name": "Lê Bảng",
@@ -1655,7 +1751,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Tĩnh Tu công Lê Lộc",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lê Do",
@@ -1675,7 +1772,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Tĩnh Tu công Lê Lộc?",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lê Cung Hoàng 黎恭皇",
@@ -1695,7 +1793,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Minh Tông",
   "thanMau": "Trịnh Thị Loan",
-  "theThiep": "Quý Phi Nguyễn Thị (贵妃阮氏),con gái Thông quốc công Nguyễn Thì Ung"
+  "theThiep": "Quý Phi Nguyễn Thị (贵妃阮氏),con gái Thông quốc công Nguyễn Thì Ung",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toda_No._63_%E7%B5%B1%E5%85%83%E9%80%9A%E5%AF%B6.gif/272px-Toda_No._63_%E7%B5%B1%E5%85%83%E9%80%9A%E5%AF%B6.gif"
 },
 {
   "name": "Mạc Thái Tổ 莫太祖",
@@ -1715,7 +1814,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Hịch",
   "thanMau": "Đặng Thị Hiếu",
-  "theThiep": "Vũ Thị Ngọc Toàn[1] Nguyễn Thị Ngọc Tuyền[2]"
+  "theThiep": "Vũ Thị Ngọc Toàn[1] Nguyễn Thị Ngọc Tuyền[2]",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_Nan_Lai_Wei_Tu_Ce.JPG/222px-An_Nan_Lai_Wei_Tu_Ce.JPG"
 },
 {
   "name": "Mạc Thái Tông 莫太宗",
@@ -1735,7 +1835,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Thái Tổ",
   "thanMau": "Nguyễn Thị Ngọc Tuyền",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Statue_of_Emperor_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng.jpg/222px-Statue_of_Emperor_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng.jpg"
 },
 {
   "name": "Mạc Hiến Tông 莫憲宗",
@@ -1755,7 +1856,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Thái Tông",
   "thanMau": "Phạm Thị",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%E8%8E%AB%E5%A4%AA%E7%A5%96%C2%B7%E5%AE%89%E5%8D%97%E4%BE%86%E5%A8%81%E5%9C%96%E5%86%8A.jpeg/272px-%E8%8E%AB%E5%A4%AA%E7%A5%96%C2%B7%E5%AE%89%E5%8D%97%E4%BE%86%E5%A8%81%E5%9C%96%E5%86%8A.jpeg"
 },
 {
   "name": "Mạc Hoằng Vương",
@@ -1775,7 +1877,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Thái Tổ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Mạc Tuyên Tông 莫宣宗",
@@ -1795,7 +1898,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Hiến Tông",
   "thanMau": "Vũ Thị",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Statue_of_Emperor_M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng.jpg/222px-Statue_of_Emperor_M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng.jpg"
 },
 {
   "name": "Mạc Mục Tông 莫穆宗",
@@ -1815,7 +1919,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Tuyên Tông",
   "thanMau": "Bùi Thị",
-  "theThiep": "Mục Tông Hoàng Hậu Nguyễn Thị con gái Nguyễn Quyện Cung phi Vũ Thị Hoành"
+  "theThiep": "Mục Tông Hoàng Hậu Nguyễn Thị con gái Nguyễn Quyện Cung phi Vũ Thị Hoành",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Statue_of_Emperor_M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p.jpg/222px-Statue_of_Emperor_M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p.jpg"
 },
 {
   "name": "Mạc Cảnh Tông 莫景宗",
@@ -1835,7 +1940,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Mậu Hợp",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/lroirx0stvq139u9ybq13d7dj81udqh.png"
 },
 {
   "name": "Mạc Mẫn Tông 莫闵宗",
@@ -1855,7 +1961,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Kính Điển",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/lroirx0stvq139u9ybq13d7dj81udqh.png"
 },
 {
   "name": "Mạc Đại Tông 莫代宗",
@@ -1875,7 +1982,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Kính Điển",
   "thanMau": "Không rõ",
-  "theThiep": "Nguyễn Thị Duệ"
+  "theThiep": "Nguyễn Thị Duệ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/ryep0oape0hgobs3uo6pc5k75bpn40p.png"
 },
 {
   "name": "Mạc Kính Khoan 莫敬寬",
@@ -1895,7 +2003,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/8dr1un4dqu2y4ongfuxuuoutntj4xv9.png"
 },
 {
   "name": "Mạc Minh Tông 莫敬宇",
@@ -1915,7 +2024,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Kính Khoan",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/cm80bhrdv5o3e5qtv7cv3nzsux9ulbu.png"
 },
 {
   "name": "Mạc Quý Tông 莫敬喜",
@@ -1935,7 +2045,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Mạc Kính Vũ",
   "thanMau": "không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Mạc Kính Quang 莫敬光",
@@ -1955,7 +2066,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Lê Trang Tông 黎莊宗",
@@ -1975,7 +2087,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Chiêu Tông",
   "thanMau": "Phạm Thị Ngọc Quỳnh",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toda_No._65_%E5%85%83%E5%92%8C%E9%80%9A%E5%AF%B6.gif/272px-Toda_No._65_%E5%85%83%E5%92%8C%E9%80%9A%E5%AF%B6.gif"
 },
 {
   "name": "Lê Trung Tông 黎中宗",
@@ -1995,7 +2108,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Trang Tông",
   "thanMau": "Trinh Thục Dụ Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/1sy2r4cl817qefpvyd9mfd1yz279ljk.png"
 },
 {
   "name": "Lê Anh Tông 黎英宗",
@@ -2015,15 +2129,16 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Duy Khoáng",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/hnwaq2x9v175ealwthbv78v9di23yrn.png"
 },
 {
   "name": "Lê Thế Tông 黎世宗",
   "country": "Hoàng đế Đại Việt",
-  "description": "Lê Thế Tông (chữ Hán: 黎世宗 1567 - 12 tháng 10 năm 1599), tên húy là Lê Duy Đàm (黎維潭), là vị hoàng đế thứ tư của Hoàng triều Lê - giai đoạn Trung hưng và thứ 15 của triều Hậu Lê nước Đại Việt, ở ngôi từ năm 1573 đến năm 1599.",
+  "description": "Lê Thế Tông (chữ Hán: 黎世宗 1567 - 12 tháng 10 năm 1599), tên húy là Lê Duy Đàm (黎維潭), là vị hoàng đế thứ tư của Hoàng triều Lê - giai đoạn Trung hưng và thứ 15 của triều Hậu Lê nước Đại Việt, ở ngôi từ năm 1573 đến năm 1599. Ông là hoàng đế nhà Lê đầu tiên trở lại nhập chủ Thăng Long sau 66 năm nhà Lê Sơ bị họ Mạc cướp ngôi (1527-1593) và hoàn thành công cuộc trung hưng vương triều.",
   "triVi": "22 tháng 1 năm 1573 - 12 tháng 10 năm 1599 26 năm, 263 ngày",
-  "sinh": "1567",
-  "mat": "12 tháng 10, 1599 Hoa Nhạc lăng (華岳陵)",
+  "sinh": "1567 Hành cung Vạn Lại",
+  "mat": "12 tháng 10, 1599 Thăng Long",
   "huy": "Không rõ",
   "nienHieu": "Gia Thái (嘉泰 1573 - 1577) Quang Hưng (光興 1578 - 1599)",
   "thuyHieu": "Không rõ",
@@ -2035,7 +2150,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Anh Tông",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/3oc3pvh8p7r7xry4dopeff3khfn9g9f.png"
 },
 {
   "name": "Lê Kính Tông 黎敬宗",
@@ -2055,7 +2171,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thế Tông",
   "thanMau": "Ý Đức Hoàng thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/gwzcdx7ggvp08npyndlnc2ex8aml0s2.png"
 },
 {
   "name": "Lê Thần Tông 黎神宗",
@@ -2075,7 +2192,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Kính Tông",
   "thanMau": "Trịnh Thị Ngọc Trinh",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/eby4ajqj3xfcl0ub49upbscqjh04k66.png"
 },
 {
   "name": "Lê Chân Tông 黎真宗",
@@ -2095,7 +2213,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thần Tông",
   "thanMau": "Nguyễn Thị Ngọc Bạch",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/4qp87mkvd501i16ox48jll09opf2s8i.png"
 },
 {
   "name": "Lê Thần Tông 黎神宗",
@@ -2115,7 +2234,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Kính Tông",
   "thanMau": "Trịnh Thị Ngọc Trinh",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/eby4ajqj3xfcl0ub49upbscqjh04k66.png"
 },
 {
   "name": "Lê Huyền Tông 黎玄宗",
@@ -2135,7 +2255,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thần Tông",
   "thanMau": "Phạm Thị Ngọc Hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/fudwof8e3zksfiicn0tsumqhkbyhizl.png"
 },
 {
   "name": "Lê Gia Tông 黎嘉宗",
@@ -2155,7 +2276,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thần Tông",
   "thanMau": "Lê Thị Ngọc Hoàn",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/6kfbmp6mnklyl0d459h7ydti9xzd2sb.png"
 },
 {
   "name": "Lê Hy Tông 黎熙宗",
@@ -2175,7 +2297,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thần Tông",
   "thanMau": "Nguyễn Thị Ngọc Trúc hay Nguyễn Thị Ngọc Tấn",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MS_828_10.jpg/245px-MS_828_10.jpg"
 },
 {
   "name": "Lê Dụ Tông 黎裕宗",
@@ -2195,7 +2318,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Hy Tông",
   "thanMau": "không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/L%C3%AADuT%C3%B4ng.jpg/250px-L%C3%AADuT%C3%B4ng.jpg"
 },
 {
   "name": "Lê Duy Phường 黎維祊",
@@ -2215,7 +2339,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Dụ Tông",
   "thanMau": "Hoàng hậu Trịnh Thị Ngọc Trang",
-  "theThiep": "Hoàng hậu Trịnh Thị Ngọc Nhu"
+  "theThiep": "Hoàng hậu Trịnh Thị Ngọc Nhu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/su54126pjcubp9i3rtlhf9lajywd9zw.png"
 },
 {
   "name": "Lê Thuần Tông 黎純宗",
@@ -2235,7 +2360,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Dụ Tông",
   "thanMau": "Cung Phi Trần Thị",
-  "theThiep": "Nhu Thuận Hoàng hậu"
+  "theThiep": "Nhu Thuận Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/3hb3ans77x1nhw2iq45j6c0n60wevvp.png"
 },
 {
   "name": "Lê Ý Tông 黎懿宗",
@@ -2255,7 +2381,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Dụ Tông",
   "thanMau": "Cung Phi Nguyễn Thị",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/lcdxne22ntrm3f155upkedh0b5k05d0.png"
 },
 {
   "name": "Lê Hiển Tông 黎顯宗",
@@ -2275,7 +2402,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Thuần Tông",
   "thanMau": "Nhu Thuận Giản Hoàng hậu Đào thị",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/L%C3%AAhi%C3%AAnT%C3%B4ng.jpg/272px-L%C3%AAhi%C3%AAnT%C3%B4ng.jpg"
 },
 {
   "name": "Lê Mẫn Đế 黎愍帝",
@@ -2295,7 +2423,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Lê Duy Vĩ",
   "thanMau": "Mẫn Thái hậu",
-  "theThiep": "Nguyễn Thị Kim"
+  "theThiep": "Nguyễn Thị Kim",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/o0fpah3skpsdy53obzxrgsi9x9kjnpn.png"
 },
 {
   "name": "Trịnh Thế Tổ Trịnh Kiểm 鄭檢",
@@ -2315,7 +2444,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Lâu",
   "thanMau": "Hoàng Thị Dốc",
-  "theThiep": "Lại Thị Ngọc Trân Nguyễn Thị Ngọc Bảo Trương Thị Ngọc Lãnh"
+  "theThiep": "Lại Thị Ngọc Trân Nguyễn Thị Ngọc Bảo Trương Thị Ngọc Lãnh",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tr%E1%BB%8Bnh_Ki%E1%BB%83m_%282%29.jpg/222px-Tr%E1%BB%8Bnh_Ki%E1%BB%83m_%282%29.jpg"
 },
 {
   "name": "Trịnh Cối 鄭檜",
@@ -2335,7 +2465,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Không rõ",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/5xz2l6b8aehuy26ml3v1udjr4d7suu7.png"
 },
 {
   "name": "Trịnh Thành Tổ Trịnh Tùng 鄭松",
@@ -2355,7 +2486,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Kiểm",
   "thanMau": "Nguyễn Thị Ngọc Bảo",
-  "theThiep": "Lại Thị Ngọc Nhu Đặng Thị Ngọc Bảo Cung phi họ Tô"
+  "theThiep": "Lại Thị Ngọc Nhu Đặng Thị Ngọc Bảo Cung phi họ Tô",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tr%E1%BB%8Bnh_T%C3%B9ng.png/150px-Tr%E1%BB%8Bnh_T%C3%B9ng.png"
 },
 {
   "name": "Trịnh Văn Tổ 鄭梉",
@@ -2375,7 +2507,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Tùng",
   "thanMau": "Đặng Thị Ngọc Dao",
-  "theThiep": "Trần Thị Ngọc Đài Nguyễn Thị Ngọc Tú Nguyễn Phúc Ngọc Súy Trần Thị Ngọc Am"
+  "theThiep": "Trần Thị Ngọc Đài Nguyễn Thị Ngọc Tú Nguyễn Phúc Ngọc Súy Trần Thị Ngọc Am",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/d/db/Tr%E1%BB%8Bnh_Tr%C3%A1ng.png"
 },
 {
   "name": "Trịnh Hoằng Tổ Trịnh Tạc 鄭柞",
@@ -2395,7 +2528,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Tráng",
   "thanMau": "Trần Thị Ngọc Đài",
-  "theThiep": "Vũ Thị Ngọc Lễ Trịnh Thị Ngọc Lung"
+  "theThiep": "Vũ Thị Ngọc Lễ Trịnh Thị Ngọc Lung",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tr%E1%BB%8Bnh_T%E1%BA%A1c.png"
 },
 {
   "name": "Trịnh Chiêu Tổ Trịnh Căn 鄭根",
@@ -2415,7 +2549,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Tạc",
   "thanMau": "Vũ Thị Ngọc Lễ",
-  "theThiep": "Nguyễn Thị Ngọc Phượng Phạm Thị Ngọc Quyền Ngô Thị Ngọc Uyên"
+  "theThiep": "Nguyễn Thị Ngọc Phượng Phạm Thị Ngọc Quyền Ngô Thị Ngọc Uyên",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tr%E1%BB%8Bnh_C%C4%83n.png"
 },
 {
   "name": "Trịnh Hy Tổ Trịnh Cương 鄭棡",
@@ -2435,7 +2570,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Bính",
   "thanMau": "Trương Thị Ngọc Chử (mẹ sinh) Nguyễn Thị Cảo (nhũ mẫu, mẹ nuôi)",
-  "theThiep": "Chính phi Trịnh thị Thái phi Vũ Thị Ngọc Nguyên Kỳ viên Đặng thị"
+  "theThiep": "Chính phi Trịnh thị Thái phi Vũ Thị Ngọc Nguyên Kỳ viên Đặng thị",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng.png"
 },
 {
   "name": "Trịnh Dụ Tổ Trịnh Giang 鄭杠",
@@ -2455,7 +2591,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Cương",
   "thanMau": "Vũ Thị Ngọc Nguyên",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tr%E1%BB%8Bnh_Giang.png/150px-Tr%E1%BB%8Bnh_Giang.png"
 },
 {
   "name": "Trịnh Nghị Tổ Trịnh Doanh 鄭楹",
@@ -2475,7 +2612,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Cương",
   "thanMau": "Vũ Thị Ngọc Nguyên",
-  "theThiep": "Nguyễn Thị Ngọc Vinh Nguyễn Thị Ngọc Diễm"
+  "theThiep": "Nguyễn Thị Ngọc Vinh Nguyễn Thị Ngọc Diễm",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tr%E1%BB%8Bnh_Doanh.png/150px-Tr%E1%BB%8Bnh_Doanh.png"
 },
 {
   "name": "Trịnh Thánh Tổ Trịnh Sâm 鄭森",
@@ -2495,7 +2633,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Doanh",
   "thanMau": "Nguyễn Thị Ngọc Diễm",
-  "theThiep": "Dương Thị Ngọc Hoan Đặng Thị Huệ"
+  "theThiep": "Dương Thị Ngọc Hoan Đặng Thị Huệ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tr%E1%BB%8Bnh_S%C3%A2m.png"
 },
 {
   "name": "Trịnh Cán 鄭檊",
@@ -2515,12 +2654,13 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Sâm",
   "thanMau": "Tuyên phi Đặng Thị Huệ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%C4%90%E1%BA%B7ng_Th%E1%BB%8B_Hu%E1%BB%87_v%C3%A0_Tr%E1%BB%8Bnh_C%C3%A1n.png"
 },
 {
   "name": "Trịnh Khải 鄭楷",
   "country": "Trịnh Vương",
-  "description": "Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 10 tháng 10 năm 1763 - 23 tháng 7 năm 1786), còn có tên gọi khác là Trịnh Khải (鄭楷) là vị chúa Trịnh.",
+  "description": "Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 10 tháng 10 năm 1763 - 23 tháng 7 năm 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh.",
   "triVi": "28 tháng 11 năm 1782 – 23 tháng 7 năm 1786 3 năm, 237 ngày",
   "sinh": "10 tháng 10 năm 1763",
   "mat": "23 tháng 7 năm 1786 (22–23 tuổi) Đàng Ngoài, Đại Việt",
@@ -2535,7 +2675,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Trịnh Sâm",
   "thanMau": "Dương Thị Ngọc Hoan",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tr%E1%BB%8Bnh_Kh%E1%BA%A3i.png"
 },
 {
   "name": "Trịnh Bồng 鄭槰",
@@ -2555,7 +2696,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Uy Nam Vương Trịnh Giang",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tr%E1%BB%8Bnh_B%E1%BB%93ng.png"
 },
 {
   "name": "Nguyễn Thái Tổ Tiên Vương 僊王",
@@ -2575,7 +2717,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Kim",
   "thanMau": "Triệu Tổ Tĩnh Hoàng hậu",
-  "theThiep": "Gia Dụ hoàng hậu Đoan Quốc Thái phu nhân Minh Đức Vương thái phi"
+  "theThiep": "Gia Dụ hoàng hậu Đoan Quốc Thái phu nhân Minh Đức Vương thái phi",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/6/67/Nguyen_hoang.jpg"
 },
 {
   "name": "Nguyễn Hy Tông Sãi Vương 仕王",
@@ -2595,7 +2738,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Hoàng",
   "thanMau": "Gia Dụ Hoàng hậu",
-  "theThiep": "Mạc Thị Giai"
+  "theThiep": "Mạc Thị Giai",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Th%E1%BA%BF_t%E1%BB%AD_Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn_%E1%BB%9F_%C4%90%C3%A0ng_Trong%2C_th%E1%BA%BF_k%E1%BB%B7_17.jpg"
 },
 {
   "name": "Nguyễn Thần Tông Thượng Vương 上王",
@@ -2615,7 +2759,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Nguyên",
   "thanMau": "Mạc Thị Giai",
-  "theThiep": "Đoàn Thị Ngọc"
+  "theThiep": "Đoàn Thị Ngọc",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/fkkre5ywhymcqomhfotcaewfbcz77oi.png"
 },
 {
   "name": "Nguyễn Thái Tông Hiền Vương 賢王",
@@ -2635,7 +2780,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Lan",
   "thanMau": "Đoàn Quý phi",
-  "theThiep": "Chu Thị Viên Tống Thị Đôi"
+  "theThiep": "Chu Thị Viên Tống Thị Đôi",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/he5kb2e3mndem8tdm3c9eudupcaeiv8.png"
 },
 {
   "name": "Nguyễn Anh Tông Nghĩa vương 義王",
@@ -2655,7 +2801,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Tần",
   "thanMau": "Tống Thị Đôi",
-  "theThiep": "Tống Thị Lĩnh"
+  "theThiep": "Tống Thị Lĩnh",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/en5f45o7tevao989gvyy9xfjkhyvvzh.png"
 },
 {
   "name": "Nguyễn Hiển Tông Minh Vương 明王",
@@ -2675,7 +2822,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Thái",
   "thanMau": "Tống Thị Lĩnh",
-  "theThiep": "Tống Thị Được"
+  "theThiep": "Tống Thị Được",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/ir5rcyie53ptmm3fos3woz9lul2i5ep.png"
 },
 {
   "name": "Nguyễn Túc Tông Ninh Vương 寧王",
@@ -2695,7 +2843,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Chu",
   "thanMau": "Tống Thị Được",
-  "theThiep": "Trương Thị Thư"
+  "theThiep": "Trương Thị Thư",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/hou1yq09aiywjhjd5wkhiibai0jtjy3.png"
 },
 {
   "name": "Nguyễn Thế Tông Vũ Vương 武王",
@@ -2715,7 +2864,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Chú",
   "thanMau": "Trương Thị Thư",
-  "theThiep": "Trương Thị Dung Trần Thị Xạ Nguyễn Phúc Ngọc Cầu và nhiều cung tần khác"
+  "theThiep": "Trương Thị Dung Trần Thị Xạ Nguyễn Phúc Ngọc Cầu và nhiều cung tần khác",
+  "pictureLink": "Không có ảnh"
 },
 {
   "name": "Nguyễn Duệ Tông Định Vương 定王",
@@ -2735,7 +2885,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Khoát",
   "thanMau": "Nguyễn Phúc Ngọc Cầu",
-  "theThiep": "Nguyễn Thị Châu"
+  "theThiep": "Nguyễn Thị Châu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/i642um7rt7rqnqv0elnp4mpy9bkxbx6.png"
 },
 {
   "name": "Tân Chính Vương 新政王",
@@ -2755,7 +2906,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Hạo",
   "thanMau": "Không rõ",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/jahpxxzvwjfr6xm29lbfaztskufr273.png"
 },
 {
   "name": "Thái Đức Đế 泰德帝",
@@ -2775,7 +2927,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hồ Phi Phúc",
   "thanMau": "Không rõ",
-  "theThiep": "Trần Thị Huệ Ya Dố Đặng Thị Tuyết"
+  "theThiep": "Trần Thị Huệ Ya Dố Đặng Thị Tuyết",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NguyenNhac.jpg/250px-NguyenNhac.jpg"
 },
 {
   "name": "Quang Trung Hoàng Đế 光中皇帝",
@@ -2795,7 +2948,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Hồ Phi Phúc",
   "thanMau": "Không rõ",
-  "theThiep": "Chính cung hoàng hậu Phạm Thị Liên Chính cung hoàng hậu Bùi Thị Nhạn Bắc cung hoàng hậu Lê Ngọc Hân Sở Nguyệt Thị (Tiệp dư) Nguyễn Thị Bích (Tiệp dư)"
+  "theThiep": "Chính cung hoàng hậu Phạm Thị Liên Chính cung hoàng hậu Bùi Thị Nhạn Bắc cung hoàng hậu Lê Ngọc Hân Sở Nguyệt Thị (Tiệp dư) Nguyễn Thị Bích (Tiệp dư)",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Quang_Trung_statue_02.jpg/250px-Quang_Trung_statue_02.jpg"
 },
 {
   "name": "Cảnh Thịnh Đế 景盛帝",
@@ -2815,7 +2969,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Quang Trung",
   "thanMau": "Phạm Thị Liên",
-  "theThiep": "Lê Ngọc Bình"
+  "theThiep": "Lê Ngọc Bình",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/fj4zxh3gsvix51hotvrj8a1izap984u.png"
 },
 {
   "name": "Nguyễn Thế Tổ Gia Long",
@@ -2835,7 +2990,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Luân",
   "thanMau": "Nguyễn Thị Hoàn",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Emperor_Gia_Long.jpg/272px-Emperor_Gia_Long.jpg"
 },
 {
   "name": "Nguyễn Thánh Tổ Minh Mạng 明命",
@@ -2855,7 +3011,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Gia Long",
   "thanMau": "Thuận Thiên Cao Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Minh_Mang.gif/250px-Minh_Mang.gif"
 },
 {
   "name": "Nguyễn Hiến Tổ Thiệu Trị 紹治",
@@ -2875,7 +3032,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Thánh Tổ Minh Mạng",
   "thanMau": "Tá Thiên Nhân Hoàng hậu Hồ Thị Hoa",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/timeline/bofalamplmfrapmqhbf2fi5nhjt3dck.png"
 },
 {
   "name": "Nguyễn Dực Tông Tự Đức 嗣德",
@@ -2895,7 +3053,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Thiệu Trị",
   "thanMau": "Từ Dụ",
-  "theThiep": "Lệ Thiên Anh Hoàng hậu"
+  "theThiep": "Lệ Thiên Anh Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vua_T%E1%BB%B1_%C4%90%E1%BB%A9c.jpg/300px-Vua_T%E1%BB%B1_%C4%90%E1%BB%A9c.jpg"
 },
 {
   "name": "Nguyễn Cung Tông Dục Đức 育德",
@@ -2915,7 +3074,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Hồng Y",
   "thanMau": "Trần Thị Nga",
-  "theThiep": "Từ Minh Huệ Hoàng hậu"
+  "theThiep": "Từ Minh Huệ Hoàng hậu",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/An_lang.jpg/272px-An_lang.jpg"
 },
 {
   "name": "Hiệp Hòa 協和",
@@ -2935,7 +3095,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Hiến Tổ Thiệu Trị",
   "thanMau": "Thụy tần Trương Thị Thận",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Hiep_Hoa.jpg/250px-Hiep_Hoa.jpg"
 },
 {
   "name": "Nguyễn Giản Tông Kiến Phúc 建福",
@@ -2955,7 +3116,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Hồng Cai",
   "thanMau": "Bùi Thị Thanh",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kien_Phuc.jpg/250px-Kien_Phuc.jpg"
 },
 {
   "name": "Hàm Nghi 咸宜",
@@ -2975,7 +3137,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Hồng Cai",
   "thanMau": "Phan Thị Nhàn",
-  "theThiep": "Marcelle Laloe"
+  "theThiep": "Marcelle Laloe",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg/270px-Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg"
 },
 {
   "name": "Nguyễn Cảnh Tông Đồng Khánh 同慶",
@@ -2995,7 +3158,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Nguyễn Phúc Hồng Cai",
   "thanMau": "Bùi Thị Thanh",
-  "theThiep": "Phụ Thiên Thuần hoàng hậu Hựu Thiên Thuần hoàng hậu và nhiều bà phi khác."
+  "theThiep": "Phụ Thiên Thuần hoàng hậu Hựu Thiên Thuần hoàng hậu và nhiều bà phi khác.",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DongKhanh.jpg/225px-DongKhanh.jpg"
 },
 {
   "name": "Thành Thái 成泰",
@@ -3015,7 +3179,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Dục Đức",
   "thanMau": "Từ Minh Huệ Hoàng hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vua_Th%C3%A0nh_Th%C3%A1i.jpg/220px-Vua_Th%C3%A0nh_Th%C3%A1i.jpg"
 },
 {
   "name": "Duy Tân 維新",
@@ -3035,7 +3200,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Thành Thái",
   "thanMau": "Nguyễn Thị Định",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vua_Duy_Tan_nho.jpg/250px-Vua_Duy_Tan_nho.jpg"
 },
 {
   "name": "Nguyễn Hoằng Tông Khải Định 啓定",
@@ -3055,7 +3221,8 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Đồng Khánh",
   "thanMau": "Hựu Thiên Thuần Hoàng hậu",
-  "theThiep": "Hoàng Quý phi Trương Như Thị Tịnh Ân phi Hồ Thị Chỉ Huệ phi Hoàng Thị Cúc vài bà phi tần khác"
+  "theThiep": "Hoàng Quý phi Trương Như Thị Tịnh Ân phi Hồ Thị Chỉ Huệ phi Hoàng Thị Cúc vài bà phi tần khác",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Emperor_Khai_Dinh_1916b.jpg/300px-Emperor_Khai_Dinh_1916b.jpg"
 },
 {
   "name": "Bảo Đại 保大",
@@ -3075,6 +3242,7 @@
   "tonGiao": "Không rõ",
   "thanPhu": "Khải Định",
   "thanMau": "Từ Cung Hoàng thái hậu",
-  "theThiep": "Không rõ"
+  "theThiep": "Không rõ",
+  "pictureLink": "https://upload.wikimedia.org/wikipedia/vi/thumb/6/6f/Baodai1.jpg/220px-Baodai1.jpg"
 }
 ]

@@ -1,7 +1,5 @@
 package hust.soict.oop.scraper.figure;
 
-import hust.soict.oop.scraper.figure.Figure;
-
 import java.util.List;
 import java.util.ArrayList;
 
@@ -137,8 +135,9 @@ public class VanSuDataCollector extends FigureDataCollector {
         
     }
     
-    public static void main(String[] args) throws IOException{
-        VanSuDataCollector vs = new VanSuDataCollector();
-        vs.getData(vs.getAllUrls("https://vansu.vn/viet-nam/viet-nam-nhan-vat"));
-    }
+    // public static void main(String[] args) throws IOException{
+    //     VanSuDataCollector vs = new VanSuDataCollector();
+    //     System.out.println(vs.getAllUrls("https://vansu.vn/viet-nam/viet-nam-nhan-vat").size());
+    // }
+    //2391 nv
 }

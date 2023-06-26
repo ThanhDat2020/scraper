@@ -28,6 +28,15 @@ public class King {
 	public String thanPhu;
 	public String thanMau;
 	public String theThiep;
+
+	public String pictureLink;
+
+	public String getPictureLink() {
+		return pictureLink;
+	}
+	public void setPictureLink(String pictureLink) {
+		this.pictureLink = pictureLink;
+	}
 	
 	public String getCountry() {
 		return country;
