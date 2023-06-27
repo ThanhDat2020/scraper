@@ -4,12 +4,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.regex.*;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import com.google.gson.Gson;
@@ -18,23 +18,39 @@ import com.google.gson.GsonBuilder;
 import hust.soict.oop.scraper.festival.Festival;
 
 public class FestivalDataCollector {
-
+	
+	private static String timeReformatter(String time) {
+		String tmp[] = time.split("[ngày|tháng|năm|[-]+|đến hết|,|(\\\\b([0-9]|[1-9][0-9]|100)\\\\b)| ]");
+		String result = "";
+		if (tmp.length == 0) {
+			result = time.replace(" tháng ", "/");
+			result = result.replace(" năm ", "/");
+			result = result.replace("ngày ", "");
+			
+			return result;
+		}
+		else return time;
+	}
+	
     private static String getCleanData(String data) {
-        String array[] = data.split("(\\[)(\\b([0-9]|[1-9][0-9]|100)\\b)(\\])");
+        String array[] = data.split("(\\[)(\\b([0-9]|[1-9][0-9]|100)\\b)(\\])"); //Get rid of reference hyperlinks
         String result = "";
         for (int i = 0; i < array.length; i++) {
             result += array[i];
         }
+        
         return result;
     }
     
-    private static Map<String, Object> insertData(String name, String date, String description, String location) {
-    	Map<String, Object> data = new HashMap<String, Object>();
-    	data.put("name", name);
-        data.put("date", date);
-        data.put("description", description);
-        data.put("location", location);
-        return data;
+    private static Festival insertData(String name, String date, String description, String location, Image image, String source) {
+    	Festival festival = new Festival();
+    	festival.setName(name);
+    	festival.setDate(date);
+    	festival.setDescription(description);
+    	festival.setLocation(location);
+    	festival.setImage(image);
+    	festival.setSource(source);
+        return festival;
     }
     
 	public static void main(String[] args) {
@@ -42,7 +58,7 @@ public class FestivalDataCollector {
             String link = "https://vi.wikipedia.org/wiki/C%C3%A1c_ng%C3%A0y_l%E1%BB%85_%E1%BB%9F_Vi%E1%BB%87t_Nam";
             Document doc;
             doc = Jsoup.connect(link).get();
-            ArrayList<Map<String, Object>> festivalList = new ArrayList<Map<String, Object>>();
+            ArrayList<Festival> festivalList = new ArrayList<Festival>();
             
             Elements listTable = doc.select(".wikitable");
             for (int i = 0; i < listTable.size(); i++) {
@@ -50,35 +66,81 @@ public class FestivalDataCollector {
 
                 for (int j = 1; j < listTr.size(); j++) {
                     String name = "", date = "", description = "", location = "";
+                    String source = "";
+                    Image image = new Image();
                 	Elements listTd = listTr.get(j).select("td");
-                    
                     if (i == 0) {
                         for (int k = 0; k < listTd.size(); k++) {
-                        	if (k == 0) name = getCleanData(listTd.get(k).text().trim());
-                        	else if (k == 1) date = getCleanData(listTd.get(k).text().trim());
+                        	if (k == 0) {
+                        		name = getCleanData(listTd.get(k).text().trim());
+                        		if (listTd.get(k).firstElementChild() != null) {		
+	                                String href = listTd.get(k).firstElementChild().attr("href");
+	                                Document imageDoc = null;
+	                                if (href != "") {
+	                                	try {
+	                        				imageDoc = Jsoup.connect("https://vi.wikipedia.org/"+href).get();
+	                        			} catch (IOException e) {
+	                        				e.printStackTrace();
+	                        			}
+	                                	Elements imageSrc = imageDoc.getElementsByClass("mw-file-description");
+	                                	for (int x = 0; x < imageSrc.size();) {
+		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
+		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
+		                    				if (imageUrl != "" && caption != "") {
+		                        				image.setImageUrl(imageUrl);
+		                        				image.setCaption(caption);
+		                        				break;
+		                    				}
+		                    				else {
+		                    					image.setImageUrl("Not Available");
+		                    					image.setCaption("Not Available");
+		                    					break;
+		                    				}
+	                                	}	
+	                                }
+                        		}
+                        	}	
+                        	
+                        	else if (k == 1) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));
                         	else if (k == 2) {
                         		String descField = listTd.get(k).text().trim();
-                        		if (descField != "") {
-                        			description = getCleanData(listTd.get(k).text().trim());
-                        		}
-                        		else description = "Not Available";
+                        		description = (descField != "") ? getCleanData(listTd.get(k).text().trim()) : "Not Available";
                         	}
                         }
-                        location = "Nationwide";
+                        location = "Toàn quốc";
                     }
 
                     else if (i == 1) {
                         for (int k = 0; k < listTd.size(); k++) {
-                            if (k == 0) date = getCleanData(listTd.get(k).text().trim());
+                            if (k == 0) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));
                             else if (k == 1) {
                                 name = getCleanData(listTd.get(k).text().trim());
                                 if (listTd.get(k).firstElementChild() != null) {
 	                                String href1 = listTd.get(k).firstElementChild().attr("href");
+	                                Document imgNDescDoc = null;
 	                                if (href1 != "") {
-	                                    String getFestivalDesc = "https://vi.wikipedia.org" + href1;
-	                                    Document docDesc = Jsoup.connect(getFestivalDesc).get();
-	                                    Elements listDesc = docDesc.select("#mw-content-text > div.mw-parser-output > p");
-	                                    Elements listDesc1 = docDesc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
+	                                	try {
+	                        				imgNDescDoc = Jsoup.connect("https://vi.wikipedia.org/"+href1).get();
+	                        			} catch (IOException e) {
+	                        				e.printStackTrace();
+	                        			}
+	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
+	                                	for (int x = 0; x < imageSrc.size();) {
+		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
+		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
+		                    				if (imageUrl != "" && caption != "") {
+		                        				image.setImageUrl(imageUrl);
+		                        				image.setCaption(caption);
+		                        				break;
+		                    				}
+		                    				else {
+		                    					image.setImageUrl("Not Available");
+		                    					image.setCaption("Not Available");
+		                    					break;
+		                    				}
+	                                	}
+	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
+	                                    Elements listDesc1 = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
 	                                    if  (listDesc1.isEmpty()) {
 	                                    	description = getCleanData(listDesc.get(0).text().trim());
 	                                    }
@@ -98,26 +160,40 @@ public class FestivalDataCollector {
 
                     else if (i == 2) {
                         for (int k = 0; k < listTd.size(); k++) {											 
-                            if (k == 0) date = getCleanData(listTd.get(k).text().trim());	          																
+                            if (k == 0) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));	          																
                             else if (k == 1){			
-                            	Elements brElements = listTd.get(k).select("br");
-                            	if(!brElements.isEmpty()) {
-                            		name = listTd.get(k).text().trim();
-                            	}
-                            	else name = getCleanData(listTd.get(k).text().trim());		  
+                            	name = getCleanData(listTd.get(k).text().trim());
+                            	name = name.split("\\)")[0] + ")";
                                 if (listTd.get(k).firstElementChild() != null) {		
 	                                String href2 = listTd.get(k).firstElementChild().attr("href");
+	                                Document imgNDescDoc = null;
 	                                if (href2 != "") {
-	                                    String getFestivalDesc = "https://vi.wikipedia.org" + href2;
-	                                    Document docDesc = Jsoup.connect(getFestivalDesc).get();
-	                                    Elements listDesc = docDesc.select("#mw-content-text > div.mw-parser-output > p");
-	                                    Elements listDesc2 = docDesc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
-	                                    if  (listDesc2.isEmpty()) {
+	                                	try {
+	                        				imgNDescDoc = Jsoup.connect("https://vi.wikipedia.org/"+href2).get();
+	                        			} catch (IOException e) {
+	                        				e.printStackTrace();
+	                        			}
+	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
+	                                	for (int x = 0; x < imageSrc.size();) {
+		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
+		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
+		                    				if (imageUrl != "" && caption != "") {
+		                        				image.setImageUrl(imageUrl);
+		                        				image.setCaption(caption);
+		                        				break;
+		                    				}
+		                    				else {
+		                    					image.setImageUrl("Not Available");
+		                    					image.setCaption("Not Available");
+		                    					break;
+		                    				}
+	                                	}
+	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
+	                                    Elements listDesc1 = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
+	                                    if  (listDesc1.isEmpty()) {
 	                                    	description = getCleanData(listDesc.get(0).text().trim());
 	                                    }
-	                                    else {
-	                                    	description = getCleanData(listDesc.get(1).text().trim());
-	                                    }
+	                                    else description = getCleanData(listDesc.get(1).text().trim());
 	                                }
 	                                else {
 	                                	description = "Not Available";
@@ -128,27 +204,44 @@ public class FestivalDataCollector {
                                 }
                             }
                         }
-                        location = "Nationwide";
+                        location = "Toàn quốc";
                     }
                     
                     else {
                     	for (int k = 0; k < listTd.size(); k++) {
-                        	if (k == 0) date = getCleanData(listTd.get(k).text().trim());
+                        	if (k == 0) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));
                         	else if (k == 1) {
                         		name = getCleanData(listTd.get(k).text().trim());
                         		if (listTd.get(k).firstElementChild() != null) {		
-	                                String href2 = listTd.get(k).firstElementChild().attr("href");
-	                                if (href2 != "") {
-	                                    String getFestivalDesc = "https://vi.wikipedia.org" + href2;
-	                                    Document docDesc = Jsoup.connect(getFestivalDesc).get();
-	                                    Elements listDesc = docDesc.select("#mw-content-text > div.mw-parser-output > p");
-	                                    Elements listDesc2 = docDesc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
-	                                    if  (listDesc2.isEmpty()) {
+	                                String href3 = listTd.get(k).firstElementChild().attr("href");
+	                                Document imgNDescDoc = null;
+	                                if (href3 != "") {
+	                                	try {
+	                        				imgNDescDoc = Jsoup.connect("https://vi.wikipedia.org/"+href3).get();
+	                        			} catch (IOException e) {
+	                        				e.printStackTrace();
+	                        			}
+	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
+	                                	for (int x = 0; x < imageSrc.size();) {
+		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
+		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
+		                    				if (imageUrl != "" && caption != "") {
+		                        				image.setImageUrl(imageUrl);
+		                        				image.setCaption(caption);
+		                        				break;
+		                    				}
+		                    				else {
+		                    					image.setImageUrl("Not Available");
+		                    					image.setCaption("Not Available");
+		                    					break;
+		                    				}
+	                                	}
+	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
+	                                    Elements listDesc1 = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p.mw-empty-elt");
+	                                    if  (listDesc1.isEmpty()) {
 	                                    	description = getCleanData(listDesc.get(0).text().trim());
 	                                    }
-	                                    else {
-	                                    	description = getCleanData(listDesc.get(1).text().trim());
-	                                    }
+	                                    else description = getCleanData(listDesc.get(1).text().trim());
 	                                }
 	                                else {
 	                                	description = "Not Available";
@@ -159,10 +252,11 @@ public class FestivalDataCollector {
                                 }
                         	}
                         }
-                        location = "Nationwide";
+                        location = "Toàn quốc";
                     }
                     
-                    festivalList.add(insertData(name, date, description, location));
+                    source = link;
+                    festivalList.add(insertData(name, date, description, location, image, source));
 
                 }
             }
@@ -175,6 +269,6 @@ public class FestivalDataCollector {
             }
         } catch (Exception e) {
             e.printStackTrace();
-        }   
+        }
     }
 }
