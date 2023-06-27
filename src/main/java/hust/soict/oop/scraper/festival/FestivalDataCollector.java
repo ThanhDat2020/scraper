@@ -153,7 +153,7 @@ public class FestivalDataCollector {
                             if (k == 0) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));	          																
                             else if (k == 1){			
                             	name = getCleanData(listTd.get(k).text().trim());
-                            	name = name.split("\\)")[0] + ")";
+                            	if (name.contains(")")) name = name.split("\\)")[0] + ")";
                                 if (listTd.get(k).firstElementChild() != null) {		
 	                                String href2 = listTd.get(k).firstElementChild().attr("href");
 	                                Document imgNDescDoc = null;
