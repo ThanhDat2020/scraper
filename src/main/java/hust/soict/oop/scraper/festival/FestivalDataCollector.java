@@ -83,7 +83,7 @@ public class FestivalDataCollector {
 	                        				e.printStackTrace();
 	                        			}
 	                                	Elements imageSrc = imageDoc.getElementsByClass("mw-file-description");
-	                                	for (int x = 0; x < imageSrc.size();) {
+	                                	for (int x = 0; x < imageSrc.size(); x++) {
 		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
 		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
 		                    				if (imageUrl != "" && caption != "") {
@@ -91,15 +91,10 @@ public class FestivalDataCollector {
 		                        				image.setCaption(caption);
 		                        				break;
 		                    				}
-		                    				else {
-		                    					image.setImageUrl("Not Available");
-		                    					image.setCaption("Not Available");
-		                    					break;
-		                    				}
-	                                	}	
+	                                	}
 	                                }
                         		}
-                        	}	
+                        	}
                         	
                         	else if (k == 1) date = timeReformatter(getCleanData(listTd.get(k).text().trim()));
                         	else if (k == 2) {
@@ -125,18 +120,13 @@ public class FestivalDataCollector {
 	                        				e.printStackTrace();
 	                        			}
 	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
-	                                	for (int x = 0; x < imageSrc.size();) {
+	                                	for (int x = 0; x < imageSrc.size(); x++) {
 		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
 		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
 		                    				if (imageUrl != "" && caption != "") {
 		                        				image.setImageUrl(imageUrl);
 		                        				image.setCaption(caption);
 		                        				break;
-		                    				}
-		                    				else {
-		                    					image.setImageUrl("Not Available");
-		                    					image.setCaption("Not Available");
-		                    					break;
 		                    				}
 	                                	}
 	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
@@ -174,18 +164,13 @@ public class FestivalDataCollector {
 	                        				e.printStackTrace();
 	                        			}
 	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
-	                                	for (int x = 0; x < imageSrc.size();) {
+	                                	for (int x = 0; x < imageSrc.size(); x++) {
 		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
 		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
 		                    				if (imageUrl != "" && caption != "") {
 		                        				image.setImageUrl(imageUrl);
 		                        				image.setCaption(caption);
 		                        				break;
-		                    				}
-		                    				else {
-		                    					image.setImageUrl("Not Available");
-		                    					image.setCaption("Not Available");
-		                    					break;
 		                    				}
 	                                	}
 	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
@@ -222,18 +207,13 @@ public class FestivalDataCollector {
 	                        				e.printStackTrace();
 	                        			}
 	                                	Elements imageSrc = imgNDescDoc.getElementsByClass("mw-file-description");
-	                                	for (int x = 0; x < imageSrc.size();) {
+	                                	for (int x = 0; x < imageSrc.size(); x++) {
 		                                	String imageUrl = (imageSrc.get(x) == null || imageSrc.get(x).attr("href").contains(".svg|.SVG")) ? "" : imageSrc.get(x).attr("href");
 		                    				String caption = (imageSrc.get(x).nextElementSibling() == null) ? "" : imageSrc.get(x).nextElementSibling().text();
 		                    				if (imageUrl != "" && caption != "") {
 		                        				image.setImageUrl(imageUrl);
 		                        				image.setCaption(caption);
 		                        				break;
-		                    				}
-		                    				else {
-		                    					image.setImageUrl("Not Available");
-		                    					image.setCaption("Not Available");
-		                    					break;
 		                    				}
 	                                	}
 	                                    Elements listDesc = imgNDescDoc.select("#mw-content-text > div.mw-parser-output > p");
