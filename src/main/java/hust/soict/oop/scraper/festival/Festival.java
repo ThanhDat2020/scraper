@@ -1,34 +1,69 @@
 package hust.soict.oop.scraper.festival;
 import java.util.*;
 
+class Image {
+	
+	private String imageUrl;
+	private String caption;
+
+	public Image() {
+		super();
+	}
+	
+	public Image(String imageUrl, String caption) {
+		super();
+		this.imageUrl = imageUrl;
+		this.caption = caption;
+	}
+	public String getImageUrl() {
+		return imageUrl;
+	}
+	public void setImageUrl(String imageUrl) {
+		this.imageUrl = imageUrl;
+	}
+	public String getCaption() {
+		return caption;
+	}
+	public void setCaption(String caption) {
+		this.caption = caption;
+	}
+	
+}
+
 public class Festival {
     private String name;
     private String date;
     private String location;
     private String description;
+    private Image image;
     private List<String> historicalFigures;
     private String significance;
     private String cause;
     private String outcome;
     private List<String> relatedEvents;
-    private List<String> sources;
+    private String source;
 
     // Constructor
-    public Festival(String name, String date, String location, String description) {
+    public Festival(String name, String date, String location, String description, Image image, String source) {
         this.name = name;
         this.date = date;
         this.location = location;
         this.description = description;
-        this.historicalFigures = new ArrayList<>();
-        this.relatedEvents = new ArrayList<>();
-        this.sources = new ArrayList<>();
+        this.image = image;
+        this.source = source;
+        //this.historicalFigures = new ArrayList<>();
+        //this.relatedEvents = new ArrayList<>();
+    }
+    
+    public Festival() {
+    		
     }
 
     // Getters and Setters for the attributes
     public String getName() {
         return name;
     }
-
+    
     public void setName(String name) {
         this.name = name;
     }
@@ -53,6 +88,14 @@ public class Festival {
         return description;
     }
 
+    public Image getImage() {
+		return image; 
+	}
+
+	public void setImage(Image image) {
+		this.image = image;
+	}
+    
     public void setDescription(String description) {
         this.description = description;
     }
@@ -97,11 +140,11 @@ public class Festival {
         this.relatedEvents.add(relatedEvent);
     }
 
-    public List<String> getSources() {
-        return sources;
+    public String getSource() {
+        return source;
     }
 
-    public void addSource(String source) {
-        this.sources.add(source);
+    public void setSource(String source) {
+        this.source = source;
     }
 }
