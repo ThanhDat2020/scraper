@@ -40,3 +40,8 @@
 .scroll-pane > .corner {
     -fx-background-color: black;
 }
+
+.detail-button:hover {
+    -fx-background-color: #2A73FF;
+    -fx-text-fill: white;
+}
