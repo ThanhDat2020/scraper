@@ -1,7 +1,5 @@
 package hust.soict.oop.scraper.figure;
 
-import hust.soict.oop.scraper.figure.Figure;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
@@ -132,10 +130,11 @@ public class NKSDataCollector  extends FigureDataCollector{
     }
     
 
-    public static void main(String[] args) throws IOException {
-        NKSDataCollector nks = new NKSDataCollector();
-        List<String> allLinks= nks.getAllUrls("https://nguoikesu.com/nhan-vat");
-        nks.getData(allLinks);
-    }
+    // public static void main(String[] args) throws IOException {
+    //     NKSDataCollector nks = new NKSDataCollector();
+    //     List<String> allLinks= nks.getAllUrls("https://nguoikesu.com/nhan-vat");
+    //     System.out.println(allLinks.size());
+    // }
+    // 1452 nv
     
 }

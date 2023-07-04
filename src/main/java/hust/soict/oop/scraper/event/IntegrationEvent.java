@@ -136,7 +136,7 @@ public class IntegrationEvent {
             combinedList.addAll(wikiEventList);
             combinedList.addAll(qnlEventList);
             System.out.println("Total: " + combinedList.size() + " events");
-//            integration.saveEventsToJson(objectMapper, combinedList, NEW_EVENTS_JSON_PATH);
+            integration.saveEventsToJson(objectMapper, combinedList, NEW_EVENTS_JSON_PATH);
             
         } catch (IOException e) {
             e.printStackTrace();

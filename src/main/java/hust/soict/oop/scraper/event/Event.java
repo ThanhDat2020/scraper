@@ -124,6 +124,13 @@ public class Event {
 		this.source = source;
 	}
 
+	public String getDate() {
+		if (to.equals("")) {
+			return getFrom();
+		}
+		return getFrom() + " - " + getTo();
+	}
+	
 	@Override
 	public String toString() {
 		return getTo() == "" ?
